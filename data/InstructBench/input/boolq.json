@@ -1,0 +1,1368 @@
+{
+  "train": [
+    {
+      "question": "passage: Tires are balanced in factories and repair shops by two methods: static balancers and dynamic balancers. Tires with high unbalance forces are downgraded or rejected. When tires are fitted to wheels at the point of sale, they are measured again on a balancing machine, and correction weights are applied to counteract the combined effect of the tire and wheel unbalance. After sale, tires may be rebalanced if driver perceives excessive vibration. Balancing is not to be confused with wheel alignment.\nquestion: is mount and balance the same as alignment",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: She attended Marymount High School, a Roman Catholic all-girls school in Los Angeles. Following graduation, she moved to Dallas, Texas, to attend Southern Methodist University for two years. Kourtney then lived in Tucson, Arizona, where she graduated from the University of Arizona with a bachelor's degree in Theatre Arts and a minor in Spanish. Her classmates included Nicole Richie and Luke Walton. In 1994, her father garnered public attention as an additional defense lawyer for football player O.J. Simpson during his murder trial.\nquestion: have any of the kardashians graduated from college",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Prince Albert (Glass Field) Airport (IATA: YPA, ICAO: CYPA) is located 1 nautical mile (1.9 km; 1.2 mi) northeast of Prince Albert, Saskatchewan, Canada.\nquestion: is there an airport in prince albert saskatchewan",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The title's gameplay and mechanics constitute a departure from the series' usual conventions, featuring an open-world environment, a detailed physics engine, high-definition visuals, and voice acting. Announced in 2013, the game was initially planned for release as a Wii U exclusive in 2015, but was delayed twice prior to its release on March 3, 2017. Breath of the Wild was a launch title for the Switch, as well as the final Nintendo-produced game for the Wii U.\nquestion: is zelda breath of the wild the last zelda game",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The memories also show that as a Death Eater, Snape had revealed to Voldemort a prophecy made by Sybill Trelawney, causing Voldemort to attempt to prevent it by killing Harry and his parents. Snape, who had not realised until too late that the prophecy was referring to Lily and her family, asked Voldemort to spare Lily. Still in terror for her life, he also approached Dumbledore, admitted his actions, and begged him to protect the Potters. Dumbledore chided him for thinking only of himself and not of Lily's husband and child, but agreed and ensured that they were placed under the Fidelius Charm. In return, Snape secretly allied himself with Dumbledore and the Order of the Phoenix as a double agent against Voldemort, using his powers of Occlumency to hide his betrayal from Voldemort. However, Snape demanded of Dumbledore that his love for Lily (his reason for switching sides) be kept a secret, especially from Harry, because of the deep animosity he felt towards Harry's father and his mixed feelings towards Harry (who reminded him of both his love for Lily Potter and her death, and his animosity towards James Potter). Dumbledore agreed and kept the secret throughout his life, although questioning Snape's request to ``never reveal the best of you''. Even with his efforts to protect her, Snape felt responsible for Lily's death at Voldemort's hands.\nquestion: is snape harry potter's father in the movie",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: There are five recognised candidates for EU membership that are not already EEA members: Albania (applied 2009), Macedonia (applied 2004), Montenegro (applied 2008, negotiating since June 2012), Serbia (applied 2009, negotiating since January 2014) and Turkey (applied 1987, negotiating since October 2005). Albania and Macedonia have not yet started negotiations to join, nor has the European Union set any negotiations start date. Bosnia and Herzegovina and Kosovo are considered potential candidates for membership. Bosnia and Herzegovina signed a Stabilisation and Association Agreement (SAA) with the EU and its member states, that went into effect in June 2015, which allowed the lodging of a membership application in February 2016, while Kosovo, whose independence is unrecognised by 5 EU member states, finalised negotiations on a SAA that went into effect in April 2016.\nquestion: is serbia part of the european economic area",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: There is no offside offence if a player receives the ball directly from a goal kick, a corner kick, or a throw-in. It is also not an offence if the ball was last deliberately played by an opponent (except for a deliberate save). In this context, according to the IFAB, ``A 'save' is when a player stops, or attempts to stop, a ball which is going into or very close to the goal with any part of the body except the hands/arms (unless the goalkeeper within the penalty area).''\nquestion: is there offsides on a goal kick in soccer",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Many languages are spoken, or historically have been spoken, in the United States. Today over 350 languages are used by the U.S. population. The most commonly used language is English (specifically, American English), which is the de facto national language of the United States. Since the 1965 Immigration Act, Spanish is the second most common language in the country. The United States does not have an official language, but some state governments recognize specific languages. For instance, the governments of Louisiana offers services and documents in French, as does New Mexico and Puerto Rico in Spanish. There are many languages indigenous to North America or to U.S. states or holdings in the Pacific region. Hawaiian, although having few native speakers, is an official language along with English of the state of Hawaii. Alaska officializes English and twenty native languages.\nquestion: is there an official language for the usa",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Most wine racks are designed to allow a wine to be stored on its side. The thinking behind this orientation is that the cork is more likely to stay moist and not dry out if it is kept in constant contact with the wine. Some wineries package their wines upside down in the box for much the same reason. Research in the late 1990s suggested that the ideal orientation for wine bottles is at a slight angle, rather than completely horizontal. This allows the cork to maintain partial contact with the wine in order to stay damp but also keeps the air bubble formed by a wine's ullage at the top rather than in the middle of the bottle if the wine is lying on its side. Keeping the ullage near the top, it has been argued, allows for a slower and more gradual oxidation and maturation process. This is because the pressure of the air bubble that is the ullage space rises and falls depending on temperature fluctuation. When exposed to higher temperatures the bubble's pressure increases (becomes positive relative to the air outside of the bottle), and if the wine is tilted at an angle, this compressed gas will diffuse through the cork and not harm the wine. When the temperature falls the process reverses. If the wine is completely on its side then this action will eject some wine through the cork. Through this ``breathing'' which can result from variations in temperature, oxygen may be repeatedly introduced into the bottle and as a result can react with the wine. An appropriate and constant temperature is therefore preferred. Additionally, oxidation will occur more rapidly at higher temperatures and gases dissolve into liquids faster the lower the temperature.\nquestion: should wine bottles be stored at an angle",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A judge is not allowed to enter a JNOV of ``guilty'' following a jury acquittal in United States criminal cases; such an action would violate a defendant's Fifth Amendment right not to be placed in double jeopardy and Sixth Amendment right to a trial by jury. If the judge grants a motion to set aside judgment after the jury convicts, however, this action may be reversed on appeal by the prosecution.\nquestion: can a judge overturn a jury verdict in a criminal case",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A recent case occurred in 2011. Jeremy, Ben and Beau Wise served in active combat roles in the Afghan War. Jeremy, a former Navy SEAL, was at a CIA base as a military contractor and was killed in 2009 when a suicide bomber attacked the base. Later in 2011, Ben, an Army Special Forces combat medic, was seriously wounded in Afghanistan and died of his injuries at Landstuhl Regional Medical Center. Beau was deployed in Afghanistan with the Marines at that time and was immediately relieved of combat duties and returned to the United States.\nquestion: can brothers be deployed at the same time",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Mantas evolved from bottom-dwelling stingrays, eventually developing more wing-like pectoral fins. M. birostris still has a vestigial remnant of a sting barb in the form of a caudal spine. The mouths of most rays lie on the underside of the head, while in mantas they are right at the front. Manta rays and devil rays are the only ray species that have evolved into filter feeders.\nquestion: do manta rays have barbs on their tails",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: There are shooting ranges in the United States open to the public, both indoor and outdoor. Both privately owned firearms or those rented from the shooting range may be used, depending on the range rules set by the owner. Ranges rent their own handguns and provide instruction in use of rental guns at shooting ranges by a range master or similar individual to help one to easily learn use of any rental firearm in just a few minutes. Major tourist destinations in gun-friendly U.S. States have such ``rental ranges'' to cater to the domestic and international tourists that want to try their hand at the shooting sports. Each shooting range facility in the United States is typically overseen by one or more range masters to ensure gun safety rules are always stringently followed.\nquestion: can tourists go to gun ranges in usa",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Cartier has offered the Love bracelet in 18k yellow gold, 18k ``pink'' (rose) gold, 18k white gold, and in platinum. Some bracelets are offered with diamonds in place of or in rotation with the screw-motif. Ceramic details and special colored precious gems have been offered as well. Pave diamond versions were made available in 2009. Cuff versions that do not close or lock are also available.\nquestion: does the cartier love bracelet come in silver",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The 2011 NBA Finals was the championship series of the 2010--11 season of the National Basketball Association (NBA) in which the Western Conference champion Dallas Mavericks defeated the Eastern Conference champion Miami Heat 4 games to 2 to win their first NBA championship. The series was held from May 31 to June 12, 2011. German player Dirk Nowitzki was named the Finals MVP, becoming the second European to win the award after Tony Parker (2007) and the first German player to do so. The series was a rematch of the 2006 NBA Finals, which the Heat had won in six games.\nquestion: did the dallas mavericks ever win the nba championship",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The litre (SI spelling) or liter (American spelling) (symbols L or l, sometimes abbreviated ltr ) is an SI accepted metric system unit of volume equal to 1 cubic decimetre (dm), 1,000 cubic centimetres (cm) or 1/1,000 cubic metre. A cubic decimetre (or litre) occupies a volume of 10 cm\u00d710 cm\u00d710 cm (see figure) and is thus equal to one-thousandth of a cubic metre.\nquestion: is 1 liter equal to 1 cubic decimeter",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: SQRRR or SQ3R is a reading comprehension method named for its five steps: survey, question, read, recite, and review. The method was introduced by Francis P. Robinson, an American education philosopher in his 1946 book Effective Study.\nquestion: in sq3r the 3 r's are in order review read recite",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: AFCI breakers have been required for circuits feeding electrical outlets in residential bedrooms by the electrical codes of Canada and the United States since the beginning of the 21st century; the U.S. National Electrical Code has required them to protect most residential outlets since 2014, and the Canadian Electrical Code has since 2015. In parts of the world using 230 V, where the higher voltage implies lower currents, specifically Western Europe and the UK, adoption is slower, and their use is optional, except in high risk cases.\nquestion: do all breakers have to be arc fault",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Kaori eventually dies due to the surgery, but leaves a letter to K\u014dsei, which is given to him by her parents at her funeral. The letter reveals that she was in love with K\u014dsei the whole time, and that her supposed feelings towards Watari were fabricated in order to get closer to K\u014dsei without emotionally injuring Tsubaki, who also has limerent feelings towards K\u014dsei. Although at first consumed with grief, K\u014dsei finds comfort in Tsubaki, who promises not to abandon him.\nquestion: does kaori die in your lie in april manga",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the United States, there was an attempt from 1919 to 1933 to eliminate the drinking of alcoholic beverages by means of a national prohibition of their manufacture and sale. This period became known as the Prohibition era. During this time, the 18th Amendment to the Constitution of the United States made the manufacture, sale, and transportation of alcoholic beverages illegal throughout the United States.\nquestion: was there a drinking age in the 1920's",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: On September 29, 2015, Justin Bieber announced in an interview with Australia's Sunrise morning show that British singer and songwriter Ed Sheeran had written a song for his then-upcoming album. Later, during an interview for Capital FM, Bieber revealed details about the song, saying: ``It's just me and a guitar. Basically that's how I started, playing on the street with a guitar.'' About Sheeran, he said: ``I think he's one of the most talented writers in the game right now, so just to have his input and his stories and our stories and match them up together and say 'What have you been through?,' and telling the same story.'' In another interview for the same radio network, he commented about the collaboration, stating: ``It was a process. Just getting us together, you know, in the same room cause we did a lot of it separate. He is a good guy, super talented. Really good songwriter so just to be able to work with that calibre of songwriter was really, really awesome.'' In 2017, Sheeran revealed that ``Love Yourself'' was written for his album \u00f7. He said in an interview that the track would have been scrapped before Bieber took the song.\nquestion: did ed sheeran write love yourself for justin",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Jockeys must be light to ride at the weights which are assigned to their mounts. There are horse carrying weight limits, that are set by racing authorities. The Kentucky Derby, for example, has a weight limit of 126 lb (57 kg) including the jockey's equipment. The weight of a jockey usually ranges from 108 to 118 lb (49 to 54 kg). Despite their light weight, they must be able to control a horse that is moving at 40 mph (64 km/h) and weighs 1,200 lb (540 kg). Though there is no height limit for jockeys, they are usually fairly short due to the weight limits. Jockeys typically stand around 4 ft 10 in (147 cm) to 5 ft 6 in (168 cm).\nquestion: do jockeys have to weigh a certain amount",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Nintendo DS Lite is compatible with Game Boy Advance and regular DS games. The DS Lite has a DS slot on top and the Game Boy slot on bottom. It also has a microphone and dual screens.\nquestion: can you play nintendo ds games on ds lite",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Side effects may include allergic reactions, high blood potassium, volume overload, and high blood calcium. It may not be suitable for mixing with certain medications and some recommend against use in the same infusion as a blood transfusion. Ringer's lactate solution has a lower rate of acidosis as compared with normal saline. Use is generally safe in pregnancy and breastfeeding. Ringer's lactate solution is in the crystalloid family of medication. It is the same tonicity as blood.\nquestion: is there a difference between saline and lactated ringer's",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. The following is a list of all Xbox 360 games compatible with the Xbox One under this functionality.\nquestion: can you use 360 games on xbox one",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Marine Corps has been a component of the U.S. Department of the Navy since 30 June 1834, working closely with naval forces. The USMC operates installations on land and aboard sea-going amphibious warfare ships around the world. Additionally, several of the Marines' tactical aviation squadrons, primarily Marine Fighter Attack squadrons, are also embedded in Navy carrier air wings and operate from the aircraft carriers.\nquestion: are the marines a branch of the army",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Adjectival noun is a term that was formerly synonymous with noun adjunct but is now usually used to mean ``an adjective used as a noun'' (i.e. the opposite process, as in the Irish meaning ``Irish people'' or the poor meaning ``poor people''). Japanese adjectival nouns are a different concept.\nquestion: can you use an adjective as a noun",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The mahi-mahi (/\u02c8m\u0251\u02d0hi\u02d0\u02c8m\u0251\u02d0hi\u02d0/) or common dolphinfish (Coryphaena hippurus) is a surface-dwelling ray-finned fish found in off-shore temperate, tropical, and subtropical waters worldwide. Also widely called dorado and dolphin, it is one of two members of the Coryphaenidae family, the other being the pompano dolphinfish.\nquestion: is mahi-mahi a type of dolphin",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Samuel Chase (April 17, 1741 -- June 19, 1811) was an Associate Justice of the United States Supreme Court and a signatory to the United States Declaration of Independence as a representative of Maryland. He was impeached on grounds of letting his partisan leanings affect his court decisions, but was acquitted by the Senate and remained in office.\nquestion: can you impeach a us supreme court justice",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Scotland national football team represents Scotland in international football and is controlled by the Scottish Football Association. It competes in the two major professional tournaments, the FIFA World Cup and the UEFA European Championship. Scotland, as a constituent country of the United Kingdom, is not a member of the International Olympic Committee and therefore the national team does not compete in the Olympic Games. The majority of Scotland's home matches are played at the national stadium, Hampden Park.\nquestion: does scotland have its own national soccer team",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The sixth and final season (also known as A Place to Call Home: The Final Chapter) of the Seven Network television series A Place to Call Home premiered on Showcase 19 August 2018. The series is produced by Chris Martin-Jones, and executive produced by Penny Win and Julie McGauran.\nquestion: will there be more episodes of a place to call home",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Lemony Snicket's A Series of Unfortunate Events (also simply known as A Series of Unfortunate Events) is a 2004 American gothic black comedy film directed by Brad Silberling. It is a film adaptation of A Series of Unfortunate Events by Lemony Snicket, covering the first three novels The Bad Beginning, The Reptile Room, and The Wide Window. The film stars Jim Carrey, Liam Aiken, Emily Browning, Timothy Spall, Catherine O'Hara, Billy Connolly, Cedric the Entertainer, Luis Guzm\u00e1n, Jennifer Coolidge and Meryl Streep, as well as Jude Law as the voice of Lemony Snicket. In truth, Lemony Snicket is the pen name of American born writer Daniel Handler.\nquestion: is there a movie for a series of unfortunate events",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Hiring Incentives to Restore Employment (HIRE) Act of 2010 (Pub.L. 111--147, 124 Stat. 71, enacted March 18, 2010, H.R. 2847) is a law in the 111th United States Congress to provide payroll tax breaks and incentives for businesses to hire unemployed workers. Often characterized as a ``jobs bill'', certain Democrats in Congress state that it is only one piece of a broader job creation legislative agenda, along with the Travel Promotion Act and other bills.\nquestion: is the hire act still in effect for 2018",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Morgan is shown over the series being flirtatious towards the team's technical analyst Penelope Garcia (Kirsten Vangsness). However, the relationship is platonic. He is shown to be confident and assertive, along with being very protective towards Spencer Reid (Matthew Gray Gubler), whom he helps to pick up girls. He is the muscle of the team, and usually storms in when a suspect requires apprehending physically.\nquestion: are derek and penelope dating on criminal minds",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Congress of the Confederation, or the Confederation Congress, formally referred to as the United States in Congress Assembled, was the governing body of the United States of America that existed from March 1, 1781, to March 4, 1789. A unicameral body with legislative and executive function, it comprised delegates appointed by the legislatures of the several states. Each state delegation had one vote. It was preceded by the Second Continental Congress (1775--1781) and governed under the newly adopted Articles of Confederation and Perpetual Union, which were proposed in 1776--1777, adopted by the Continental Congress in July 1778 and finally agreed to by a unanimous vote of all thirteen states by 1781, held up by a long dispute over the cession of western territories beyond the Appalachian Mountains to the central government led by Maryland and a coalition of smaller states without western claims, the plan introduced by Maryland politician John Hanson; the plan is referred to as 'The Hanson Plan'. The newly reorganized Congress at the time continued to refer itself as the Continental Congress throughout its eight-year history, although modern historians separate it from the earlier bodies, which operated under slightly different rules and procedures until the later part of American Revolutionary War. The membership of the Second Continental Congress automatically carried over to the Congress of the Confederation when the latter was created by the ratification of the Articles of Confederation. It had the same secretary as the Second Continental Congress, namely Charles Thomson. The Congress of the Confederation was succeeded by the Congress of the United States as provided for in the new Constitution of the United States, proposed September 17, 1787, in Philadelphia and ratified by the states through 1787 to 1788 and even into 1789 and 1790.\nquestion: did the articles of confederation establish a congress",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: After retiring as a player, Zidane transitioned into coaching, becoming assistant coach at Real Madrid under Carlo Ancelotti for the 2013--14 season. After a successful year in which the club won the UEFA Champions League and Copa del Rey, Zidane became the coach of Real Madrid's B team, Real Madrid Castilla. He remained in the position for two years before taking the helm of the first team in January 2016. In his first two seasons as manager, Zidane won the UEFA Champions League twice, a La Liga title, a Supercopa de Espa\u00f1a, and both the UEFA Super Cup and FIFA Club World Cup twice. His success saw him named Best FIFA Men's Coach in 2017. In 2018, Zidane led Real Madrid to another UEFA Champions League, his third in a row, becoming the only coach in the history of football to win three consecutive UEFA Champions League titles. A few days after the victory, he resigned as Real Madrid coach.\nquestion: did zidane won la liga as a coach",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A turn on red is a principle of law permitting vehicles at a traffic light showing a red signal to turn into the direction of traffic nearer to them (almost always after a complete stop) when the way is clear, without having to wait for a green signal. It is intended to allow traffic to resume moving, with minimal risk provided that proper caution is observed.\nquestion: are you allowed to make a right turn on red",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The game supports both single-player and up to four player cooperative mode while being online; there is no local online multiplayer. The game's quest system is the same in both modes. Players gather in multiplayer servers supporting up to sixteen players, during which they can post quests to invite others to join, or join other existing quests as long as they have progressed far enough in the game's storyline. If there are only one or two hunters on a quest, each brings with them a Palico (an anthropomorphic sentient cat species) to assist them in combat; these Palico can be equipped with weapons and armor crafted in the same manner as the hunter themselves. If there are less than four players in a party, a party member can launch a red SOS flare, which other players, while in their instance of Astera, can opt to join to help out, creating a drop-in/drop-out system. The game also supports Squads, the equivalent of clans or guilds in typical massive multiplayer online games. The game allows players in different release regions to work together; the game will use a pre-determined set of common greetings and commands that are translated to the various languages so that players can effectively communicate with each other. However, players are limited to cooperating with those on the same platform, and will not feature cross-platform play. Players also need to register with their console's service (PlayStation Network or Xbox Live) to use multiplayer features. With an aim to reach a wider audience than past games, Monster Hunter: World also provides more information to players, such as a companion that will warn the player when they are running low on health, and more details on the advantages and disadvantages of weapons and armors against specific monsters.\nquestion: does monster hunter world have a single player campaign",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The name of the city of Pittsburgh, Pennsylvania, has a complicated history. Pittsburgh is one of the few U.S. cities or towns to be spelled with an h at the end of a burg suffix.\nquestion: is pittsburgh the only burgh with an h",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Ancient Magus' Bride (\u9b54\u6cd5\u4f7f\u3044\u306e\u5ac1, Mah\u014d Tsukai no Yome) is a Japanese fantasy sh\u014dnen manga series written and illustrated by Kore Yamazaki. The series is published in Japan by Mag Garden in its Monthly Comic Garden magazine. The manga is licensed in North America by Seven Seas Entertainment. Wit Studio produced a three-part prequel OVA of the manga and produced an anime television series adaptation that aired from October 2017 to March 2018.\nquestion: is there going to be a season 2 of the ancient magus bride",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Marvel: Ultimate Alliance is an action role-playing video game developed for PlayStation 2, PlayStation 3, Xbox and Xbox 360 by Raven Software and published by Activision. The game was simultaneously ported to the PlayStation Portable and Wii by Vicarious Visions, and to Microsoft Windows by Beenox. A significantly different Game Boy Advance version was also created, developed by Barking Lizards Technologies. The game was initially released on October 24, 2006 in North America for most platforms, with PlayStation 3 and Wii ports following shortly thereafter, as well as international releases. The game was planned for release on Nintendo DS and GameCube, but these releases were cancelled. Japan was only able to see a Wii and PS3 release. It was released on July 26, 2016 for PlayStation 4 and Microsoft Windows, and on July 28, 2016 on Xbox One by Zo\u00eb Mode.\nquestion: is marvel ultimate alliance playable on xbox one",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The words actually spoken, initially by Command Module Pilot Jack Swigert, were ``Ok, Houston, we've had a problem here'' (emphasis added). After being prompted to repeat the transmission by CAPCOM Jack R. Lousma, Lovell responded, ``Uh, Houston, we've had a problem.''\nquestion: did they say houston we have a problem",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Gatling gun is one of the best-known early rapid-fire spring loaded, hand cranked weapons and a forerunner of the modern machine gun and rotary cannon. Invented by Richard Gatling, it saw occasional use by the Union forces during the American Civil War in the 1860s, which was the first time it was employed in combat. Later, it was used again in numerous military conflicts, such as the Boshin War, the Anglo-Zulu War, and the assault on San Juan Hill during the Spanish--American War. It was also used by the Pennsylvania militia in episodes of the Great Railroad Strike of 1877, specifically in Pittsburgh.\nquestion: did they have gatling guns in the civil war",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: For nearly all models of induction cooktops, a cooking vessel must be made of, or contain, a ferromagnetic metal such as cast iron or some stainless steels. However, copper, glass, non magnetic stainless steels, and aluminum vessels can be used if placed on a ferromagnetic disk which functions as a conventional hotplate.\nquestion: can we use stainless steel in induction stove",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Whole-wheat flour (in the US) or wholemeal flour (in the UK) is a powdery substance, a basic food ingredient, derived by grinding or mashing the whole grain of wheat, also known as the wheatberry. Whole-wheat flour is used in baking of breads and other baked goods, and also typically mixed with other lighter ``white'' unbleached or bleached flours (that have been treated with flour bleaching agent(s)) to restore nutrients to the white flours (especially fiber, protein, and vitamins), texture, and body that are lost in milling and other processing to the finished baked goods or other food(s).\nquestion: is whole grain flour the same as wholemeal",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Firearms Act, 1925 states that a legal licence is required by law to own or possess a firearm in the Irish Republic. Failure to adhere to the law may result in a monetary fines or imprisonment and can result in firearms being seized by An G\u00e1rda S\u00edoch\u00e1na. The Firearms Act, 1925 also lists a number of groups which are prohibited from legally owning a firearm, these include those suffering from mental health issues, those under the age of fifteen years and those who are under the supervision of the police\nquestion: can you legally own a gun in ireland",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Under Bangladeshi law, any beverage containing more than 0.5% alcohol is considered an alcoholic beverage. A government permit is necessary for selling, storing and the transport of alcohol. To drink alcohol in Bangladesh, one must have a legal permit. Muslims will need a medical prescription to obtain an alcohol permit. The prescription must be given by an associate professor of the medical college or a civil surgeon.\nquestion: is it illegal to drink alcohol in bangladesh",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The National Park Service acquired ownership of the lighthouse when it was abandoned in 1935. Today the Coast Guard owns and operates the navigational equipment, while the National Park Service maintains the tower as a historic structure. The Hatteras Island Visitor Center, formerly the Double Keepers Quarters located next to the lighthouse, elaborates on the Cape Hatteras story and the lifestyle on the Outer Banks. Cape Hatteras Lighthouse, tallest in the United States, stands 208 feet (63 m) from the bottom of the foundation to the peak of the roof. To reach the light, which shines 191 feet (58 m) above mean high-water mark, requires climbing 268 steps. The construction order of 1,250,000 bricks was used in construction of the lighthouse and principal keeper's quarters.\nquestion: is the cape hatteras lighthouse still in use",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Bank of America Corporation (abbreviated as BofA) is an American multinational financial services company headquartered in Charlotte, North Carolina. It was formed through NationsBank's acquisition of BankAmerica in 1998. It is ranked 2nd on the list of largest banks in the United States by assets. As of 2016, Bank of America was the 26th largest company in the United States by total revenue. It was ranked #11, #7 and #6 in the year 2016, 2017 and 2018 respectively on the Forbes Magazine Global 2000 list of largest companies in the world.\nquestion: is bank of america owned by the government",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Technical fouls are handled slightly differently under international rules than under the rules used by the various competitions in the United States. First, illegal contact between players on the court is always a personal foul under international rules, whereas in the USA, such contact is, with some exceptions, a technical foul when the game clock is not running and/or when the ball is dead. Second, in FIBA play (except for the half-court 3x3 variant, in which individual personal foul counts are not kept), players foul out after five total fouls, technical and personal combined (since 2014, one technical can be included towards the total; two technicals in a game results in ejection). The latter rule is similar to that in college, high school, and middle school basketball in the United States. However, in leagues that play 48-minute games such as the NBA, and in some leagues such as the WNBA, players are allowed six personal fouls before being disqualified, and technical fouls assessed against them do not count toward this total. However, unsportsmanlike technicals in the NBA carry a fine, its severity depending on the number of technicals the player has already obtained, and players are suspended for varying amounts of time after accumulating sixteen technicals in the regular season or seven in the playoffs.\nquestion: does a technical foul count as a personal foul in the nba",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "passage: The coconut tree (Cocos nucifera) is a member of the family Arecaceae (palm family) and the only living species of the genus Cocos. The term coconut can refer to the whole coconut palm or the seed, or the fruit, which, botanically, is a drupe, not a nut. The spelling cocoanut is an archaic form of the word. The term is derived from the 16th-century Portuguese and Spanish word coco meaning ``head'' or ``skull'', from the three indentations on the coconut shell that resemble facial features.\nquestion: is a coconut tree and a palm tree the same thing",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Pitru Paksha is considered by Hindus to be inauspicious, given the death rite performed during the ceremony, known as Shraddha or Tarpan. In southern and western India, it falls in the 2nd paksha (fortnight) Hindu lunar month of Bhadrapada (September) and follows the fortnight immediately after the Ganesh festival. It begins on the Pratipada (first day of the fortnight) ending with the no moon day known as Sarvapitri amavasya, Pitru Amavasya, Peddala Amavasya, Mahalaya amavasya or simply Mahalaya. Most years, the autumnal equinox falls within this period, i.e. the Sun transitions from the northern to the southern hemisphere during this period. In North India and Nepal, and cultures following the purnimanta calendar or the solar calendar, this period may correspond to the waning fortnight of the luni-solar month Ashvin, instead of Bhadrapada.\nquestion: is it good to die in pitru paksha",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Hunger Games: Mockingjay -- Part 2 is a 2015 American dystopian science fiction adventure film directed by Francis Lawrence, with a screenplay by Peter Craig and Danny Strong. It is the fourth and final installment in The Hunger Games film series, and the second of two films based on the novel Mockingjay, the final book in The Hunger Games trilogy by Suzanne Collins. Produced by Nina Jacobson and Jon Kilik, and distributed by Lionsgate, the film features an ensemble cast that includes Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Julianne Moore, Philip Seymour Hoffman, and Donald Sutherland. Hoffman died in February 2014, making Mockingjay -- Part 2 his final film role. Principal photography on both parts of the film began on September 23, 2013 in Atlanta, before moving to Paris for two weeks of back-to-back filming and officially concluding on June 20, 2014, in Berlin and at Babelsberg Studios, Germany.\nquestion: is there another hunger games after mockingjay part 2",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The shootout is not used in the playoffs for any North American league. Instead, full 20-minute overtime periods are played until one team scores a goal.\nquestion: does hockey go to a shootout in the playoffs",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Most countries in the world use the Gregorian calendar as their sole civil calendar. Countries which do not use the Gregorian calendar are Afghanistan and Iran, which use the Solar Hijri calendar, Ethiopia (Ethiopian calendar) and Nepal (Vikram Samvat). Some countries use other calendars alongside the Gregorian calendar: Bangladesh (Bangla calendar), India (Indian national calendar) and Israel (Hebrew calendar).\nquestion: is it the same year in every country",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Logical formulas are discrete structures, as are proofs, which form finite trees or, more generally, directed acyclic graph structures (with each inference step combining one or more premise branches to give a single conclusion). The truth values of logical formulas usually form a finite set, generally restricted to two values: true and false, but logic can also be continuous-valued, e.g., fuzzy logic. Concepts such as infinite proof trees or infinite derivation trees have also been studied, e.g. infinitary logic.\nquestion: is discrete structures the same as discrete math",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A market of literature in the modern sense of the word, that is a separate market for fiction and poetry, did not exist until the late seventeenth century. All books were sold under the rubric of ``History and politicks'' in the early 18th century, including pamphlets, memoirs, travel literature, political analysis, serious histories, romances, poetry, and novels.\nquestion: is there a difference between a book and a novel",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The United States two-dollar bill ($2) is a current denomination of U.S. currency. The third U.S. President (1801--09), Thomas Jefferson, is featured on the obverse of the note. The reverse features an engraving of the painting Declaration of Independence by John Trumbull. Throughout the $2 bill's pre-1929 life as a large-sized note, it was issued as a United States Note, National Bank Note, silver certificate, Treasury or ``Coin'' Note and Federal Reserve Bank Note. When U.S. currency was changed to its current size, the $2 bill was issued only as a United States Note. Production went on until 1966, when the series was discontinued. Ten years passed before the $2 bill was reissued as a Federal Reserve Note with a new reverse design. Two-dollar bills are seldom seen in circulation as a result of banking policies with businesses which has resulted in low production numbers due to lack of demand. This comparative scarcity in circulation, coupled with a lack of public knowledge that the bill is still in production and circulation, has also inspired urban legends about its authenticity and value and has occasionally created problems for those trying to use the bill to make purchases.\nquestion: does the us still produce 2 dollar bills",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Skinny Girl In Transit is a Nigerian Comedy webseries that began airing in July 2015.Skinny Girl In Transit returns to NdaniTV for a fifth season in 2018 featuring sexy Kenyan actor Nick Mutuma\nquestion: will there be a season 5 of skinny girl in transit",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The visual cliff apparatus was created by psychologists Eleanor J. Gibson and Richard D. Walk at Cornell University to investigate depth perception in human and animal species. This apparatus allowed them to experimentally adjust the optical and tactical stimuli associated with a simulated cliff while protecting the subjects from injury. The visual cliff consists of a sheet of Plexiglas that covers a cloth with a high-contrast checkerboard pattern. On one side the cloth is placed immediately beneath the Plexiglas, and on the other, it is dropped about 4 feet below. Since the Plexiglas supports the weight of the infant this is a visual cliff rather than a drop off. Using a visual cliff apparatus, Gibson and Walk examined possible perceptual differences at crawling age between human infants born preterm and human infants born at term without documented visual or motor impairments.\nquestion: the visual cliff is a device for studying",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The white bass, silver bass, or sand bass (Morone chrysops) is a freshwater fish of the temperate bass family Moronidae. It is the state fish of Oklahoma.\nquestion: are white bass the same as sand bass",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Both rules may be suspended depending on the jurisdiction in the case of divorce proceedings or child custody disputes, but are suspended in cases where one spouse is accused of a crime against the other spouse or the spouse's child. Courts generally do not permit an adverse spouse to invoke either privilege during a trial initiated by the other spouse, or in the case of domestic abuse. The privileges may also be suspended where both spouses are joint participants in a crime, depending on the law of the jurisdiction.\nquestion: can you charge a husband and wife for the same crime",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Status as a natural-born citizen of the United States is one of the eligibility requirements established in the United States Constitution for holding the office of President or Vice President. This requirement was intended to protect the nation from foreign influence.\nquestion: does president have to be born in usa",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The use of bow and arrows by humans for hunting practices predates recorded history and was common to most prehistoric cultures. They were important weapons of war across most civilizations throughout ancient history until the early modern period, where they were rendered increasingly obsolete by the development of the more powerful and accurate firearms, and were eventually dropped from warfare. Today, bows and arrows are used primarily for recreational hunting and sporting purposes.\nquestion: is the bow and arrow still used today",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In South Africa, the Firearms Control Act 60 of 2000 regulates the ownership of firearms by civilians. Ownership of a firearm is conditional on a competency test and several other factors, including background checking of the applicant, inspection of an owner's premises, and licensing of the weapon by the police introduced in July 2004. The process is currently undergoing review, as the police are at present, not able to adequately or within reasonable time, process either competency certification, new licences or renewal of existing licences. Minimum waiting period used to exceed 2 years from date of application. The Central Firearms Registry implemented a turnaround strategy that has significantly improved the processing period of new licences. The maximum time allowed to process a licence application is now 90 days.\nquestion: is it legal to own a gun in south africa",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Birthright citizenship in the United States is acquired by virtue of the circumstances of birth. It contrasts with citizenship acquired in other ways, for example by naturalization. Birthright citizenship may be conferred by jus soli or jus sanguinis. Under United States law, U.S. citizenship is automatically granted to any person born within and subject to the jurisdiction of the United States. This includes the territories of Puerto Rico, the Marianas (Guam and the Northern Mariana Islands), and the U.S. Virgin Islands, and also applies to children born elsewhere in the world to U.S. citizens (with certain exceptions).\nquestion: are you automatically a us citizen if you are born here",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The MonsterVerse is an American media franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong, produced by Legendary Entertainment and co-produced and distributed by Warner Bros. The first installment was Godzilla (2014), a reboot of the Godzilla franchise, which was followed by Kong: Skull Island (2017), a reboot of the King Kong franchise. The next film to be released will be Godzilla: King of the Monsters (2019), followed by Godzilla vs. Kong (2020). The series has grossed over $1 billion worldwide so far.\nquestion: are king kong and godzilla in the same universe",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The states that have adopted stand-your-ground in practice, either through case law/precedent, jury instructions or by other means, are California, Colorado, Illinois, New Mexico, Oregon, Virginia, and Washington.\nquestion: does washington state have stand your ground laws",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: There are numerous islands off the continent's coasts; principally, the Arctic Archipelago, the Bahamas, Turks & Caicos, the Greater and Lesser Antilles, the Aleutian Islands (some of which are in the Eastern Hemisphere proper), the Alexander Archipelago, the many thousand islands of the British Columbia Coast, and Newfoundland. Greenland, a self-governing Danish island, and the world's largest, is on the same tectonic plate (the North American Plate) and is part of North America geographically. In a geologic sense, Bermuda is not part of the Americas, but an oceanic island which was formed on the fissure of the Mid-Atlantic Ridge over 100 million years ago. The nearest landmass to it is Cape Hatteras, North Carolina. However, Bermuda is often thought of as part of North America, especially given its historical, political and cultural ties to Virginia and other parts of the continent.\nquestion: are the bahamas considered part of north america",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Also referred to as the Berkshire Hills, Berkshire Mountains, and Berkshire Plateau, the region enjoys a vibrant tourism industry based on music, arts, and recreation. Geologically, the mountains are a range of the Appalachian Mountains.\nquestion: are the berkshires part of the appalachian mountains",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "passage: Prior to the attacks against the United States on September 11, 2001, the National Guard's general policy regarding mobilization was that Guardsmen would be required to serve no more than one year cumulative on active duty (with no more than six months overseas) for each five years of regular drill. Due to strains placed on active duty units following the attacks, the possible mobilization time was increased to 18 months (with no more than one year overseas). Additional strains placed on military units as a result of the invasion of Iraq further increased the amount of time a Guardsman could be mobilized to 24 months. Current Department of Defense policy is that no Guardsman is involuntarily activated for more than 24 months (cumulative) in one six-year enlistment period.\nquestion: does the national guard stay in the us",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Leaning Tower of Pisa (Italian: Torre pendente di Pisa) or simply the Tower of Pisa (Torre di Pisa (\u02c8torre di \u02c8pi\u02d0za)) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its unintended tilt. The tower is situated behind the Pisa Cathedral and is the third oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.\nquestion: was leaning tower of pisa supposed to lean",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In September 2017, producer Jerry Bruckheimer indicated that another Pirates of the Caribbean sequel is still possible if Dead Men Tell No Tales does well in its home release. In October 2017, Kaya Scodelario said that she was contracted to return for a sixth film. Shortly after, it was announced that Joachim R\u00f8nning is being eyed to direct the film.\nquestion: is there a new pirates of the caribbean movie coming",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Book of Jasher (also, Jashar) or the Book of the Upright or the Book of the Just Man (Hebrew: \u05e1\u05b5\u05e4\u05b6\u05e8 \u05d4\u05b7\u05d9\u05c7\u05bc\u05e9\u05c7\u05c1\u05e8\u202c; transliteration: s\u0113fer hayy\u0101\u0161\u0101r) is an unknown book mentioned in the Hebrew Bible. The translation ``Book of the Just Man'' is the traditional Greek and Latin translation, while the transliterated form ``Jasher'' is found in the King James Bible, 1611.\nquestion: is the book of jasher in the bible",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Love Never Dies is a romantic musical composed by Andrew Lloyd Webber with lyrics by Glenn Slater and a book by Lloyd Webber, Ben Elton, Frederick Forsyth and Slater. It is a sequel to the long-running musical The Phantom of the Opera and was loosely adapted from Forsyth's novel The Phantom of Manhattan (1999).\nquestion: is love never dies a sequel to phantom of the opera",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Following the events of The Rise of Cobra, Duke (Channing Tatum) has become the leader of the G.I. Joe unit, which is framed for stealing nuclear warheads from Pakistan by Zartan (Arnold Vosloo), who is impersonating the President of the United States (Jonathan Pryce). The unit is subsequently eliminated in a military air strike with Duke as one of the casualties. The only survivors are Roadblock (Dwayne Johnson), Flint (D.J. Cotrona), and Lady Jaye (Adrianne Palicki).\nquestion: does duke die in gi joe 2 retaliation 2013",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the US, the Standard of Identity for a product labeled as ``vegetable oil margarine'' specifies only canola, safflower, sunflower, corn, soybean, or peanut oil may be used. Products not labeled ``vegetable oil margarine'' do not have that restriction.\nquestion: is sunflower oil a type of vegetable oil",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: As a British prince, William does not use a surname for everyday purposes. For formal and ceremonial purposes, the children of the Prince of Wales use the title of ``prince'' or ``princess'' before their Christian name and their father's territorial designation after it. Thus, Prince William was styled as ``Prince William of Wales''. Such territorial designations are discarded by women when they marry and by men if they are given a peerage of their own, such as when Prince William was given his dukedom.\nquestion: is a prince the same as a duke",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The League of Assassins (renamed the League of Shadows or Society of Shadows in adapted works) is a group of fictional villains appearing in American comic books published by DC Comics. The group is depicted as a collective of assassins who work for Ra's al Ghul, an enemy of the superhero Batman.\nquestion: is the league of assassins the same as the league of shadows",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Iceman is an American biography crime thriller film based on the true story of longtime notorious hitman Richard Kuklinski. Released in 2012 at the Venice Film Festival, the film was directed by Ariel Vromen, and stars Michael Shannon as Kuklinski, Winona Ryder, Chris Evans, and Ray Liotta.\nquestion: is the movie iceman based on a true story",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Multiple citizenship, dual citizenship, multiple nationality or dual nationality, is a person's citizenship status, in which a person is concurrently regarded as a citizen of more than one state under the laws of those states. There is no international convention which determines the nationality or citizen status of a person. Citizenship status is defined exclusively by national laws, which can vary and can conflict. Multiple citizenship arises because different countries use different, and not necessarily mutually exclusive, criteria for citizenship. Colloquial speech refers to people ``holding'' multiple citizenship, but technically each nation makes a claim that a particular person is considered its national.\nquestion: can you have citizenship in more than one country",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Siege of Yorktown, also known as the Battle of Yorktown, the Surrender at Yorktown, German Battle or the Siege of Little York, ending on October 19, 1781, at Yorktown, Virginia, was a decisive victory by a combined force of American Continental Army troops led by General George Washington and French Army troops led by the Comte de Rochambeau over a British Army commanded by British peer and Lieutenant General Charles Cornwallis. The culmination of the Yorktown campaign, the siege proved to be the last major land battle of the American Revolutionary War in the North American theater, as the surrender by Cornwallis, and the capture of both him and his army, prompted the British government to negotiate an end to the conflict. The battle boosted faltering American morale and revived French enthusiasm for the war, as well as undermining popular support for the conflict in Great Britain.\nquestion: was the battle of yorktown the last battle of the revolutionary war",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Chimpanzees and other apes -- species which have been studied extensively -- compare the most to humans with the most convincing findings and straightforward evidence in the relativity of self-awareness in animals so far. Dolphins were put to a similar test and achieved the same results. Diana Reiss, a psycho-biologist at the New York Aquarium discovered that bottlenose dolphins can recognize themselves in mirrors.\nquestion: are there any animals that are self aware",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The square root of 3 is an irrational number. It is also known as Theodorus' constant, named after Theodorus of Cyrene, who proved its irrationality.\nquestion: is the square root of 3 a rational number",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In 2012, the U.S.-based group Defense Distributed disclosed plans to design a working plastic gun that could be downloaded and reproduced by anybody with a 3D printer. Defense Distributed has also designed a 3D printable AR-15 type rifle lower receiver (capable of lasting more than 650 rounds) and a variety of magazines, including for the AK-47. In May 2013, Defense Distributed completed design of the first working blueprint to produce a plastic gun with a 3D printer. The United States Department of State demanded removal of the instructions from the Defense Distributed website, deeming them a violation of the Arms Export Control Act. In 2015, Defense Distributed founder Cody Wilson sued the United States government on free speech grounds and in 2018 the Department of Justice settled, acknowledging Wilson's right to publish instructions for the production of 3D printed firearms.\nquestion: can a 3d printer print a real gun",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Status as a natural-born citizen of the United States is one of the eligibility requirements established in the United States Constitution for holding the office of President or Vice President. This requirement was intended to protect the nation from foreign influence.\nquestion: do you have to be a us citizen to run for president",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Dr. Bailey is in labor, and without her husband Tucker Jones by her side, she refuses to push so she can give birth. George works with Addison to convince Bailey to have the baby. He finally gets through to Bailey by giving her the motivation that she needs, and ultimately he holds her while she delivers the baby. Izzie and Alex have sex again. Chief Richard Webber is under a lot of stress from everything that's been going on, and it is believed that he is having a heart attack, which lures his wife Adele to the hospita(anxiety attack)). Dr. Bailey's husband goes into cardiac arrest. Meredith finally removes the explosive from the patient, and Dylan, the leader of the bomb squad, carries it away. Meredith steps out of the operating room into the hallway, curiously watching Dylan walk away with the explosive, and at that moment, the bomb explodes, killing Dylan and a second bomb squad member. Meredith is knocked unconscious by the explosion. There is a revival of the ``shower scene'' from the first part, but with a more serious tone: the fully clothed Izzie and Cristina wash blood off of a stunned Meredith as George looks on. Dr. Bailey's husband and the man who had the explosive embedded in his body both survive. At the end of the episode, Preston and Derek become friends, overcoming their initial rivalry in the series beginning, and call each other by their first names. Cristina says ``I love you, too'' to a sleeping Preston. Derek comes to visit Meredith and says, ``You almost died today,'' and Meredith tells him that she can't remember their last kiss. Derek recalls the kiss for her, telling her that she ``smelled like some kind of flower,'' which Meredith says was lavender, and then he leaves.\nquestion: does the bomb go off in grey's anatomy",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Organs are composed of main tissue, parenchyma, and ``sporadic'' tissues, stroma. The main tissue is that which is unique for the specific organ, such as the myocardium, the main tissue of the heart, while sporadic tissues include the nerves, blood vessels, and connective tissues. The main tissues that make up an organ tend to have common embryologic origins, such as arising from the same germ layer. Functionally-related organs often cooperate to form whole organ systems. Organs exist in all organisms. In single-celled organisms such as bacteria, the functional analogue of an organ is known as an organelle. In plants there are three main organs. A hollow organ is an internal organ that forms a hollow tube, or pouch such as the stomach, intestine, or bladder.\nquestion: is there overlap between the different organ systems in a vertebrate",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The untitled Avengers film, colloquially referred to as Avengers 4, is an upcoming American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is intended to be the direct sequel to 2018's Avengers: Infinity War, as well as the sequel to 2012's Marvel's The Avengers and 2015's Avengers: Age of Ultron and the twenty-second film in the Marvel Cinematic Universe (MCU). The film is directed by Anthony and Joe Russo, with a screenplay by the writing team of Christopher Markus and Stephen McFeely, and features an ensemble cast with many actors from previous MCU films.\nquestion: will there be a sequal to avengers infinity war",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In business, net income (total comprehensive income, net earnings, net profit, informally, bottom line) is an entity's income minus cost of goods sold, expenses and taxes for an accounting period. It is computed as the residual of all revenues and gains over all expenses and losses for the period, and has also been defined as the net increase in shareholders' equity that results from a company's operations. In the context of the presentation of financial statements, the IFRS Foundation defines net income as synonymous with profit and loss.\nquestion: is net earnings and net income the same",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In September 2017, producer Jerry Bruckheimer indicated that another Pirates of the Caribbean sequel is still possible if Dead Men Tell No Tales does well in its home release. In October 2017, Kaya Scodelario said that she was contracted to return for a sixth film. Shortly after, it was announced that Joachim R\u00f8nning is being eyed to direct the film.\nquestion: will there be a pirates of the carribean 6",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: It is important to note that mithridatism is not effective against all types of poison (immunity generally is only possible with biologically complex types which the immune system can respond to) and, depending on the toxin, the practice can lead to the lethal accumulation of a poison in the body. Results depend on how each poison is processed by the body, ie, on how the toxic compound is metabolized or passed out of the body. In some cases, it is possible to build up tolerance against specific non-biological poisons. For some poisons, this involves conditioning the liver to produce more of the particular enzymes that deal with these poisons (for example alcohol). Another mechanism involves conditioning the target tissues of the poisons. These methods do not work for all non-biological poisons. Exposure to certain toxic substances, such as hydrofluoric acid and heavy metals, is either lethal or has little to no effect, and thus cannot be used in this way at all. Arsenic is a notable exception with some people actually having a genetic adaptation granting them higher resistance which can be replicated with mithridatism. In addition, simple toxins that work through chemical processes that bypass the immune system cannot be dealt with (good example would be the variants of cyanide).\nquestion: can you build up an immunity to arsenic",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.\nquestion: is fantastic beasts and where to find them a prequel",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Receiving a base on balls does not count as a hit or an at bat for a batter but does count as a time on base and a plate appearance. Therefore, a base on balls does not affect a player's batting average, but it can increase his on-base percentage.\nquestion: do you count walks in the batting average",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: By season eight, Stefan had entered into a relationship (and later engagement) with Caroline while he searched for Damon. Stefan later gave himself up in servitude to Cade (alongside Damon) in order to save Caroline's twins. Stefan's humanity is shut off and he goes on a murderous rampage to deliver souls to Cade. He is later sent for Elena and kills Enzo, but Bonnie injects him with the cure, rendering him human. Stefan's guilt greatly impacts his relationship with Caroline and friendship with Bonnie. He later kills Cade to save Damon and Bonnie. He reunites with Caroline and works towards earning Bonnie's forgiveness. Stefan and Caroline use their 'wedding' to lure Katherine out, and are married when she fails to appear. After their marriage, Stefan and Damon search for Elena's body, taken by Katherine. Stefan and Bonnie then realize they can redirect the Hellfire at Katherine to destroy Hell, but someone must sacrifice themselves to ensure she's hit while in Hell. Stefan and Damon argue over who should do it, as Stefan wants to find redemption for his killings and to give Damon a chance at happiness. Damon compels the human Stefan to leave, but Stefan had been taking vervain. Stefan injected Damon with his blood, giving him the cure, then shoves a human Damon aside and sacrifices his life to kill Katherine and save Mystic Falls. Stefan reunites with Elena, getting to say goodbye, then goes to the afterlife. Years later, Stefan is reunited with Damon.\nquestion: do caroline and stefan date in vampire diaries",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Film Stars Don't Die in Liverpool is a 2017 biographical romantic drama film directed by Paul McGuigan and starring Annette Bening and Jamie Bell. Vanessa Redgrave, Julie Walters, Kenneth Cranham, Stephen Graham, Frances Barber and Leanne Best also star. It is based on the memoir of the same name by Peter Turner, which tells of his relationship with aging Hollywood actress Gloria Grahame in 1970s Liverpool and, some years later, her death from breast cancer.\nquestion: is film stars don't die in liverpool a true story",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The first film was followed by two successful sequels, The Empire Strikes Back (1980) and Return of the Jedi (1983); these three films constitute the original Star Wars trilogy. A prequel trilogy was released between 1999 and 2005, albeit to mixed reactions from critics and fans. A sequel trilogy concluding the main story of the nine-episode saga began in 2015 with The Force Awakens. The first eight films were nominated for Academy Awards (with wins going to the first two released) and were commercially successful, with a combined box office revenue of over US$8.5 billion. Together with the theatrical spin-off films The Clone Wars (2008), Rogue One (2016) and Solo: A Star Wars Story (2018), Star Wars is the second highest-grossing film series ever.\nquestion: is there a star wars movie this year",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The United Nations Security Council ``veto power'' refers to the power of the permanent members of the UN Security Council (China, France, Russia, United Kingdom, and United States) to veto any ``substantive'' resolution. A permanent member's abstention or absence does not prevent a draft resolution from being adopted. This veto power does not apply to ``procedural'' votes, as determined by the permanent members themselves. A permanent member can also block the selection of a Secretary-General, although a formal veto is unnecessary since the vote is taken behind closed doors.\nquestion: do non permanent members security council have veto",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: There is no rule stating a team must play a wicket-keeper. On 5 June 2015 during a T20 Blast game between the Worcestershire Rapids and the Northamptonshire Steelbacks, Worcestershire chose not to play a wicket-keeper in the 16th over of the match. Their keeper, Ben Cox, became an extra fielder at fly slip while spinner Moeen Ali bowled. The umpires consulted with each other and agreed that there was nothing in the rules to prevent it from happening.\nquestion: do you have to have a wicket keeper in cricket",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Microsoft envisages WSL as ``primarily a tool for developers -- especially web developers and those who work on or with open source projects''. WSL uses fewer resources than a fully virtualized machine, the most direct way to run Linux software in a Windows environment, while also allowing users to use Windows apps and Linux tools on the same set of files.\nquestion: is windows subsystem for linux a virtual machine",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Clary learns that Valentine Morgenstern, the main antagonist of the series, is her biological father and her mother's ex-husband. At the end of City of Bones, Valentine tells them that Clary and Jace are siblings -- which, they discover later in the series, is a lie. In the second book of the series, City of Ashes, Clary dates her best friend Simon, who has for a long time had a crush on her, in order to forget Jace during the torturous time of believing him to be her brother. She is told by the Seelie Queen that she has the ability to create runes that don't exist; but they do exist, which later enables her to destroy Valentine's ship using the ``Open'' rune. In the end of the second novel, Clary finds that an old friend of her mother, Madeleine, knows how to wake her mother, who has been in a magical coma since the first book.\nquestion: are clary and jace really brother and sister",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Not all Xbox 360 games will be supported; 104 Xbox 360 games were available for the feature's public launch on November 12, 2015 with Xbox One preview program members getting early access. Microsoft stated that publishers will only need to provide permission to the company to allow the repackaging, and they expect the list to grow significantly over time. Unlike the emulation of original Xbox games on the Xbox 360, the Xbox One does not require game modification, since it emulates an exact replica of its predecessor's environment -- both hardware and software operating systems. The downloaded game is a repackaged version of the original that identifies itself as an Xbox One title to the console. At Gamescom, Microsoft revealed it has plans to ensure ``all future Xbox 360 Games with Gold titles will be playable on Xbox One.'' On December 17, 2015 Microsoft made another sixteen Xbox 360 games compatible with Xbox One, including titles such as Halo: Reach, Fable III and Deus Ex: Human Revolution. On January 21, 2016, Microsoft made another ten Xbox 360 games compatible, including The Witcher 2: Assassins of Kings and Counter-Strike: Global Offensive. On May 13, 2016, Microsoft made Xbox 360 titles with multiple discs compatible, starting with Deus Ex: Human Revolution Director's Cut.\nquestion: do all xbox 360 games work on xbox 1",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A signature (/\u02c8s\u026a\u0261n\u0259t\u0283\u0259r/; from Latin: signare, ``to sign'') is a handwritten (and often stylized) depiction of someone's name, nickname, or even a simple ``X'' or other mark that a person writes on documents as a proof of identity and intent. The writer of a signature is a signatory or signer. Similar to a handwritten signature, a signature work describes the work as readily identifying its creator. A signature may be confused with an autograph, which is chiefly an artistic signature. This can lead to confusion when people have both an autograph and signature and as such some people in the public eye keep their signatures private whilst fully publishing their autograph.\nquestion: can an x be used as a signature",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Typically, no license or advanced training beyond just firearm familiarization (for rentals) and range rules familiarization is usually required for using a shooting range in the United States; the only common requirement is that the shooter must be at least 18 or 21 years old (or have a legal guardian present), and must sign a waiver prior to shooting.\nquestion: do you have to have a gun license to go to the gun range",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Cryptorchidism is the absence of one or both testes from the scrotum. The word is from the Greek \u03ba\u03c1\u03c5\u03c0\u03c4\u03cc\u03c2, kryptos, meaning hidden \u1f44\u03c1\u03c7\u03b9\u03c2, orchis, meaning testicle. It is the most common birth defect of the male genital. About 3% of full-term and 30% of premature infant boys are born with at least one undescended testis. However, about 80% of cryptorchid testes descend by the first year of life (the majority within three months), making the true incidence of cryptorchidism around 1% overall. Cryptorchidism may develop after infancy, sometimes as late as young adulthood, but that is exceptional.\nquestion: can a person be born with one testicle",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The beetroot is the taproot portion of the beet plant, usually known in North America as the beet, also table beet, garden beet, red beet, or golden beet. It is one of several of the cultivated varieties of Beta vulgaris grown for their edible taproots and their leaves (called beet greens). These varieties have been classified as B. vulgaris subsp. vulgaris Conditiva Group.\nquestion: are the leaves of the beet plant edible",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Non-licensees and all users of long guns have much stricter rules for carrying firearms in their vehicles. Ohio statute O.R.C. 2923.16 allows for three ways for those not licensed to carry a concealed handgun to transport firearms in a motor vehicle. The firearm(s) must be unloaded and carried in one of the following ways:\nquestion: can you carry a gun in your car in ohio",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Yellowjacket or Yellow jacket is the common name in North America for predatory social wasps of the genera Vespula and Dolichovespula. Members of these genera are known simply as ``wasps'' in other English-speaking countries. Most of these are black and yellow like the eastern yellowjacket Vespula maculifrons and the aerial yellowjacket Dolichovespula arenaria; some are black and white like the bald-faced hornet, Dolichovespula maculata. Others may have the abdomen background color red instead of black. They can be identified by their distinctive markings, their occurrence only in colonies, and a characteristic, rapid, side-to-side flight pattern prior to landing. All females are capable of stinging. Yellowjackets are important predators of pest insects.\nquestion: are yellow jackets and wasps the same thing",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Hereditary spastic paraplegia (HSP) is a group of inherited diseases whose main feature is a progressive gait disorder. The disease presents with progressive stiffness (spasticity) and contraction in the lower limbs. HSP is also known as hereditary spastic paraparesis, familial spastic paraplegia, French settlement disease, or Strumpell-Lorrain disease. The symptoms are a result of dysfunction of long axons in the spinal cord. The affected cells are the primary motor neurons; therefore, the disease is an upper motor neuron disease. HSP is not a form of cerebral palsy even though it physically may appear and behave much the same as spastic diplegia. The origin of HSP is different from cerebral palsy. Despite this, some of the same anti-spasticity medications used in spastic cerebral palsy are sometimes used to treat HSP symptoms.\nquestion: is hereditary spastic paraplegia a motor neuron disease",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Human population is not very dense in the Rocky Mountains, with an average of four people per square kilometer and few cities with over 50,000 people. However, the human population grew rapidly in the Rocky Mountain states between 1950 and 1990. The forty-year statewide increases in population range from 35% in Montana to about 150% in Utah and Colorado. The populations of several mountain towns and communities have doubled in the last forty years. Jackson, Wyoming, increased 260%, from 1,244 to 4,472 residents, in forty years.\nquestion: are the mountains in utah part of the rockies",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Garlic allergy or allergic contact dermatitis to garlic is a common inflammatory skin condition caused by contact with garlic oil or dust. It mostly affects people who cut and handle fresh garlic, such as chefs, and presents on the tips of the thumb, index and middle fingers of the non-dominant hand (which typically hold garlic bulbs during the cutting). The affected fingertips show an asymmetrical pattern of fissure as well as thickening and shedding of the outer skin layers, which may progress to second- or third-degree burn of injured skin.\nquestion: is there such a thing as garlic allergy",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Chestnuts should not be confused with horse chestnuts (genus Aesculus), which are not related to Castanea and are named for producing nuts of similar appearance, but which are mildly poisonous to humans, nor should they be confused with water chestnut (family Cyperaceae), which are also unrelated to Castanea and are tubers of similar taste from an aquatic herbaceous plant. Other trees commonly mistaken for chestnut trees are the chestnut oak (Quercus prinus) and the American beech (Fagus grandifolia), both of which are also in Fagaceae.\nquestion: are chestnuts and water chestnuts the same thing",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Of the 20 players on Team USA, 13 eventually played in the NHL. Five of them went on to play over 500 NHL games, and three would play over 1,000 NHL games.\nquestion: did anyone from the 1980 us hockey team play in the nhl",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Kissing Booth is a 2018 American romantic comedy film directed by Vince Marcello, based on the novel of the same name by Beth Reekles. It stars Molly Ringwald, Joey King, Jacob Elordi and Joel Courtney. The film was released on May 11, 2018 on Netflix.\nquestion: is the movie the kissing booth on netflix",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Most flexible flat feet are asymptomatic, and do not cause pain. In these cases, there is usually no cause for concern. Flat feet were formerly a physical-health reason for service-rejection in many militaries. However, three military studies on asymptomatic adults (see section below), suggest that persons with asymptomatic flat feet are at least as tolerant of foot stress as the population with various grades of arch. Asymptomatic flat feet are no longer a service disqualification in the U.S. military.\nquestion: can u be flat footed in the army",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.\nquestion: was there a military draft in world war 2",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: War Room is a 2015 American Christian drama film directed by Alex Kendrick and written by he and Stephen Kendrick. It is the Kendrick brothers' fifth film and their first through their subsidiary, Kendrick Brothers Productions. Provident Films, Affirm Films and TriStar Pictures partnered with the Kendrick brothers to release the film.\nquestion: is war room movie based on a true story",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Uniquely, the Norwegian archipelago of Svalbard is an entirely visa-free zone. Everybody may live and work in Svalbard indefinitely regardless of country of citizenship. The Svalbard Treaty grants treaty nationals equal right of abode as Norwegian nationals. Non-treaty nationals may live and work indefinitely visa-free as well. Per Sefland, then Governor of Svalbard, said ``It has been a chosen policy so far that we haven't made any difference between the treaty citizens and those from outside the treaty''. ``Regulations concerning rejection and expulsion from Svalbard'' are in force on a non-discriminatory basis. Grounds for exclusion include lack of means of support, and violation of laws or regulations. Same-day visa-free transit at Oslo Airport is possible when travelling on non-stop flights to Svalbard.\nquestion: do i need a visa to visit svalbard",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In ``The Wars to Come'', Stannis enlists Jon as an intermediary between himself and Mance, hoping to add the wildling army to his own. Mance refuses to submit to Stannis, and the wildling king is burned at the stake by the red priestess Melisandre. In ``The House of Black and White'', Stannis offers to legitimize Jon and make him lord of Winterfell in exchange for his support. Jon is voted the new Lord Commander of the Night's Watch, initially tying with his nemesis Thorne but having the tie settled by Maester Aemon. Jon's intent to welcome the wildlings into Westeros and grant them lands by the Wall further enrages Thorne's faction of the Watch, who hold a deep seated hatred for the wildlings. In ``Hardhome'', Jon travels by ship north of the Wall to the eponymous wildling village, seeking their support for his plan to ally the Night's Watch and the wildlings against the growing threat of the White Walkers. As some of the wildling clans board Stannis' ships to travel south, a massive force of wights, led by White Walkers and their Night King, attacks the village. Jon kills a White Walker with Longclaw, learning that weapons forged with Valyrian steel can destroy them completely. Jon and his group barely make it out alive, with only a fraction of the wildling forces. Jon then permits the wildling forces to pass through the Wall into the North. Shortly after returning to Castle Black in the season finale ``Mother's Mercy'', Jon is summoned to hear news of his missing uncle Benjen, but is instead stabbed to death by Thorne and his group of mutineers.\nquestion: did jon snow die in season 5 finale",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The seventh and final season of the American comedy series New Girl premiered April 10, 2018 on Fox at 9:30 pm (Eastern).\nquestion: is season 7 of new girl the last season",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The relationship between House and Cuddy is known by the portmanteau term ``Huddy''. Cuddy has what USA Today's Peter Johnson terms a ``cat-and-mouse'' relationship with House. Edelstein has described it as ``a really complicated, adult relationship'', explaining: ``These are people who have very full lives and lots of responsibilities that perhaps conflict with their feelings for each other.'' The actress ``would love for them to have a (romantic) relationship, because it could be as complicated as the rest of their relationship'', however, she is unsure how it would affect the dynamics of the show. Jacobs commented at the end of the show's third season: ``I can't see them pairing them in a permanent fashion. But they are close; they have gone through a lot together. Might there be a moment of weakness in which the two might explore their chemistry? Maybe.'' Questioned at the end of the fourth season on whether Cuddy and House would ever consummate their relationship on-screen, Jacobs responded: ``there is heat and chemistry between them and I never want to see that go away because that is the essence of their relationship. (...) we'll never ignore (their chemistry) because, as I said, it's the very essence of them. She wouldn't forgive him over and over again if he wasn't so brilliant in her eyes, clearly she's got a soft spot for him. And he has one for her. You will continue to see that.'' Prior to the beginning of the fifth season, series creator David Shore discussed his intention to further the relationship between the two, as: ``If House is capable of any relationship with anyone, it's Cuddy. We can't have them dancing around forever.'' Following the fifth season revelation that House had hallucinated a physical relationship with Cuddy, Shore commented on the storyline's continuation into the sixth season: ``it would be dishonest to just let that disappear. Obviously House has feelings for her. Even though the love affair didn't happen, in House's mind it did.'' Edelstein does not know whether the two characters will eventually end up together, however believes that the combination of frustration and love Cuddy feels for House ``makes for a very interesting relationship'', as: ``there's a great deal of admiration and respect, and also an incredible amount of annoyance and frustration, which is like how most relationships are in your life.'' As of the very end of the Sixth Season finale, Help Me, House and Cuddy appear to have entered a romantic relationship. In the closing minutes of the episode, House came very close to relapsing and taking vicodin once again, at which point Cuddy entered to tell him that she had ended her relationship with Lucas. She professed her love for House, which led to them kissing briefly. A close-up shot of their clasped hands (House's left, Cuddy's right) was the closing shot of the episode, as well as the season. The relationship later ends in season 7; in the episode ``Bombshells''.\nquestion: do house and cuddy get back together in season 8",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Dine Brands Global Inc, formerly DineEquity Inc., and before that IHOP Corporation, is an American company that franchises and operates IHOP and Applebee's restaurants. The company is headquartered in Glendale, California.\nquestion: is ihop and applebee's owned by the same company",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Joseph William Namath (/\u02c8ne\u026am\u026a\u03b8/; born May 31, 1943), nicknamed ``Broadway Joe'', is a former American football quarterback and actor. He played college football for the University of Alabama under coach Paul ``Bear'' Bryant from 1962 to 1964, and professional football in the American Football League (AFL) and National Football League (NFL) during the 1960s and 1970s. Namath was an AFL icon and played for that league's New York Jets for most of his professional football career. He finished his career with the Los Angeles Rams. He was elected to the Pro Football Hall of Fame in 1985.\nquestion: is joe namath in the nfl hall of fame",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Instead, Zelena travels the time portal with Emma and Hook to change the past, where she takes the opportunity to kill Robin's wife, Marian, and takes her place instead using magic to conceal her true identity. At some point after turning into Marian, Zelena uses magic to learn everything she can about her.\nquestion: does maid marian die in once upon a time",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A will or testament is a legal document by which a person, the testator, expresses their wishes as to how their property is to be distributed at death, and names one or more persons, the executor, to manage the estate until its final distribution. For the devolution of property not disposed of by will, see inheritance and intestacy.\nquestion: does a will have to be a legal document",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Houston Astros are an American professional baseball team based in Houston, Texas. The Astros compete in Major League Baseball (MLB) as a member club of the American League (AL) West division, having moved to the division in 2013 after spending their first 51 seasons in the National League (NL). The Astros have played their home games at Minute Maid Park since 2000.\nquestion: did the astros used to be in the national league",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In anatomy, the scapula (plural scapulae or scapulas; also known as shoulder bone, shoulder blade or wing bone) is the bone that connects the humerus (upper arm bone) with the clavicle (collar bone). Like their connected bones the scapulae are paired, with the scapula on either side of the body being roughly a mirror image of the other. The name derives from early Roman times when it was thought that the bone resembled a trowel or small shovel.\nquestion: does the scapula form a joint with the ribs",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The musical includes such hits as ``Super Trouper'', ``Lay All Your Love on Me'', ``Dancing Queen'', ``Knowing Me, Knowing You'', ``Take a Chance on Me'', ``Thank You for the Music'', ``Money, Money, Money'', ``The Winner Takes It All'', ``Voulez-Vous'', ``SOS'' and the title track. Over 60 million people have seen the show, which has grossed $2 billion worldwide since its 1999 debut. A film adaptation starring Meryl Streep, Colin Firth, Pierce Brosnan, Amanda Seyfried, Christine Baranski, Stellan Skarsg\u00e5rd and Julie Walters was released in July 2008.\nquestion: was mama mia a play before a movie",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Codex Alimentarius requires brown sugar to contain at least 88% of sucrose plus invert sugar. Commercial brown sugar contains from 3.5% molasses (light brown sugar) to 6.5% molasses (dark brown sugar) based on total volume. Based on total weight, regular commercial brown sugar contains up to 10% molasses. The product is naturally moist from the hygroscopic nature of the molasses and is often labelled as ``soft.'' The product may undergo processing to give a product that flows better for industrial handling. The addition of dyes or other chemicals may be permitted in some areas or for industrial products.\nquestion: does dark brown sugar have molasses in it",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the Netherlands, Father's Day (Vaderdag) is celebrated on the third Sunday of June and is not a public holiday. Traditionally, as on Mother's Day, fathers get breakfast in bed made by their children and families gather together and have dinner, usually at the grandparents' house. In recent years, families also started having dinner out, and as on Mother's Day, it is one of the busiest days for restaurants. At school, children handcraft their present for their fathers. Consumer goods companies have all sorts of special offers for fathers: socks, ties, electronics, suits, and men's healthcare products.\nquestion: do they celebrate father's day in the netherlands",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Friday Night Lights is a 2004 American sports drama film, directed by Peter Berg. The film follows the coach and players of a high school football team in the Texas city of Odessa, which supported and was obsessed with them. The book on which it was based, Friday Night Lights: A Town, a Team, and a Dream (1990) by H.G. Bissinger, followed the story of the 1988 Permian High School Panthers football team as they made a run towards the state championship. A television series of the same name premiered on October 3, 2006 on NBC. The film won the Best Sports Movie ESPY Award and was ranked number 37 on Entertainment Weekly's list of the Best High School Movies.\nquestion: was friday night lights based on a true story",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: As a good rational approximation for the square root of two, with a reasonable small denominator, the fraction 99/70 (\u2248 1.4142857) is sometimes used.\nquestion: can root 2 be written as a fraction",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the United Kingdom and the Crown dependencies, any household watching or recording live television transmissions as they are being broadcast (terrestrial, satellite, cable, or Internet) is required to hold a television licence. Businesses, hospitals, schools and a range of other organisations are also required to hold television licences to watch and record live TV broadcasts. A television licence is also required to receive video on demand programme services provided by the BBC, on the iPlayer catch-up service.\nquestion: do you need a tv licence in the uk",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Shackled in chains, Kong is taken to New York City and presented to a Broadway theatre audience as ``Kong, the Eighth Wonder of the World''. Ann and Jack are brought on stage to join him, surrounded by a group of press photographers. Kong, believing that the ensuing flash photography is an attack, breaks loose. The audience flees in horror. Ann is whisked away to a hotel room on a high floor, but Kong, scaling the building, soon finds her. His hand smashes through the hotel room window, immobilizing Jack, and abducts Ann again. Kong rampages through the city. He wrecks a crowded elevated train and then climbs the Empire State Building. At its top, he is attacked by four airplanes. Kong destroys one, but finally succumbs to their gunfire. He ensures Ann's safety before falling to his death. Ann and Jack are reunited. Denham arrives and pushes through a crowd surrounding Kong's corpse in the street. When a policeman remarks that the planes got him, Denham tells him, ``It was Beauty killed the Beast''.\nquestion: does king kong die in the original movie",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Xbox One gaming console has received updates from Microsoft since its launch in 2013 that enable it to play select games from its two predecessor consoles, Xbox and Xbox 360. On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. On October 24, 2017, another such update added games from the original Xbox library. The following is a list of all backward compatible games on Xbox One under this functionality.\nquestion: do xbox original games work on xbox one",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Letter or ANSI Letter is a paper size commonly used as home or office stationery in the United States, Canada, Chile, Mexico, the Dominican Republic and the Philippines. It measures 8.5 by 11 inches (215.9 by 279.4 mm). US Letter-size paper is a standard defined by the American National Standards Institute (ANSI, paper size A), in contrast to A4 paper used by most other countries, and adopted at varying dates, which is defined by the International Organization for Standardization, specifically in ISO 216.\nquestion: is 8.5 x 11 the same as a4",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Air Force Special Operations Command (AFSOC), headquartered at Hurlburt Field, Florida, is the special operations component of the United States Air Force. An Air Force major command (MAJCOM), AFSOC is also the U.S. Air Force component command to United States Special Operations Command (USSOCOM), a unified combatant command located at MacDill Air Force Base, Florida. AFSOC provides all Air Force Special Operations Forces (SOF) for worldwide deployment and assignment to regional unified combatant commands.\nquestion: does the us air force have a special forces",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Princeton professor April Alliston wrote, ``Though no literary masterpiece, Fifty Shades is more than parasitic fan fiction based on the recent Twilight vampire series.'' Entertainment Weekly writer Lisa Schwarzbaum gave the book a ``B+'' rating and praised it for being ``in a class by itself.'' British author Jenny Colgan in The Guardian wrote ``It is jolly, eminently readable and as sweet and safe as BDSM (bondage, discipline, sadism and masochism) erotica can be without contravening the trade descriptions act'' and also praised the book for being ``more enjoyable'' than other ``literary erotic books''. The Daily Telegraph noted that the book was ``the definition of a page-turner'', noting that the book was both ``troubling and intriguing''. A reviewer for the Ledger-Enquirer described the book as guilty fun and escapism, and that it ``also touches on one aspect of female existence (female submission). And acknowledging that fact -- maybe even appreciating it -- shouldn't be a cause for guilt.'' The New Zealand Herald stated that the book ``will win no prizes for its prose'' and that ``there are some exceedingly awful descriptions,'' although it was also an easy read; ``(If you only) can suspend your disbelief and your desire to -- if you'll pardon the expression -- slap the heroine for having so little self respect, you might enjoy it.'' The Columbus Dispatch stated that, ``Despite the clunky prose, James does cause one to turn the page.'' Metro News Canada wrote that ``suffering through 500 pages of this heroine's inner dialogue was torturous, and not in the intended, sexy kind of way''. Jessica Reaves, of the Chicago Tribune, wrote that the ``book's source material isn't great literature'', noting that the novel is ``sprinkled liberally and repeatedly with asinine phrases'', and described it as ``depressing''.\nquestion: is 50 shades of grey based off of twilight",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: On August 7, 2018, E! and WWE announced that Total Bellas had been renewed for a fourth season.\nquestion: will there be a total bellas season 4",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: ``All I Want for Christmas Is You'' is a Christmas song performed by American singer and songwriter Mariah Carey. She wrote and produced the song alongside Walter Afanasieff. Columbia Records released it on November 1, 1994, as the lead single from her fourth studio album and first holiday album, Merry Christmas (1994). It is an uptempo love song that includes bell chimes, heavy back-up vocals, and synthesizers.\nquestion: did mariah carey wrote all i want for christmas is you",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the United States of America, Canada, and other countries participating in the North American Numbering Plan, a toll-free telephone number has one of the area codes 800, 833, 844, 855, 866, 877, and 888.\nquestion: is 1-844 toll free in canada",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Song of Songs, also Song of Solomon or Canticles (Hebrew: \u05e9\u05b4\u05c1\u05d9\u05e8 \u05d4\u05b7\u05e9\u05b4\u05bc\u05c1\u05d9\u05e8\u05b4\u05d9\u05dd\u202c, \u0160\u00eer Ha\u0161\u0160\u00eer\u00eem, Greek: \u1f8e\u03c3\u03bc\u03b1 \u1f8e\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd, asma asmaton, both meaning Song of Songs), is one of the megillot (scrolls) found in the last section of the Tanakh, known as the Ketuvim (or ``Writings''), and a book of the Old Testament.\nquestion: is song of songs in the old testament",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Myiasis is the parasitic infestation of the body of a live mammal by fly larvae (maggots) that grow inside the host while feeding on its tissue. Although flies are most commonly attracted to open wounds and urine- or feces-soaked fur, some species (including the most common myiatic flies, the botfly, blowfly (Calliphoridae) and screwfly (Cochliomyia hominivorax) can create an infestation even on unbroken skin and have been known to use moist soil and non-myiatic flies (such as the common housefly) as vector agents for their parasitic larvae.\nquestion: can a fly lay eggs in your skin",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the 1995 live-action film Mortal Kombat, Johnny Cage is one of Raiden's three chosen warriors with Liu Kang and Sonya, and he takes part in the tournament to prove he is a legitimate fighter after Shang Tsung assumes the identity of Cage's sensei in order to trick him into participating. He defeats Scorpion and Goro, and is handpicked by Shang Tsung to fight him in final combat near the conclusion until Liu Kang accepts the challenge. Cage was played by actor Linden Ashby, who had practiced martial arts before he was cast in the role. He did not return for the 1997 sequel Mortal Kombat: Annihilation, in which Cage is played by Chris Conrad. During Shao Kahn's invasion of Earth in the beginning of the film, Cage is killed by the emperor in his attempt to save Sonya when she is taken hostage. Pat E. Johnson, the first film's stunt choreographer, recommended Conrad as Ashby's replacement to Annihilation's producers.\nquestion: does johnny cage die in mortal kombat annihilation",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Kingda Ka is a steel accelerator roller coaster located at Six Flags Great Adventure in Jackson, New Jersey. It is the world's tallest roller coaster, the world's second fastest roller coaster, and was the second strata coaster ever built. It was built by Stakotra, a subcontractor to Intamin. Riders have to be 54'' in order to be able to get on the roller coaster.\nquestion: is kingda ka the biggest roller coaster in the world",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Quarter Pounder is a hamburger sold by international fast food chain McDonald's, so named for containing a patty with a precooked weight of a quarter of a pound (113.4 g). It was first introduced in 1971. In 2013, the Quarter Pounder was expanded to represent a whole line of hamburgers that replaced the company's discontinued Angus hamburger. In 2015, McDonald's increased the precooked weight to 4.25 oz (120.5 g).\nquestion: does a quarter pounder weight a quarter pound",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: A high dependency unit is an area in a hospital, usually located close to the intensive care unit, where patients can be cared for more extensively than on a normal ward, but not to the point of intensive care. It is appropriate for patients who have had major surgery and for those with single-organ failure. Many of these units were set up in the 1990s when hospitals found that a proportion of patients was requiring a level of care that could not be delivered in a normal ward setting. This is thought to be associated with a reduction in mortality. Patients may be admitted to an HDU bed because they are at risk of requiring intensive care admission, or as a step-down between intensive care and ward-based care.\nquestion: is high dependency the same as intensive care",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.\nquestion: is there an interstate that goes coast to coast",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The chain's founders, Harry Shallop and Jack Berry, sought to bring grocery store convenience into the pet supply world. The chain's stores are owned by independent franchisees and company stores. Measuring about 10,000 square feet (930 m), the stores are focused on being neighborhood pet supply ``supermarkets,'' stocking a very wide selection of pet food and supplies. The stores also have limited livestock departments, and some have also recently added grooming services and self-serve dog washes. The stores make it a point to welcome dogs, cats and other pets to its stores. Pet Supplies Plus considers themselves to be ``Americas Favorite Neighborhood Pet Store'' In keeping with the neighborly feel, it displays biscuits at ``nose level'' so dogs can take samples while shopping with their owners. Many locations sponsor adoption events with local animal rescue and humane groups. Pet Supplies Plus currently has their own brand of natural dog and cat food called Redford Naturals.\nquestion: can i bring my dog to pet supplies plus",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In classical mechanics, a reactive centrifugal force forms part of an action--reaction pair with a centripetal force.\nquestion: are centripetal and centrifugal force action reaction pair",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In addition to being one of the top six international marathons run over the distance of 26 mi 385 yd (42.195 km), the IAAF standard for the marathon established in 1921 and originally used for the 1908 London Olympics, the London Marathon is also a large, celebratory sporting festival, third in England only to the Great North Run in Newcastle upon Tyne and Great Manchester Run in Manchester in terms of the number of participants . The event has raised over \u00a3450 million for charity since 1981, and holds the Guinness world record as the largest annual fund raising event in the world, with the 2009 participants raising over \u00a347.2 million for charity. In 2007, 78% of all runners raised money. In 2011 the official charity of the London Marathon was Oxfam. In 2014, the official charity was Anthony Nolan, and in 2015, it was Cancer Research UK.\nquestion: is the london marathon the largest in the world",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: In the novel, recounting events from various points of view, Martin introduces the plot-lines of the noble houses of Westeros, the Wall, and the Targaryens. The novel has inspired several spin-off works, including several games. It is also the namesake and basis for the first season of Game of Thrones, an HBO television series that premiered in April 2011. A March 2013 paperback TV tie-in re-edition was also titled Game of Thrones, excluding the indefinite article ``A''.\nquestion: is game of thrones based on a book",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The Canadian dollar (symbol: $; code: CAD; French: dollar canadien) is the currency of Canada. It is abbreviated with the dollar sign $, or sometimes Can$ or C$ to distinguish it from other dollar-denominated currencies. It is divided into 100 cents (\u00a2).\nquestion: are canadian dollars the same as american dollars",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The court also has jurisdiction over appeals in criminal matters from superior court, except for cases in which a death sentence has been imposed. Death penalty cases go directly to the Supreme Court of Arizona.\nquestion: does the arizona court of appeals hear death penalty cases",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Angel food cake, or angel cake, is a type of sponge cake made with egg whites, flour, and sugar. A whipping agent, such as cream of tartar, is commonly added. It differs from other cakes because it uses no butter. Its structure comes from whipped egg whites known as a protein foam. Angel food cake originated in the United States and first became popular in the late 19th century. It gained its unique reputation along with its name due to its light and fluffy texture, said to resemble the ``food of the angels''.\nquestion: does angel food cake have flour in it",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The town is prone to flooding from the Patapsco River and its tributary the Tiber River. These floods have had a major impact on the history of the town, often destroying important businesses and killing many. Ellicott City has had major devastating floods in 1817, 1837, 1868, 1901, 1917, 1923, 1938, 1942, 1952, 1956, 1972 (Hurricane Agnes), 1975 (Hurricane Eloise), 1989, 2011, 2016, and 2018. The 1868 flood washed away 14 houses, killing 39 to 43 (accounts vary) in and around Ellicott City. It wiped out the Granite Manufacturing Cotton Mill, Charles A. Gambrill's Patapsco Mill, John Lee Carroll's mill buildings, and dozens of homes. One mill was rebuilt by Charles Gambrill, which remained in operation until a fire in 1916.\nquestion: is there a river in ellicott city md",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: An undergraduate degree (also called first degree, bachelor's degree or simply degree) is a colloquial term for an academic degree taken by a person who has completed undergraduate courses. It is usually offered at an institution of higher education, such as a university. The most common type of this degree is the bachelor's degree, which typically takes at least three or four years to complete. These degrees can be categorised as basic degrees.\nquestion: is an undergraduate degree the same as a bachelor's degree",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: An AC adapter, AC/DC adapter, or AC/DC converter is a type of external power supply, often enclosed in a case similar to an AC plug. Other common names include plug pack, plug-in adapter, adapter block, domestic mains adapter, line power adapter, wall wart, power brick, and power adapter. Adapters for battery-powered equipment may be described as chargers or rechargers (see also battery charger). AC adapters are used with electrical devices that require power but do not contain internal components to derive the required voltage and power from mains power. The internal circuitry of an external power supply is very similar to the design that would be used for a built-in or internal supply.\nquestion: is a power adapter the same as a charger",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: An enhanced driver's license (EDL), currently issued by the states of Michigan, Minnesota, New York, Vermont, and Washington, is specifically designed to meet the requirements of the Western Hemisphere Travel Initiative (WHTI) to re-enter the United States via a land or water border. An EDL will also suffice as proof of identity and citizenship for American citizens entering Canada by road.\nquestion: does an enhanced license work to get into canada",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The one-hour sitcom was usually set aboard Pacific Princess, at the time a real-life Princess Cruises cruise ship. Other ships used were the Pacific Princess twin sister vessel Island Princess, along with other cruise liners: SS Stella Solaris (for a Mediterranean Sea cruise), MS Pearl of Scandinavia (for a Chinese cruise), Royal Viking Sky (for European cruises, now MV Boudicca) and Royal Princess (now S.S. Artemis) and Sun Princess (for Caribbean Sea cruises). In 1981, P&O Cruises' line Sea Princess (now MS Veronica) was also used for the special two-hour episode ``Julie's Wedding'', set in and around Australia. Only the latter four ships still exist today.\nquestion: was the love boat filmed on a ship",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Fear the Walking Dead is an American post-apocalyptic horror drama television series created by Robert Kirkman and Dave Erickson, that premiered on AMC on August 23, 2015. It is a companion series and prequel to The Walking Dead, which is based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard.\nquestion: is the walking dead same as fear the walking dead",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The How to Train Your Dragon franchise from DreamWorks Animation consists of two feature films How to Train Your Dragon (2010) and How to Train Your Dragon 2 (2014), with a third feature film, How to Train Your Dragon: The Hidden World, set for a 2019 release. The franchise is inspired by the British book series of the same name by Cressida Cowell. The franchise also consists of four short films: Legend of the Boneknapper Dragon (2010), Book of Dragons (2011), Gift of the Night Fury (2011) and Dawn of the Dragon Racers (2014). A television series following the events of the first film, Dragons: Riders of Berk, began airing on Cartoon Network in September 2012. Its second season was renamed Dragons: Defenders of Berk. Set several years later, and as a more immediate prequel to the second film, a new television series, titled Dragons: Race to the Edge, aired on Netflix in June 2015. The second season of the show was added to Netflix in January 2016 and a third season in June 2016. A fourth season aired on Netflix in February 2017, a fifth season in August 2017, and a sixth and final season on February 16, 2018.\nquestion: will there be a new how to train your dragon series",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Ross-on-Wye railway station is a former junction railway station on the Hereford, Ross and Gloucester Railway constructed just to the north of the Herefordshire town of Ross-on-Wye. It was the terminus of the Ross and Monmouth Railway which joined the Hereford, Ross and Gloucester Railway just south of the station.\nquestion: does ross on wye have a train station",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Scarlett is a 1991 novel by Alexandra Ripley, written as a sequel to Margaret Mitchell's 1936 novel, Gone with the Wind. The book debuted on The New York Times bestsellers list, but both critics and fans of the original novel found Ripley's version to be inconsistent with the literary quality of Gone with the Wind.\nquestion: is there a sequal to gone with the wind",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Most North American rinks follow the National Hockey League (NHL) specifications of 200 feet (61 m) \u00d7 85 feet (26 m) with a corner radius of 28 feet (8.5 m). The distance from the end boards to the nearest goal line is 11 feet (3.4 m). The NHL attacking zones are expanded, with blue lines 64 feet (20 m) from the goal line and 50 feet (15 m) apart. Canadian rinks may vary from NHL ones, especially in the goal crease shape (semi-circular), and in the rink dimensions which can accept widths from 85 to 100 feet.\nquestion: are all nhl ice rinks the same size",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: Currently the Form I-765 Employment Authorization Document is issued in the form of a standard credit card-size plastic card enhanced with multiple security features. The card contains some basic information about the alien: name, birth date, sex, immigrant category, country of birth, photo, alien registration number (also called ``A-number''), card number, restrictive terms and conditions, and dates of validity. This document, however, should not be confused with the green card.\nquestion: is an employment authorization card a green card",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The fighting words doctrine, in United States constitutional law, is a limitation to freedom of speech as protected by the First Amendment to the United States Constitution.\nquestion: are fighting words protected under freedom of speech",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The 2001 World Series was the championship series of Major League Baseball's (MLB) 2001 season. The 97th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Arizona Diamondbacks and the three-time defending World Series champions and American League (AL) champion New York Yankees. The Diamondbacks defeated the Yankees, four games to three to win the series. Considered one of the greatest World Series of all time, memorable aspects included two extra-inning games and three late-inning comebacks. Diamondbacks pitchers Randy Johnson and Curt Schilling were both named World Series Most Valuable Players.\nquestion: did the yankees win the world series in 2001",
+      "answer": 1,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The eighth season of Shameless, an American comedy-drama television series based on the British series of the same name by Paul Abbott, was announced on December 19, 2016, a day after the seventh season finale. The season, which premiered on November 5, 2017, consisted of a total of 12 episodes.\nquestion: is shameless coming out with a season 8",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "question": "passage: The newspaper has won 47 Pulitzer Prizes. This includes six separate Pulitzers awarded in 2008, second only to The New York Times' seven awards in 2002 for the highest number ever awarded to a single newspaper in one year. Post journalists have also received 18 Nieman Fellowships and 368 White House News Photographers Association awards. In the early 1970s, in the best-known episode in the newspaper's history, reporters Bob Woodward and Carl Bernstein led the American press' investigation into what became known as the Watergate scandal; reporting in the newspaper greatly contributed to the resignation of President Richard Nixon. In years since, its investigations have led to increased review of the Walter Reed Army Medical Center.\nquestion: is the washington post a reputable news source",
+      "answer": 0,
+      "option": [
+        "True",
+        "False"
+      ]
+    }
+  ]
+}

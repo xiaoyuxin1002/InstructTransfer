@@ -1,0 +1,2048 @@
+{
+  "train": [
+    {
+      "question": "Sentence 1: The beagle is walking on the beach at the waterline. Sentence 2: A beagle walks along the calm shore.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Romanian president declared victory Sentence 2: Chinese president concludes state visit to Denmark",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is peeling a potato. Sentence 2: A woman is peeling an apple.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is riding a motorized scooter down a road. Sentence 2: A man is riding a motor scooter.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: China yuan weakens to 6.1059 against USD Sentence 2: China yuan strengthens to 6.1070 against USD Friday",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Gunmen kill one soldier, injure two others in Pakistan Sentence 2: Gunmen kill 6 polio workers in Pakistan",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is cutting a plastic sheet. Sentence 2: A woman is playing a guitar on streets.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: At Least 66 Killed in Bomb Blasts in Iraq Sentence 2: At Least 47 Killed In Baquba Blasts",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Protests continue in tense Ukraine capital Sentence 2: Protests continue in Brazil",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: US Attorney General Holder resigns Sentence 2: US Attorney general Eric Holder to resign",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hurricane Sandy Closes in on US East Coast Sentence 2: Hurricane Sandy takes aim at US East Coast",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: EU heaps new sanctions on Syria Sentence 2: EU imposes new sanctions on Syrian regime",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: orphaned alps massacre girl returns to uk Sentence 2: Alps attack: Girl returns to UK",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Red Sox Beat Tigers 5-2 to Advance to World Series Sentence 2: Red Sox beat Tigers to reach World Series",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: drug traffickers face the death penalty under tajik law. Sentence 2: afghan drug trafficker was caught in tajikistan.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The men are performing on stage. Sentence 2: The comedic mimes performed on stage.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hague 'concerns over conduct' of Zimbabwe election Sentence 2: Zimbabwe: 'Grave Concerns' Over Election",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hawaii preps for first hurricane in 22 years Sentence 2: Hawaii bracing as first hurricane in 22 years approaches",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two buses parked on a street. Sentence 2: Yellow scooter parked in an alley way.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Egypt's main opposition rejects president's call for dialogue Sentence 2: Egypt opposition mulls response to Morsi dialogue call",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: At least two Nato killed in Afghanistan helicopter crash: military Sentence 2: At least 18 killed in Afghan bomb attacks: officials",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Woman in blue shift dress cutting into food. Sentence 2: A woman in a blue dress cuts a cake.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is dicing an onion. Sentence 2: The man is playing the guitar.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: 1 person killed in sectarian clashes in Lebanon Sentence 2: 180 killed in Iran earthquake",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Headlines in major Iranian newspapers on April 5 Sentence 2: Headlines in major Iranian newspapers on August 18",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The black bird is sitting on the ground. Sentence 2: The bird is sitting on the branch.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Butter is being put into a bowl. Sentence 2: A man cutting butter into a mixing bowl.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is taking a shower. Sentence 2: A man is riding a white horse.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man riding a white horse in an arena. Sentence 2: A domestic animal stands in a pen.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Eye Opener: Supreme Court rules on Arizona immigration law Sentence 2: U.S. Supreme Court issues split ruling on Arizona immigration law",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is running. Sentence 2: A man is mooing.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Egypt's presidential election begins Sentence 2: Egypt issues long-waited presidential election law",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Someone is carving a statue. Sentence 2: A man is carving a statue.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is slicing a pepper. Sentence 2: A person cuts a big green pepper apart.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The cat is drinking milk. Sentence 2: A cat is licking from a saucer of milk.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is chopping up garlic. Sentence 2: The woman is dicing garlic.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Do you see Obama calling for regulation reform? Sentence 2: Do you see Obama calling for Cut, Cap and Balance?",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing a piano. Sentence 2: A man is playing a flute.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: India gang-rape victim \"struggling against the odds\" Sentence 2: Indian rape victim dies in Singapore hospital",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two blasts near Iranian embassy in Beirut, 7 killed Sentence 2: Blast near Iran embassy in Beirut",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A boy plays violin on stage. Sentence 2: A boy is onstage playing the violin.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Police fire tear gas at protesters in Bangkok Sentence 2: Police fire tear gas at protesters",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Taiwan gang leader nabbed at airport after 17 years Sentence 2: Zambia arrests ex-leader Banda over oil deal",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The brown train is sitting on the railroad tracks. Sentence 2: The white train is sitting on the tracks.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is in the rain. Sentence 2: A car is driving along the road.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man blowing a large bubble. Sentence 2: A man walking a large black horse.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Are you driving one? Sentence 2: Are you driving a fucking Volt?",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Four Morsi supporters killed in Egypt clashes Sentence 2: Thousands of Morsi supporters gather in Egypt",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Bomb attacks kill 20 in Baghdad's Christian areas Sentence 2: Bombs Kill 35 in Baghdad Christian Area",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two Aust soldiers wounded in Afghanistan Sentence 2: 4 foreign soldiers killed in Afghan east",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "Sentence 1: Someone is pouring ingrediants into a pot. Sentence 2: A man puts vegetables into a pot.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Israel among top arms exporters in world: report Sentence 2: Israel among top arms exporters and importers",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two U.S. soldiers killed in \"insider\" attack in Afghanistan Sentence 2: 8 soldiers killed in bomb attack in NW Pakistan",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Someone is boiling okra in a pot. Sentence 2: Someone pours olive oil into a bowl of tomato wedges.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: iran's nuclear projects are for peaceful purposes. Sentence 2: iran insists that its nuclear program is for peaceful purposes",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing the piano. Sentence 2: The man is playing the violin.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two brown dogs running together on sand Sentence 2: Two brown dogs are running on the sand.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Five cows are grazing beside the road. Sentence 2: Several sheep grazing in the field.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: EU slaps sanctions on Assad family Sentence 2: EU sanctions Assad's wife; mortars hit Homs",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A close-up of a black train engine. Sentence 2: Close up of a white sheep with a black head.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two young women shear a sheep. Sentence 2: Two women sheering a sheep.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is tying his shoe. Sentence 2: A dog is riding on a bicyclists shoulders.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: People ride and paddle a raft. Sentence 2: Four people are floating on a raft.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Swiss vote on highest minimum wage Sentence 2: Swiss cast ballots on world's highest minimum wage",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A longed-haired cat with it's eyes closed. Sentence 2: A close up of a cat with its eyes closed.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Except that it wasn't. Sentence 2: Except that they couldn't.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman puts ingredients in a whisked egg. Sentence 2: A man pours gasoline.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is smelling two pizzas. Sentence 2: A woman is feeding a man.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hot-Air Balloon Catches Fire in Virginia Sentence 2: Hot Air Balloon 'Catches Fire And Crashes'",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: in  Foxe basin was frozen. Sentence 2: Foxe was mostly frozen.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "Sentence 1: A man plays the violin. Sentence 2: A man is playing violin.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: North Korea Nuclear Test Sparks Worry Sentence 2: North Korea nuclear test",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is cutting a potato. Sentence 2: A woman plays an electric guitar.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: US Senator McCain meets opposition leaders in Ukraine Sentence 2: SFG meeting reviews situation in Mali",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing the drums. Sentence 2: A man is playing guitar.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Five dead in Pakistan suicide blast Sentence 2: Over 120 dead in Pakistan factory blaze",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing a guitar. Sentence 2: The girl is playing the guitar.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Roadside bomb kills 10 Afghan civilians: police Sentence 2: Roadside bomb kills 5 Afghan policemen",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man jumping his dirt bike. Sentence 2: A man on a bike jumping through the air.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A grey house with a red door. Sentence 2: House with a red door.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A dog and a red ball in the air. Sentence 2: A dog digs a hole in a yard.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A family is playing on the beach with their dog. Sentence 2: A naked little girl being thrown into the air.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Syrians trade blame over blasts Sentence 2: Israel braces for Arab protests",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A baby eats his food. Sentence 2: A baby is being fed peas.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is cutting an onion. Sentence 2: A man is cutting onions.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is speaking. Sentence 2: A man is spitting.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A plane is landing. Sentence 2: A animated airplane is landing.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is drilling a hole in a board. Sentence 2: Someone is drilling a hole in a piece of wood.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The man and woman are resting on a couch. Sentence 2: A man and woman are asleep on the couch.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Suicide bomber kills 4 near NATO's Afghan HQ Sentence 2: Suicide bomber kills 23 at Afghan wedding",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A girl is riding a horse. Sentence 2: The girl trotted the horse.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is eating a pizza. Sentence 2: A man is eating a food.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Australia cuts rates to record low Sentence 2: Australia cuts interest rates to record low",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is climbing a rope. Sentence 2: A man climbs a rope.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A small dog laying on the bed. Sentence 2: A small dog is laying on a bed.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The cook is kneading the flour. Sentence 2: A woman is kneading tortilla dough.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: man on steps Sentence 2: A man sits on steps.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is carrying a boy. Sentence 2: A woman is carrying her baby.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A plane rides on a road. Sentence 2: An airplane moves along a runway.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Egyptian president moves into Mubarak's old office Sentence 2: Egypt's President-Elect Morsi Starts to Form Government",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Coty launches $10 billion bid for rival Avon Sentence 2: Coty bids $10 billion for Avon",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: One man is breaking cement on another man's chest. Sentence 2: A man breaks cinder blocks on another man.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A white plane on the runway. Sentence 2: A white Swiss airplane approaches the runway.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Kids are dancing on stage. Sentence 2: Some people are dancing on stage.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: 2 dead in Bangladesh clashes over Jamaat leader\u2019s execution Sentence 2: Bangladesh Islamist leader executed",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The man is playing the guitar. Sentence 2: A man is playing a guitar.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is putting her baby in a waste bin. Sentence 2: The woman is poking holes in the potato.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Greece votes in crucial election Sentence 2: Greece looks set for repeat election",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: House blaze kills 7 in northern Pakistan Sentence 2: US drone strike kills 8 in NW Pakistan",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Maldives begins to vote in controversy-ridden presidential poll Sentence 2: Crisis-hit Maldives holds new presidential poll",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: South Africa train crash kills at least 19 Sentence 2: South Africa train crash kills 26",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is riding on a horse. Sentence 2: A woman is riding an elephant.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The man is playing the keyboards. Sentence 2: A man is playing guitar.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Egypt's Coptic Pope Shenuda III dies Sentence 2: Egypt prepares to bury Coptic Pope Shenuda III",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing a guitar. Sentence 2: A man is eating a banana.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Spanish jobless rate soars past 25 per cent Sentence 2: US jobless rate seen rising, offering Obama no relief",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The baby laughed in his car seat. Sentence 2: A baby is laughing.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is riding a horse along a perimeter. Sentence 2: A dog is riding a skateboard.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Juror: Sandusky appeared to accept his fate Sentence 2: Jerry Sandusky convicted of child sexual abuse",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The lady stirred up raw eggs in the bowl. Sentence 2: A woman is pouring eyes into a bowl.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Breivik complains of 'ridicule' Sentence 2: Breivik: Jail term 'ridiculous'",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: An animal is biting a persons finger. Sentence 2: A slow loris is biting a persons finger.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Attack kills 12 in Afghanistan Sentence 2: NATO: 3 troops killed in Afghanistan attack",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A panda is climbing. Sentence 2: A man is climbing a rope.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: EU Set for New Sanctions on Iran Sentence 2: EU plans major new sanctions against Iran",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Queen pays tribute to Nelson Mandela Sentence 2: US presidents pay tribute to Mandela",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A blue scooter parked on a sidewalk. Sentence 2: A blue moped parked on the sidewalk.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man plays a keyboard. Sentence 2: A person is playing the keyboard.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A puppy is trying to come out from the sink. Sentence 2: The puppy tried to get out of the tub.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man eating an apple, sitting in public. Sentence 2: A man sits in a public place eating an apple.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is bungee jumping. Sentence 2: A girl is bungee jumping.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Five kittens are eating out of five dishes. Sentence 2: Kittens are eating food on trays.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is hitting a man. Sentence 2: A woman is taking a bath.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is playing the piano. Sentence 2: A man is playing a wooden flute.",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The gate is blue. Sentence 2: The gate is yellow.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is slicing a big pepper. Sentence 2: A person is cutting a green pepper.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The woman is dicing onions. Sentence 2: A woman is dancing in railway station.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Fire in Russian psychiatric hospital kills 38 Sentence 2: 38 feared dead in Russian psychiatric hospital fire",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Colorado shooting suspect was in therapy Sentence 2: Lawyers: Colo. shooting suspect is mentally ill",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two people sitting on a large motorcycle. Sentence 2: Two eagles sitting on a long branch.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A smiling woman holding a small baby. Sentence 2: Two smiling women holding a baby.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Nelson Mandela undergoes surgery Sentence 2: \u2018Nelson Mandela is recovering\u2019",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The man is riding a horse. Sentence 2: A woman is using a hoe.",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Four children looking at barn animals. Sentence 2: Children looking a sheep.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: An AeroMexico jet taxing along a runway. Sentence 2: A silver AreoMexico Jet Liner sitting on the tarmac.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: New UN peacekeeping chief named for Central African Republic Sentence 2: UN takes over peacekeeping in Central African Republic",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Brooks pleads not guilty to hacking charges Sentence 2: Dave Lee Travis pleads not guilty to all charges",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Blond woman in a tunnel. Sentence 2: The couple kissing is near a blond woman.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: At least 38 Morsi supporters die in clashes Sentence 2: Dozens of Morsi supporters killed in Egypt clashes",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Scientists prove there is water on Mars Sentence 2: Has Nasa discovered water on Mars?",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is peeling an orange. Sentence 2: A woman cuts off a small piece of lemon rind.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Residents near Gaza instructed to stay near shelter Sentence 2: Best\u2019s great day brings West Indies cheer",
+      "answer": 0,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Motorists killed after Japanese tunnel collapses Sentence 2: Cars trapped in tunnel collapse outside Tokyo",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Libya asks UN Security Council for help Sentence 2: Kerry Calls On UN Security Council to Act on Syria",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The girl sang into a microphone. Sentence 2: The lady sang into the microphone.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Syrian troops kill 35 in Damascus suburb Sentence 2: Activists: Syrian troops kill dozens near Damascus",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A band is performing on a stage. Sentence 2: A band is playing onstage.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Two dogs are running in a grassy field Sentence 2: Two dogs running through a grassy field.",
+      "answer": 5,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Barack Obama's personal evolution on same-sex marriage Sentence 2: Obama backs same-sex marriage",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: the man is catching a ball Sentence 2: A man is kicking a ball.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man is riding a bicycle on a dirt path. Sentence 2: Two dogs running along dirt path.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Three dogs playing in the snow. Sentence 2: Three dogs run in the snow.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Israel 'bombs' Syria as envoy presses peace talks bid Sentence 2: Fierce clashes in east Syria as US pushes peace talks",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: The Note's Must-Reads for Friday, December 6, 2013 Sentence 2: The Note's Must-Reads for Friday, July 12, 2013",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: This dog is jumping through the water. Sentence 2: Two dogs running through the water on a beach.",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A man and a woman walk through the woods. Sentence 2: The man and woman are walking.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman equestrian riding a horse. Sentence 2: The woman is riding on the brown horse.",
+      "answer": 4,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: US drone strike kills 8 militants Sentence 2: US drone strike kills four in NWA: officials",
+      "answer": 2,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: A woman is slicing some tuna. Sentence 2: A woman is cutting raw fish.",
+      "answer": 3,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    },
+    {
+      "question": "Sentence 1: Pakistani Taliban chief Hakimullah Mehsud killed in drone strike Sentence 2: Pakistani Taliban 'elect new chief', vow 'unprecedented' revenge",
+      "answer": 1,
+      "option": [
+        "definitely not",
+        "probably not",
+        "possibly",
+        "probably",
+        "almost perfectly",
+        "perfectly"
+      ]
+    }
+  ]
+}

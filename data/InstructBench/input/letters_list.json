@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "wheat",
+      "answer": "w h e a t"
+    },
+    {
+      "question": "calibre",
+      "answer": "c a l i b r e"
+    },
+    {
+      "question": "tax",
+      "answer": "t a x"
+    },
+    {
+      "question": "whale",
+      "answer": "w h a l e"
+    },
+    {
+      "question": "traffic",
+      "answer": "t r a f f i c"
+    },
+    {
+      "question": "metric",
+      "answer": "m e t r i c"
+    },
+    {
+      "question": "ribbon",
+      "answer": "r i b b o n"
+    },
+    {
+      "question": "listener",
+      "answer": "l i s t e n e r"
+    },
+    {
+      "question": "martial",
+      "answer": "m a r t i a l"
+    },
+    {
+      "question": "winter",
+      "answer": "w i n t e r"
+    },
+    {
+      "question": "horn",
+      "answer": "h o r n"
+    },
+    {
+      "question": "effort",
+      "answer": "e f f o r t"
+    },
+    {
+      "question": "sensitivity",
+      "answer": "s e n s i t i v i t y"
+    },
+    {
+      "question": "absorption",
+      "answer": "a b s o r p t i o n"
+    },
+    {
+      "question": "violation",
+      "answer": "v i o l a t i o n"
+    },
+    {
+      "question": "revolt",
+      "answer": "r e v o l t"
+    },
+    {
+      "question": "captain",
+      "answer": "c a p t a i n"
+    },
+    {
+      "question": "protein",
+      "answer": "p r o t e i n"
+    },
+    {
+      "question": "tenure",
+      "answer": "t e n u r e"
+    },
+    {
+      "question": "breath",
+      "answer": "b r e a t h"
+    },
+    {
+      "question": "half",
+      "answer": "h a l f"
+    },
+    {
+      "question": "depth",
+      "answer": "d e p t h"
+    },
+    {
+      "question": "fence",
+      "answer": "f e n c e"
+    },
+    {
+      "question": "bidding",
+      "answer": "b i d d i n g"
+    },
+    {
+      "question": "thrust",
+      "answer": "t h r u s t"
+    },
+    {
+      "question": "aspect",
+      "answer": "a s p e c t"
+    },
+    {
+      "question": "monopoly",
+      "answer": "m o n o p o l y"
+    },
+    {
+      "question": "remix",
+      "answer": "r e m i x"
+    },
+    {
+      "question": "file",
+      "answer": "f i l e"
+    },
+    {
+      "question": "radiation",
+      "answer": "r a d i a t i o n"
+    },
+    {
+      "question": "farm",
+      "answer": "f a r m"
+    },
+    {
+      "question": "deal",
+      "answer": "d e a l"
+    },
+    {
+      "question": "slave",
+      "answer": "s l a v e"
+    },
+    {
+      "question": "limestone",
+      "answer": "l i m e s t o n e"
+    },
+    {
+      "question": "acid",
+      "answer": "a c i d"
+    },
+    {
+      "question": "product",
+      "answer": "p r o d u c t"
+    },
+    {
+      "question": "criticism",
+      "answer": "c r i t i c i s m"
+    },
+    {
+      "question": "magazine",
+      "answer": "m a g a z i n e"
+    },
+    {
+      "question": "throw",
+      "answer": "t h r o w"
+    },
+    {
+      "question": "plant",
+      "answer": "p l a n t"
+    },
+    {
+      "question": "cloverleaf",
+      "answer": "c l o v e r l e a f"
+    },
+    {
+      "question": "rental",
+      "answer": "r e n t a l"
+    },
+    {
+      "question": "college",
+      "answer": "c o l l e g e"
+    },
+    {
+      "question": "imitation",
+      "answer": "i m i t a t i o n"
+    },
+    {
+      "question": "rubble",
+      "answer": "r u b b l e"
+    },
+    {
+      "question": "backwards",
+      "answer": "b a c k w a r d s"
+    },
+    {
+      "question": "kit",
+      "answer": "k i t"
+    },
+    {
+      "question": "sweeping",
+      "answer": "s w e e p i n g"
+    },
+    {
+      "question": "cylinder",
+      "answer": "c y l i n d e r"
+    },
+    {
+      "question": "brood",
+      "answer": "b r o o d"
+    }
+  ],
+  "val": [
+    {
+      "question": "heir",
+      "answer": "h e i r"
+    },
+    {
+      "question": "list",
+      "answer": "l i s t"
+    },
+    {
+      "question": "cap",
+      "answer": "c a p"
+    },
+    {
+      "question": "sky",
+      "answer": "s k y"
+    },
+    {
+      "question": "destroyer",
+      "answer": "d e s t r o y e r"
+    },
+    {
+      "question": "poll",
+      "answer": "p o l l"
+    },
+    {
+      "question": "attempt",
+      "answer": "a t t e m p t"
+    },
+    {
+      "question": "brass",
+      "answer": "b r a s s"
+    },
+    {
+      "question": "composition",
+      "answer": "c o m p o s i t i o n"
+    },
+    {
+      "question": "crop",
+      "answer": "c r o p"
+    },
+    {
+      "question": "everybody",
+      "answer": "e v e r y b o d y"
+    },
+    {
+      "question": "graph",
+      "answer": "g r a p h"
+    },
+    {
+      "question": "dollar",
+      "answer": "d o l l a r"
+    },
+    {
+      "question": "filming",
+      "answer": "f i l m i n g"
+    },
+    {
+      "question": "whaling",
+      "answer": "w h a l i n g"
+    },
+    {
+      "question": "south",
+      "answer": "s o u t h"
+    },
+    {
+      "question": "chancellor",
+      "answer": "c h a n c e l l o r"
+    },
+    {
+      "question": "booklet",
+      "answer": "b o o k l e t"
+    },
+    {
+      "question": "habitat",
+      "answer": "h a b i t a t"
+    },
+    {
+      "question": "lateral",
+      "answer": "l a t e r a l"
+    }
+  ],
+  "test": [
+    {
+      "question": "morale",
+      "answer": "m o r a l e"
+    },
+    {
+      "question": "conquer",
+      "answer": "c o n q u e r"
+    },
+    {
+      "question": "precision",
+      "answer": "p r e c i s i o n"
+    },
+    {
+      "question": "symbolism",
+      "answer": "s y m b o l i s m"
+    },
+    {
+      "question": "hurricane",
+      "answer": "h u r r i c a n e"
+    },
+    {
+      "question": "closing",
+      "answer": "c l o s i n g"
+    },
+    {
+      "question": "cricket",
+      "answer": "c r i c k e t"
+    },
+    {
+      "question": "clearance",
+      "answer": "c l e a r a n c e"
+    },
+    {
+      "question": "judgement",
+      "answer": "j u d g e m e n t"
+    },
+    {
+      "question": "fight",
+      "answer": "f i g h t"
+    },
+    {
+      "question": "fumble",
+      "answer": "f u m b l e"
+    },
+    {
+      "question": "flu",
+      "answer": "f l u"
+    },
+    {
+      "question": "foot",
+      "answer": "f o o t"
+    },
+    {
+      "question": "custom",
+      "answer": "c u s t o m"
+    },
+    {
+      "question": "reduction",
+      "answer": "r e d u c t i o n"
+    },
+    {
+      "question": "afford",
+      "answer": "a f f o r d"
+    },
+    {
+      "question": "counterpart",
+      "answer": "c o u n t e r p a r t"
+    },
+    {
+      "question": "timing",
+      "answer": "t i m i n g"
+    },
+    {
+      "question": "place",
+      "answer": "p l a c e"
+    },
+    {
+      "question": "inning",
+      "answer": "i n n i n g"
+    },
+    {
+      "question": "prequel",
+      "answer": "p r e q u e l"
+    },
+    {
+      "question": "leisure",
+      "answer": "l e i s u r e"
+    },
+    {
+      "question": "league",
+      "answer": "l e a g u e"
+    },
+    {
+      "question": "model",
+      "answer": "m o d e l"
+    },
+    {
+      "question": "gateway",
+      "answer": "g a t e w a y"
+    },
+    {
+      "question": "signal",
+      "answer": "s i g n a l"
+    },
+    {
+      "question": "boom",
+      "answer": "b o o m"
+    },
+    {
+      "question": "calm",
+      "answer": "c a l m"
+    },
+    {
+      "question": "rhetoric",
+      "answer": "r h e t o r i c"
+    },
+    {
+      "question": "surface",
+      "answer": "s u r f a c e"
+    },
+    {
+      "question": "invasion",
+      "answer": "i n v a s i o n"
+    },
+    {
+      "question": "editor",
+      "answer": "e d i t o r"
+    },
+    {
+      "question": "diamond",
+      "answer": "d i a m o n d"
+    },
+    {
+      "question": "camera",
+      "answer": "c a m e r a"
+    },
+    {
+      "question": "culture",
+      "answer": "c u l t u r e"
+    },
+    {
+      "question": "suit",
+      "answer": "s u i t"
+    },
+    {
+      "question": "wife",
+      "answer": "w i f e"
+    },
+    {
+      "question": "accordance",
+      "answer": "a c c o r d a n c e"
+    },
+    {
+      "question": "choreography",
+      "answer": "c h o r e o g r a p h y"
+    },
+    {
+      "question": "northwest",
+      "answer": "n o r t h w e s t"
+    },
+    {
+      "question": "characterization",
+      "answer": "c h a r a c t e r i z a t i o n"
+    },
+    {
+      "question": "armament",
+      "answer": "a r m a m e n t"
+    },
+    {
+      "question": "simpler",
+      "answer": "s i m p l e r"
+    },
+    {
+      "question": "fare",
+      "answer": "f a r e"
+    },
+    {
+      "question": "contract",
+      "answer": "c o n t r a c t"
+    },
+    {
+      "question": "quarter",
+      "answer": "q u a r t e r"
+    },
+    {
+      "question": "affect",
+      "answer": "a f f e c t"
+    },
+    {
+      "question": "performer",
+      "answer": "p e r f o r m e r"
+    },
+    {
+      "question": "cantata",
+      "answer": "c a n t a t a"
+    },
+    {
+      "question": "strand",
+      "answer": "s t r a n d"
+    },
+    {
+      "question": "diversion",
+      "answer": "d i v e r s i o n"
+    },
+    {
+      "question": "phosphate",
+      "answer": "p h o s p h a t e"
+    },
+    {
+      "question": "baby",
+      "answer": "b a b y"
+    },
+    {
+      "question": "guitar",
+      "answer": "g u i t a r"
+    },
+    {
+      "question": "baseman",
+      "answer": "b a s e m a n"
+    },
+    {
+      "question": "credit",
+      "answer": "c r e d i t"
+    },
+    {
+      "question": "rendition",
+      "answer": "r e n d i t i o n"
+    },
+    {
+      "question": "site",
+      "answer": "s i t e"
+    },
+    {
+      "question": "groove",
+      "answer": "g r o o v e"
+    },
+    {
+      "question": "servant",
+      "answer": "s e r v a n t"
+    },
+    {
+      "question": "promoter",
+      "answer": "p r o m o t e r"
+    },
+    {
+      "question": "voting",
+      "answer": "v o t i n g"
+    },
+    {
+      "question": "simplicity",
+      "answer": "s i m p l i c i t y"
+    },
+    {
+      "question": "section",
+      "answer": "s e c t i o n"
+    },
+    {
+      "question": "explanation",
+      "answer": "e x p l a n a t i o n"
+    },
+    {
+      "question": "vector",
+      "answer": "v e c t o r"
+    },
+    {
+      "question": "service",
+      "answer": "s e r v i c e"
+    },
+    {
+      "question": "point",
+      "answer": "p o i n t"
+    },
+    {
+      "question": "run",
+      "answer": "r u n"
+    },
+    {
+      "question": "drag",
+      "answer": "d r a g"
+    },
+    {
+      "question": "description",
+      "answer": "d e s c r i p t i o n"
+    },
+    {
+      "question": "moon",
+      "answer": "m o o n"
+    },
+    {
+      "question": "lighter",
+      "answer": "l i g h t e r"
+    },
+    {
+      "question": "press",
+      "answer": "p r e s s"
+    },
+    {
+      "question": "geography",
+      "answer": "g e o g r a p h y"
+    },
+    {
+      "question": "agreement",
+      "answer": "a g r e e m e n t"
+    },
+    {
+      "question": "fantasy",
+      "answer": "f a n t a s y"
+    },
+    {
+      "question": "shed",
+      "answer": "s h e d"
+    },
+    {
+      "question": "personnel",
+      "answer": "p e r s o n n e l"
+    },
+    {
+      "question": "principal",
+      "answer": "p r i n c i p a l"
+    },
+    {
+      "question": "regiment",
+      "answer": "r e g i m e n t"
+    },
+    {
+      "question": "mountain",
+      "answer": "m o u n t a i n"
+    },
+    {
+      "question": "admission",
+      "answer": "a d m i s s i o n"
+    },
+    {
+      "question": "east",
+      "answer": "e a s t"
+    },
+    {
+      "question": "boundary",
+      "answer": "b o u n d a r y"
+    },
+    {
+      "question": "family",
+      "answer": "f a m i l y"
+    },
+    {
+      "question": "theory",
+      "answer": "t h e o r y"
+    },
+    {
+      "question": "cheating",
+      "answer": "c h e a t i n g"
+    },
+    {
+      "question": "lap",
+      "answer": "l a p"
+    },
+    {
+      "question": "distributor",
+      "answer": "d i s t r i b u t o r"
+    },
+    {
+      "question": "breach",
+      "answer": "b r e a c h"
+    },
+    {
+      "question": "bite",
+      "answer": "b i t e"
+    },
+    {
+      "question": "photograph",
+      "answer": "p h o t o g r a p h"
+    },
+    {
+      "question": "ball",
+      "answer": "b a l l"
+    },
+    {
+      "question": "trap",
+      "answer": "t r a p"
+    },
+    {
+      "question": "glory",
+      "answer": "g l o r y"
+    },
+    {
+      "question": "collection",
+      "answer": "c o l l e c t i o n"
+    },
+    {
+      "question": "rejection",
+      "answer": "r e j e c t i o n"
+    },
+    {
+      "question": "document",
+      "answer": "d o c u m e n t"
+    },
+    {
+      "question": "corner",
+      "answer": "c o r n e r"
+    }
+  ]
+}

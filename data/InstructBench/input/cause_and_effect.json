@@ -1,0 +1,416 @@
+{
+  "train": [
+    {
+      "question": "Sentence 1: I pulled the dog's tail. Sentence 2: The dog bit me.",
+      "answer": 0,
+      "option": [
+        "I pulled the dog's tail.",
+        "The dog bit me."
+      ]
+    },
+    {
+      "question": "Sentence 1: The pilot turned on the \"fasten seatbelts\" light. Sentence 2: A bird hit the engine.",
+      "answer": 1,
+      "option": [
+        "The pilot turned on the \"fasten seatbelts\" light.",
+        "A bird hit the engine."
+      ]
+    },
+    {
+      "question": "Sentence 1: The girl got detention. Sentence 2: The girl skipped school.",
+      "answer": 1,
+      "option": [
+        "The girl got detention.",
+        "The girl skipped school."
+      ]
+    },
+    {
+      "question": "Sentence 1: The meat spoiled. Sentence 2: The power was out for days.",
+      "answer": 1,
+      "option": [
+        "The meat spoiled.",
+        "The power was out for days."
+      ]
+    },
+    {
+      "question": "Sentence 1: There was a wardrobe malfunction. Sentence 2: The performer ran off the stage.",
+      "answer": 0,
+      "option": [
+        "There was a wardrobe malfunction.",
+        "The performer ran off the stage."
+      ]
+    },
+    {
+      "question": "Sentence 1: Mom rinsed the tray. Sentence 2: Jimmy took the last piece of cake.",
+      "answer": 1,
+      "option": [
+        "Mom rinsed the tray.",
+        "Jimmy took the last piece of cake."
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "Sentence 1: The insect pollinated the tomato flowers. Sentence 2: Tomatoes grew on the vine.",
+      "answer": 0,
+      "option": [
+        "The insect pollinated the tomato flowers.",
+        "Tomatoes grew on the vine."
+      ]
+    },
+    {
+      "question": "Sentence 1: The gardener planted a seed. Sentence 2: A flower grew.",
+      "answer": 0,
+      "option": [
+        "The gardener planted a seed.",
+        "A flower grew."
+      ]
+    },
+    {
+      "question": "Sentence 1: It started raining. Sentence 2: The woman who was walking on the street opened her umbrella.",
+      "answer": 0,
+      "option": [
+        "It started raining.",
+        "The woman who was walking on the street opened her umbrella."
+      ]
+    },
+    {
+      "question": "Sentence 1: Sunlight filled the room. Sentence 2: The curtains were opened.",
+      "answer": 1,
+      "option": [
+        "Sunlight filled the room.",
+        "The curtains were opened."
+      ]
+    },
+    {
+      "question": "Sentence 1: George plugged the laptop charger in. Sentence 2: The laptop ran out of battery.",
+      "answer": 1,
+      "option": [
+        "George plugged the laptop charger in.",
+        "The laptop ran out of battery."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man climbed in through the window. Sentence 2: The door was locked.",
+      "answer": 1,
+      "option": [
+        "The man climbed in through the window.",
+        "The door was locked."
+      ]
+    },
+    {
+      "question": "Sentence 1: The family went to the beach. Sentence 2: The air conditioner broke.",
+      "answer": 1,
+      "option": [
+        "The family went to the beach.",
+        "The air conditioner broke."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man went to jail. Sentence 2: The man robbed a gas station.",
+      "answer": 1,
+      "option": [
+        "The man went to jail.",
+        "The man robbed a gas station."
+      ]
+    },
+    {
+      "question": "Sentence 1: I flipped the switch. Sentence 2: Light filled the room.",
+      "answer": 0,
+      "option": [
+        "I flipped the switch.",
+        "Light filled the room."
+      ]
+    },
+    {
+      "question": "Sentence 1: The ship capsized. Sentence 2: The wind blew strong.",
+      "answer": 1,
+      "option": [
+        "The ship capsized.",
+        "The wind blew strong."
+      ]
+    },
+    {
+      "question": "Sentence 1: The company's stock went up. Sentence 2: The company's posted strong earnings.",
+      "answer": 1,
+      "option": [
+        "The company's stock went up.",
+        "The company's posted strong earnings."
+      ]
+    },
+    {
+      "question": "Sentence 1: Ted went out drinking. Sentence 2: Ted had a hangover.",
+      "answer": 0,
+      "option": [
+        "Ted went out drinking.",
+        "Ted had a hangover."
+      ]
+    },
+    {
+      "question": "Sentence 1: A man was covered in sticky red goo. Sentence 2: A watermelon exploded.",
+      "answer": 1,
+      "option": [
+        "A man was covered in sticky red goo.",
+        "A watermelon exploded."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man sipped the milk and spit it out. Sentence 2: The milk was left outside the fridge over night.",
+      "answer": 1,
+      "option": [
+        "The man sipped the milk and spit it out.",
+        "The milk was left outside the fridge over night."
+      ]
+    },
+    {
+      "question": "Sentence 1: My friend got a promotion. Sentence 2: My friend celebrated with their family.",
+      "answer": 0,
+      "option": [
+        "My friend got a promotion.",
+        "My friend celebrated with their family."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man couldn't hear what the woman was saying. Sentence 2: The man turned down the music volume.",
+      "answer": 0,
+      "option": [
+        "The man couldn't hear what the woman was saying.",
+        "The man turned down the music volume."
+      ]
+    },
+    {
+      "question": "Sentence 1: The soda went flat. Sentence 2: The bottle was left open.",
+      "answer": 1,
+      "option": [
+        "The soda went flat.",
+        "The bottle was left open."
+      ]
+    },
+    {
+      "question": "Sentence 1: The dinosaurs became extinct. Sentence 2: A large object hit the Earth.",
+      "answer": 1,
+      "option": [
+        "The dinosaurs became extinct.",
+        "A large object hit the Earth."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man sued. Sentence 2: The floor was wet.",
+      "answer": 1,
+      "option": [
+        "The man sued.",
+        "The floor was wet."
+      ]
+    },
+    {
+      "question": "Sentence 1: Acme paid Jill's legal fees. Sentence 2: Jill won the lawsuit against Acme.",
+      "answer": 1,
+      "option": [
+        "Acme paid Jill's legal fees.",
+        "Jill won the lawsuit against Acme."
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "Sentence 1: The vase shattered on the floor. Sentence 2: A man accidently pushed the vase off a counter.",
+      "answer": 1,
+      "option": [
+        "The vase shattered on the floor.",
+        "A man accidently pushed the vase off a counter."
+      ]
+    },
+    {
+      "question": "Sentence 1: Alice didn't wake up. Sentence 2: Alice missed her flight.",
+      "answer": 0,
+      "option": [
+        "Alice didn't wake up.",
+        "Alice missed her flight."
+      ]
+    },
+    {
+      "question": "Sentence 1: The child started crying. Sentence 2: The child hurt their knee.",
+      "answer": 1,
+      "option": [
+        "The child started crying.",
+        "The child hurt their knee."
+      ]
+    },
+    {
+      "question": "Sentence 1: The boy threw a rock. Sentence 2: The window broke.",
+      "answer": 0,
+      "option": [
+        "The boy threw a rock.",
+        "The window broke."
+      ]
+    },
+    {
+      "question": "Sentence 1: I washed the car. Sentence 2: My car got dirty.",
+      "answer": 1,
+      "option": [
+        "I washed the car.",
+        "My car got dirty."
+      ]
+    },
+    {
+      "question": "Sentence 1: My clothes got dirty. Sentence 2: I put my clothes in the washing machine.",
+      "answer": 0,
+      "option": [
+        "My clothes got dirty.",
+        "I put my clothes in the washing machine."
+      ]
+    },
+    {
+      "question": "Sentence 1: Someone fainted. Sentence 2: Someone called 911.",
+      "answer": 0,
+      "option": [
+        "Someone fainted.",
+        "Someone called 911."
+      ]
+    },
+    {
+      "question": "Sentence 1: She went to the store and bought toilet paper. Sentence 2: She noticed that she was out of toilet paper.",
+      "answer": 1,
+      "option": [
+        "She went to the store and bought toilet paper.",
+        "She noticed that she was out of toilet paper."
+      ]
+    },
+    {
+      "question": "Sentence 1: The girl woke up covered in cold sweat. Sentence 2: The girl had a nightmare.",
+      "answer": 1,
+      "option": [
+        "The girl woke up covered in cold sweat.",
+        "The girl had a nightmare."
+      ]
+    },
+    {
+      "question": "Sentence 1: The tenants contacted their landlord. Sentence 2: The tenants noticed mold on the bathroom ceiling.",
+      "answer": 1,
+      "option": [
+        "The tenants contacted their landlord.",
+        "The tenants noticed mold on the bathroom ceiling."
+      ]
+    },
+    {
+      "question": "Sentence 1: It rained. Sentence 2: The picnic was cancelled.",
+      "answer": 0,
+      "option": [
+        "It rained.",
+        "The picnic was cancelled."
+      ]
+    },
+    {
+      "question": "Sentence 1: I got an A on the test. Sentence 2: I studied hard.",
+      "answer": 1,
+      "option": [
+        "I got an A on the test.",
+        "I studied hard."
+      ]
+    },
+    {
+      "question": "Sentence 1: The girl caught a cold. Sentence 2: The girl didn't wear her sweater.",
+      "answer": 1,
+      "option": [
+        "The girl caught a cold.",
+        "The girl didn't wear her sweater."
+      ]
+    },
+    {
+      "question": "Sentence 1: School was on break. Sentence 2: The family went on vacation.",
+      "answer": 0,
+      "option": [
+        "School was on break.",
+        "The family went on vacation."
+      ]
+    },
+    {
+      "question": "Sentence 1: Bob opened the jar and was frustrated. Sentence 2: Alice ate the last cookie.",
+      "answer": 1,
+      "option": [
+        "Bob opened the jar and was frustrated.",
+        "Alice ate the last cookie."
+      ]
+    },
+    {
+      "question": "Sentence 1: The girl had a fever. Sentence 2: Mom gave the girl fever medicine.",
+      "answer": 0,
+      "option": [
+        "The girl had a fever.",
+        "Mom gave the girl fever medicine."
+      ]
+    },
+    {
+      "question": "Sentence 1: The driver ran a red light. Sentence 2: The driver was pulled over and was fined.",
+      "answer": 0,
+      "option": [
+        "The driver ran a red light.",
+        "The driver was pulled over and was fined."
+      ]
+    },
+    {
+      "question": "Sentence 1: The man got lost in the woods. Sentence 2: A search party was assembled.",
+      "answer": 0,
+      "option": [
+        "The man got lost in the woods.",
+        "A search party was assembled."
+      ]
+    },
+    {
+      "question": "Sentence 1: The boy lifted his eyes from the book. Sentence 2: There was a loud noise.",
+      "answer": 1,
+      "option": [
+        "The boy lifted his eyes from the book.",
+        "There was a loud noise."
+      ]
+    },
+    {
+      "question": "Sentence 1: The team won the game. Sentence 2: The team won the championship.",
+      "answer": 0,
+      "option": [
+        "The team won the game.",
+        "The team won the championship."
+      ]
+    },
+    {
+      "question": "Sentence 1: We made French toast. Sentence 2: The bread was dry.",
+      "answer": 1,
+      "option": [
+        "We made French toast.",
+        "The bread was dry."
+      ]
+    },
+    {
+      "question": "Sentence 1: School was cancelled. Sentence 2: There was a snowstorm.",
+      "answer": 1,
+      "option": [
+        "School was cancelled.",
+        "There was a snowstorm."
+      ]
+    },
+    {
+      "question": "Sentence 1: The driver turned the wipers on. Sentence 2: It started raining.",
+      "answer": 1,
+      "option": [
+        "The driver turned the wipers on.",
+        "It started raining."
+      ]
+    },
+    {
+      "question": "Sentence 1: The basketball player was shoved. Sentence 2: The basketball player took a free throw.",
+      "answer": 0,
+      "option": [
+        "The basketball player was shoved.",
+        "The basketball player took a free throw."
+      ]
+    },
+    {
+      "question": "Sentence 1: The driver hit the brakes. Sentence 2: The girl stepped onto the street.",
+      "answer": 1,
+      "option": [
+        "The driver hit the brakes.",
+        "The girl stepped onto the street."
+      ]
+    }
+  ]
+}

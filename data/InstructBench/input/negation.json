@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "Vikramarkudu was created in India.",
+      "answer": "Vikramarkudu was not created in India."
+    },
+    {
+      "question": "Newcastle still contains many theatres.",
+      "answer": "Newcastle never contained many theatres."
+    },
+    {
+      "question": "Romance is passion.",
+      "answer": "Romance is not passion."
+    },
+    {
+      "question": "The second meaning of a Chinese word for 'barracks' is thanks.",
+      "answer": "The second meaning of a Chinese word for 'barracks' is not thanks."
+    },
+    {
+      "question": "The marginal utility of wealth per income per person decreases as that person becomes richer.",
+      "answer": "The marginal utility of wealth per income per person does not decreases as that person becomes richer."
+    },
+    {
+      "question": "If a teacher teaches not inside a building, they might teach outdoors.",
+      "answer": "If a teacher teaches not inside a building, they might not teach outdoors."
+    },
+    {
+      "question": "Tor someone who is timid, a teacher would likely encourage that person.",
+      "answer": "Tor someone who is timid, a teacher would not likely encourage that person."
+    },
+    {
+      "question": "Robert Barro works at Harvard.",
+      "answer": "Robert Barro does not work at Harvard."
+    },
+    {
+      "question": "Humans are mammels.",
+      "answer": "Humans are not mammels."
+    },
+    {
+      "question": "Copper can be melted.",
+      "answer": "Copper cannot be melted."
+    },
+    {
+      "question": "Some spiders are poisonous.",
+      "answer": "Some spiders are not poisonous."
+    },
+    {
+      "question": "The motion picture industry is accociated with a disctrict named Hollywood.",
+      "answer": "The motion picture industry is accociated with a disctrict not named Hollywood."
+    },
+    {
+      "question": "Tinkerbell is a fairy.",
+      "answer": "Tinkerbell is not a fairy."
+    },
+    {
+      "question": "Louis Klein died in Paris.",
+      "answer": "Louis Klein did not die in Paris."
+    },
+    {
+      "question": "Thomas B. Edsall's profession is journalist.",
+      "answer": "Thomas B. Edsall's profession is not journalist."
+    },
+    {
+      "question": "A hacksaw is a type of tool.",
+      "answer": "A hacksaw is not a type of tool."
+    },
+    {
+      "question": "David Castlles-Quintana and Vicente Royuela are economists.",
+      "answer": "David Castlles-Quintana and Vicente Royuela are not economists."
+    },
+    {
+      "question": "John Seru was born in Australia.",
+      "answer": "John Seru was not born in Australia."
+    },
+    {
+      "question": "Marian Porwit died in Warsaw.",
+      "answer": "Marian Porwit did not die in Warsaw."
+    },
+    {
+      "question": "Eden Roc is a hotel.",
+      "answer": "Eden Roc is not a hotel."
+    },
+    {
+      "question": "Rats can bite.",
+      "answer": "Rats cannot bite."
+    },
+    {
+      "question": "Energy is needed to pack electrons densely together.",
+      "answer": "Energy is not needed to pack electrons densely together."
+    },
+    {
+      "question": "Apples can be cooked.",
+      "answer": "Apples cannot be cooked."
+    },
+    {
+      "question": "According to Luther the faith's greatest enemy is reason.",
+      "answer": "According to Luther the faith's greatest enemy is not reason."
+    },
+    {
+      "question": "The Swiss center of the Calvinist movement was located in Geneva.",
+      "answer": "The Swiss center of the Calvinist movement was not located in Geneva."
+    },
+    {
+      "question": "Wisconsin is a State.",
+      "answer": "Wisconsin is not a State."
+    },
+    {
+      "question": "THe location of the 2003 Rose revolution is Georgia.",
+      "answer": "THe location of the 2003 Rose revolution is not Georgia."
+    },
+    {
+      "question": "The top 400 richest Americans have more than half of the wealth of all Americans combined.",
+      "answer": "The top 400 richest Americans do not have more than half of the wealth of all Americans combined."
+    },
+    {
+      "question": "Frank R. Reid was born in Aurora.",
+      "answer": "Frank R. Reid was not born in Aurora."
+    },
+    {
+      "question": "William Rankine's is Scottish by nationality.",
+      "answer": "William Rankine's is not Scottish by nationality."
+    },
+    {
+      "question": "Some people are bold.",
+      "answer": "Some people are not bold."
+    },
+    {
+      "question": "Thomas Davis broke his arm during the NFC Championship Game.",
+      "answer": "Thomas Davis did not break his arm during the NFC Championship Game."
+    },
+    {
+      "question": "Acting is an art.",
+      "answer": "Acting is not an art."
+    },
+    {
+      "question": "Horses run fast.",
+      "answer": "Horses do not run fast."
+    },
+    {
+      "question": "Cadillacs are expensive.",
+      "answer": "Cadillacs are not expensive."
+    },
+    {
+      "question": "Chaos Divine was founded in Perth, Western Australia.",
+      "answer": "Chaos Divine was not founded in Perth, Western Australia."
+    },
+    {
+      "question": "The brand of car manufactured in Broadmeadows is Ford.",
+      "answer": "The brand of car manufactured in Broadmeadows is not Ford."
+    },
+    {
+      "question": "Some advertisments are reliable.",
+      "answer": "Some advertisments are not reliable."
+    },
+    {
+      "question": "Jeremy Vine works for BBC.",
+      "answer": "Jeremy Vine does not work for BBC."
+    },
+    {
+      "question": "Awaking requires a stimulus.",
+      "answer": "Awaking does not require a stimulus."
+    },
+    {
+      "question": "Alan Welsh was born in Edinburgh.",
+      "answer": "Alan Welsh was not born in Edinburgh."
+    },
+    {
+      "question": "Manatawny Creek is located in Pennsylvania.",
+      "answer": "Manatawny Creek is not located in Pennsylvania."
+    },
+    {
+      "question": "Chlorine can be poisonous.",
+      "answer": "Chlorine cannot be poisonous."
+    },
+    {
+      "question": "Mikhail Gromov works in the field of geometry.",
+      "answer": "Mikhail Gromov does not work in the field of geometry."
+    },
+    {
+      "question": "Alexander Thomson died in Geelong.",
+      "answer": "Alexander Thomson did not die in Geelong."
+    },
+    {
+      "question": "Potatoes can be diced.",
+      "answer": "Potatoes cannot be diced."
+    },
+    {
+      "question": "Scottish Parliament is a legal term in Scotland.",
+      "answer": "Scottish Parliament is not a legal term in Scotland."
+    },
+    {
+      "question": "Joseph Priestley was a clergyman.",
+      "answer": "Joseph Priestley was not a clergyman."
+    },
+    {
+      "question": "Some people are wise.",
+      "answer": "Some people are not wise."
+    },
+    {
+      "question": "Paul Daniels was born in Burlington.",
+      "answer": "Paul Daniels was not born in Burlington."
+    }
+  ],
+  "val": [
+    {
+      "question": "The country that is today remnant of the Ottoman empire is Turkey.",
+      "answer": "The country that is today remnant of the Ottoman empire is not Turkey."
+    },
+    {
+      "question": "Teachers are expected to give respect to their students.",
+      "answer": "Teachers are expected to not give respect to their students."
+    },
+    {
+      "question": "Denmark is part of Scandinavia.",
+      "answer": "Denmark is not part of Scandinavia."
+    },
+    {
+      "question": "Frederick William Seward is a politician by profession.",
+      "answer": "Frederick William Seward is not a politician by profession."
+    },
+    {
+      "question": "Some herbs are poisonis.",
+      "answer": "Some herbs are not poisonis."
+    },
+    {
+      "question": "Traveling is for entertainment.",
+      "answer": "Traveling is not for entertainment."
+    },
+    {
+      "question": "Peter Cooper was born in Salisbury.",
+      "answer": "Peter Cooper was not born in Salisbury."
+    },
+    {
+      "question": "Motion at a constant velocity is equal to rest.",
+      "answer": "Motion at a constant velocity is not equal to rest."
+    },
+    {
+      "question": "Tesla's brother's name is Dane.",
+      "answer": "Tesla's brother's name is not Dane."
+    },
+    {
+      "question": "Peace is elusive.",
+      "answer": "Peace is not elusive."
+    },
+    {
+      "question": "Some religions are monotheistic.",
+      "answer": "Some religions are not monotheistic."
+    },
+    {
+      "question": "Some hallways are dark.",
+      "answer": "Some hallways are not dark."
+    },
+    {
+      "question": "Lebanon is part of asia.",
+      "answer": "Lebanon is not part of asia."
+    },
+    {
+      "question": "Russell Stannard was born in London.",
+      "answer": "Russell Stannard was not born in London."
+    },
+    {
+      "question": "The official language of Krasnoyarsk Krai is Russian.",
+      "answer": "The official language of Krasnoyarsk Krai is not Russian."
+    },
+    {
+      "question": "molecule consists of atomic structure.",
+      "answer": "molecule does not consist of atomic structure."
+    },
+    {
+      "question": "According to legend Hagen threw gold into the Rhine.",
+      "answer": "According to legend Hagen did not throw gold into the Rhine."
+    },
+    {
+      "question": "Some people are peacemakers.",
+      "answer": "Some people are not peacemakers."
+    },
+    {
+      "question": "Simon Binnendijk was born in Leiden.",
+      "answer": "Simon Binnendijk was not born in Leiden."
+    },
+    {
+      "question": "The couhtry to the south of kenya is is Tanzania.",
+      "answer": "The couhtry to the south of kenya is not Tanzania."
+    }
+  ],
+  "test": [
+    {
+      "question": "Great Performances was originally aired on PBS.",
+      "answer": "Great Performances was not originally aired on PBS."
+    },
+    {
+      "question": "Portugal maintains diplomatic relations with Germany.",
+      "answer": "Portugal does not maintain diplomatic relations with Germany."
+    },
+    {
+      "question": "Robert Cryan died in Dublin.",
+      "answer": "Robert Cryan did not die in Dublin."
+    },
+    {
+      "question": "Businesses like to succeed.",
+      "answer": "Businesses do not like to succeed."
+    },
+    {
+      "question": "Marmite is delicious.",
+      "answer": "Marmite is not delicious."
+    },
+    {
+      "question": "Walt Disney was approached about producing color broadcasts of his anthology series by NBC.",
+      "answer": "Walt Disney was not approached about producing color broadcasts of his anthology series by NBC."
+    },
+    {
+      "question": "Chocolate is yummy.",
+      "answer": "Chocolate is not yummy."
+    },
+    {
+      "question": "A teacher is most likely teaching at a school.",
+      "answer": "A teacher is not most likely teaching at a school."
+    },
+    {
+      "question": "California Institute of Technology is a private university.",
+      "answer": "California Institute of Technology is not a private university."
+    },
+    {
+      "question": "Time is absolute.",
+      "answer": "Time is not absolute."
+    },
+    {
+      "question": "Mira Ashby died in Toronto.",
+      "answer": "Mira Ashby did not die in Toronto."
+    },
+    {
+      "question": "Exercising requires motivation.",
+      "answer": "Exercising does not require motivation."
+    },
+    {
+      "question": "Teachers likely follow standardized curricula.",
+      "answer": "Teachers likely do not follow standardized curricula."
+    },
+    {
+      "question": "Gotthard Deutsch died in Cincinnati.",
+      "answer": "Gotthard Deutsch did not die in Cincinnati."
+    },
+    {
+      "question": "Robert Moss was born in Melbourne.",
+      "answer": "Robert Moss was not born in Melbourne."
+    },
+    {
+      "question": "In a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers the input would need to remain constant.",
+      "answer": "In a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers the input would not need to remain constant."
+    },
+    {
+      "question": "Taavi Vartia was born in Helsinki.",
+      "answer": "Taavi Vartia was not born in Helsinki."
+    },
+    {
+      "question": "Zork is a game.",
+      "answer": "Zork is not a game."
+    },
+    {
+      "question": "The first month when Parliament takes a two week vacation is April.",
+      "answer": "The first month when Parliament takes a two week vacation is not April."
+    },
+    {
+      "question": "The month where, every four years, the ordinary general elections are held on is May.",
+      "answer": "The month where, every four years, the ordinary general elections are held on is not May."
+    },
+    {
+      "question": "The capital of Bohemia is Prague.",
+      "answer": "The capital of Bohemia is not Prague."
+    },
+    {
+      "question": "Celebrating requires food.",
+      "answer": "Celebrating does not require food."
+    },
+    {
+      "question": "Soccer is competitive.",
+      "answer": "Soccer is not competitive."
+    },
+    {
+      "question": "Manning's top receiver for Super Bowl 50 was Sanders.",
+      "answer": "Manning's top receiver for Super Bowl 50 was not Sanders."
+    },
+    {
+      "question": "Vevo is owned by Google.",
+      "answer": "Vevo is not owned by Google."
+    },
+    {
+      "question": "Jonathan Wilkins was born in London.",
+      "answer": "Jonathan Wilkins was not born in London."
+    },
+    {
+      "question": "John Joseph Cotman died in Norwich.",
+      "answer": "John Joseph Cotman did not die in Norwich."
+    },
+    {
+      "question": "Some clubs are exclusive.",
+      "answer": "Some clubs are not exclusive."
+    },
+    {
+      "question": "Scientists think all of the plagues originated from China.",
+      "answer": "Scientists think all of the plagues did not originate from China."
+    },
+    {
+      "question": "Dacia Duster is produced by Renault.",
+      "answer": "Dacia Duster is not produced by Renault."
+    },
+    {
+      "question": "Monkeys are funny.",
+      "answer": "Monkeys are not funny."
+    },
+    {
+      "question": "Wiener Schnitzel was created in Austria.",
+      "answer": "Wiener Schnitzel was not created in Austria."
+    },
+    {
+      "question": "Music can be beautifull.",
+      "answer": "Music cannot be beautifull."
+    },
+    {
+      "question": "Some plants are carniverous.",
+      "answer": "Some plants are not carniverous."
+    },
+    {
+      "question": "Weddings can be boring.",
+      "answer": "Weddings cannot be boring."
+    },
+    {
+      "question": "An early clue that philogiston theory was wrong was metals weight gain during rusting.",
+      "answer": "An early clue that philogiston theory was wrong was not metals weight gain during rusting."
+    },
+    {
+      "question": "The usual form of the government's wealth redistribution is taxation.",
+      "answer": "The usual form of the government's wealth redistribution is not taxation."
+    },
+    {
+      "question": "Some tea contains caffeine.",
+      "answer": "Some tea does not contain caffeine."
+    },
+    {
+      "question": "Integrity is good.",
+      "answer": "Integrity is not good."
+    },
+    {
+      "question": "Kerch Strait is located in Russia.",
+      "answer": "Kerch Strait is not located in Russia."
+    },
+    {
+      "question": "Hydrgen is flammable.",
+      "answer": "Hydrgen is not flammable."
+    },
+    {
+      "question": "Norman architecture has rounded arches.",
+      "answer": "Norman architecture has not rounded arches."
+    },
+    {
+      "question": "Love is contagious.",
+      "answer": "Love is not contagious."
+    },
+    {
+      "question": "Dennis Rowland plays jazz music.",
+      "answer": "Dennis Rowland does not play jazz music."
+    },
+    {
+      "question": "Mexico maintains diplomatic relations with Italy.",
+      "answer": "Mexico does not maintain diplomatic relations with Italy."
+    },
+    {
+      "question": "Sonic X was created in Japan.",
+      "answer": "Sonic X was not created in Japan."
+    },
+    {
+      "question": "The ad shown during the Super Bowl with the trailer of X-Men: Apocalypse was paid by Fox.",
+      "answer": "The ad shown during the Super Bowl with the trailer of X-Men: Apocalypse was not paid by Fox."
+    },
+    {
+      "question": "Genova is part of Italy.",
+      "answer": "Genova is not part of Italy."
+    },
+    {
+      "question": "If a teacher is only teaching one person, they are called a tutor.",
+      "answer": "If a teacher is only teaching one person, they are not called a tutor."
+    },
+    {
+      "question": "Jarama is a river.",
+      "answer": "Jarama is not a river."
+    },
+    {
+      "question": "Tucker plays as kicker with the Ravens.",
+      "answer": "Tucker does not play as kicker with the Ravens."
+    },
+    {
+      "question": "Pretending requires creativity.",
+      "answer": "Pretending does not require creativity."
+    },
+    {
+      "question": "Newton played as quarterback during Super Bowl 50.",
+      "answer": "Newton did not play as quarterback during Super Bowl 50."
+    },
+    {
+      "question": "Thomas Godfrey Faussett was born in Oxford.",
+      "answer": "Thomas Godfrey Faussett was not born in Oxford."
+    },
+    {
+      "question": "Life is a journey.",
+      "answer": "Life is not a journey."
+    },
+    {
+      "question": "Vodka is generally colourless.",
+      "answer": "Vodka is not generally colourless."
+    },
+    {
+      "question": "Parvaz Mirza was born in Birmingham.",
+      "answer": "Parvaz Mirza was not born in Birmingham."
+    },
+    {
+      "question": "Diego de Arroyo died in Madrid.",
+      "answer": "Diego de Arroyo did not die in Madrid."
+    },
+    {
+      "question": "William %22Rip%22 Robertson died in Laos.",
+      "answer": "William %22Rip%22 Robertson did not die in Laos."
+    },
+    {
+      "question": "The general religious belief of nations that received Huguenot refugees is Protestant.",
+      "answer": "The general religious belief of nations that received Huguenot refugees is not Protestant."
+    },
+    {
+      "question": "The second largest contrubtor to Kenyas GDP is Agriculture.",
+      "answer": "The second largest contrubtor to Kenyas GDP is not Agriculture."
+    },
+    {
+      "question": "Porcelain is white.",
+      "answer": "Porcelain is not white."
+    },
+    {
+      "question": "During Super Bowl 50 the Nintendo gaming company debuted their ad for the first time.",
+      "answer": "During Super Bowl 50 the Nintendo gaming company did not debut their ad for the first time."
+    },
+    {
+      "question": "William Cumin died in Bath.",
+      "answer": "William Cumin did not die in Bath."
+    },
+    {
+      "question": "The youngest student a teacher might have are infants.",
+      "answer": "The youngest student a teacher might have are not infants."
+    },
+    {
+      "question": "BSkyB was having issues with Thomson.",
+      "answer": "BSkyB was not having issues with Thomson."
+    },
+    {
+      "question": "The denomination associated with Saint Kentigern College is Presbyterian.",
+      "answer": "The denomination associated with Saint Kentigern College is not Presbyterian."
+    },
+    {
+      "question": "We like to camp.",
+      "answer": "We do not like to camp."
+    },
+    {
+      "question": "Beef can be marinated.",
+      "answer": "Beef cannot be marinated."
+    },
+    {
+      "question": "Jim Chapin died in Florida.",
+      "answer": "Jim Chapin did not die in Florida."
+    },
+    {
+      "question": "In 1915, Edison received a bid.",
+      "answer": "In 1915, Edison did not receive a bid."
+    },
+    {
+      "question": "John Bonser died in Portland.",
+      "answer": "John Bonser did not die in Portland."
+    },
+    {
+      "question": "Teachers might be responsible for student discipline.",
+      "answer": "Teachers might not be responsible for student discipline."
+    },
+    {
+      "question": "The LDS Church focuses on spiritual mentorship.",
+      "answer": "The LDS Church does not focuse on spiritual mentorship."
+    },
+    {
+      "question": "Investing is risky.",
+      "answer": "Investing is not risky."
+    },
+    {
+      "question": "Wales differs from other areas in the United Kingdom regarding education.",
+      "answer": "Wales does not differ from other areas in the United Kingdom regarding education."
+    },
+    {
+      "question": "the Super Bowl in England will be carried by BBC.",
+      "answer": "the Super Bowl in England will not be carried by BBC."
+    },
+    {
+      "question": "Jorge Noceda Sanchez died in Miami.",
+      "answer": "Jorge Noceda Sanchez did not die in Miami."
+    },
+    {
+      "question": "Romance is generally complicated.",
+      "answer": "Romance is not generally complicated."
+    },
+    {
+      "question": "At Westinghouse, Tesla's position was consultant.",
+      "answer": "At Westinghouse, Tesla's position was not consultant."
+    },
+    {
+      "question": "Kosovo maintains diplomatic relations with Italy.",
+      "answer": "Kosovo does not maintain diplomatic relations with Italy."
+    },
+    {
+      "question": "A teacher needs to be enthusiastic with regards to their subject matter.",
+      "answer": "A teacher does not need to be enthusiastic with regards to their subject matter."
+    },
+    {
+      "question": "California used to be ruled by Mexico.",
+      "answer": "California was never ruled by Mexico."
+    },
+    {
+      "question": "Rubies can be polished.",
+      "answer": "Rubies cannot be polished."
+    },
+    {
+      "question": "The majority of the amazon forest is in Brazil.",
+      "answer": "The majority of the amazon forest is not in Brazil."
+    },
+    {
+      "question": "Gasoline and heating gas was rationed by Sweden.",
+      "answer": "Gasoline and heating gas was not rationed by Sweden."
+    },
+    {
+      "question": "Nathan Alterman was a poet.",
+      "answer": "Nathan Alterman was not a poet."
+    },
+    {
+      "question": "To impact German culture, Martin Luther translated the Bible.",
+      "answer": "To impact German culture, Martin Luther did not translate the Bible."
+    },
+    {
+      "question": "The Two Babylons was created in Scotland.",
+      "answer": "The Two Babylons was not created in Scotland."
+    },
+    {
+      "question": "The original language of Sadratnamala is Sanskrit.",
+      "answer": "The original language of Sadratnamala is not Sanskrit."
+    },
+    {
+      "question": "Tazewell Ellett was born in Richmond.",
+      "answer": "Tazewell Ellett was not born in Richmond."
+    },
+    {
+      "question": "Lurther was declared to be an outlaw by Edict of Works presented by Emperor.",
+      "answer": "Lurther was declared to be an outlaw by Edict of Works not presented by Emperor."
+    },
+    {
+      "question": "Janice was a pediatrician.",
+      "answer": "Janice was not a pediatrician."
+    },
+    {
+      "question": "The official language of Posio is Finnish.",
+      "answer": "The official language of Posio is not Finnish."
+    },
+    {
+      "question": "Non-condensing direct-drive locomotives  for fast passenger trains were notably used in Britain.",
+      "answer": "Non-condensing direct-drive locomotives  for fast passenger trains were not used in Britain."
+    },
+    {
+      "question": "The French spread along with their imperialism spread the Catholic religion.",
+      "answer": "The French spread along with their imperialism did not spread the Catholic religion."
+    },
+    {
+      "question": "The official language of Bhopal is Hindi.",
+      "answer": "The official language of Bhopal is not Hindi."
+    },
+    {
+      "question": "The perception of Genghis Khan in Mongolia brightened in the 1990s.",
+      "answer": "The perception of Genghis Khan in Mongolia did not brighten in the 1990s."
+    },
+    {
+      "question": "Writing requires patience.",
+      "answer": "Writing does not require patience."
+    },
+    {
+      "question": "Hempstead Washburne died in Chicago.",
+      "answer": "Hempstead Washburne did not die in Chicago."
+    }
+  ]
+}

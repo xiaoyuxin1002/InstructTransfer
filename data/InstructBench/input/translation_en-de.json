@@ -1,0 +1,1403 @@
+{
+  "train": [
+    {
+      "question": "photo",
+      "answer": [
+        "Bild",
+        "Foto"
+      ]
+    },
+    {
+      "question": "headline",
+      "answer": [
+        "Schlagzeile"
+      ]
+    },
+    {
+      "question": "alcohol",
+      "answer": [
+        "Branntwein",
+        "Alkohol",
+        "Weingeist"
+      ]
+    },
+    {
+      "question": "irrigation",
+      "answer": [
+        "Irrigation",
+        "Bew\u00e4sserung"
+      ]
+    },
+    {
+      "question": "bombing",
+      "answer": [
+        "Bombenanschlag",
+        "Bombenanschl\u00e4ge",
+        "Bombardierung"
+      ]
+    },
+    {
+      "question": "integration",
+      "answer": [
+        "Integration"
+      ]
+    },
+    {
+      "question": "trick",
+      "answer": [
+        "\u00fcberlisten",
+        "Kunstst\u00fcck",
+        "Freier",
+        "Falle",
+        "Stich",
+        "List",
+        "austricksen",
+        "Trick",
+        "verarschen"
+      ]
+    },
+    {
+      "question": "war",
+      "answer": [
+        "Krieg",
+        "kriegen",
+        "Krieg f\u00fchren"
+      ]
+    },
+    {
+      "question": "insistence",
+      "answer": [
+        "Insistenz",
+        "Dringlichkeit",
+        "Eindringlichkeit",
+        "Beharrlichkeit"
+      ]
+    },
+    {
+      "question": "commuter",
+      "answer": [
+        "Pendler"
+      ]
+    },
+    {
+      "question": "duty",
+      "answer": [
+        "Zoll",
+        "Pflicht",
+        "Einfuhrsteuer",
+        "Schicht",
+        "Arbeitszeit"
+      ]
+    },
+    {
+      "question": "peninsula",
+      "answer": [
+        "Halbinsel"
+      ]
+    },
+    {
+      "question": "institution",
+      "answer": [
+        "Institution"
+      ]
+    },
+    {
+      "question": "goal",
+      "answer": [
+        "Ziel",
+        "Tor"
+      ]
+    },
+    {
+      "question": "pool",
+      "answer": [
+        "Pf\u00fctze",
+        "Becken",
+        "Lache"
+      ]
+    },
+    {
+      "question": "attention",
+      "answer": [
+        "Beachtung",
+        "Achtung",
+        "Aufmerksamkeit"
+      ]
+    },
+    {
+      "question": "blood",
+      "answer": [
+        "Blutsbande",
+        "bluten",
+        "Blut"
+      ]
+    },
+    {
+      "question": "comment",
+      "answer": [
+        "Kommentare einf\u00fcgen",
+        "kommentieren",
+        "Kommentar"
+      ]
+    },
+    {
+      "question": "delta",
+      "answer": [
+        "Delta"
+      ]
+    },
+    {
+      "question": "residence",
+      "answer": [
+        "Wohnort",
+        "Firmensitz",
+        "Sitz",
+        "Wohnsitz"
+      ]
+    },
+    {
+      "question": "blunt",
+      "answer": [
+        "stumpf",
+        "ungehobelt",
+        "abstumpfen",
+        "abgestumpft",
+        "unverbl\u00fcmt",
+        "Blunt"
+      ]
+    },
+    {
+      "question": "canal",
+      "answer": [
+        "Kanal"
+      ]
+    },
+    {
+      "question": "velocity",
+      "answer": [
+        "Geschwindigkeit"
+      ]
+    },
+    {
+      "question": "store",
+      "answer": [
+        "speichern",
+        "lagern",
+        "Vorrat",
+        "Lager",
+        "sich halten",
+        "Speicher",
+        "Lagerbestand"
+      ]
+    },
+    {
+      "question": "mechanism",
+      "answer": [
+        "Mechanismus"
+      ]
+    },
+    {
+      "question": "crash",
+      "answer": [
+        "abst\u00fcrzen",
+        "Krachen",
+        "krachen",
+        "Zusammensto\u00df",
+        "Absturz",
+        "anprallen"
+      ]
+    },
+    {
+      "question": "communism",
+      "answer": [
+        "Kommunismus"
+      ]
+    },
+    {
+      "question": "corner",
+      "answer": [
+        "in die Enge treiben",
+        "Winkel",
+        "Ecke"
+      ]
+    },
+    {
+      "question": "vinyl",
+      "answer": [
+        "Vinyl-Schallplatte",
+        "Schallplatte",
+        "Vinyl"
+      ]
+    },
+    {
+      "question": "presentation",
+      "answer": [
+        "Vorstellung",
+        "Pr\u00e4sentation",
+        "Vortrag"
+      ]
+    },
+    {
+      "question": "momentum",
+      "answer": [
+        "Bewegungsmenge",
+        "Schwung",
+        "Impuls",
+        "Moment",
+        "Wucht",
+        "Bewegungsgr\u00f6\u00dfe",
+        "Schwungkraft"
+      ]
+    },
+    {
+      "question": "brightness",
+      "answer": [
+        "Aufgewecktheit",
+        "Helligkeit"
+      ]
+    },
+    {
+      "question": "destiny",
+      "answer": [
+        "Schicksal",
+        "Los"
+      ]
+    },
+    {
+      "question": "monsoon",
+      "answer": [
+        "Monsun",
+        "Monsunwind",
+        "Monsunregen",
+        "Monsunzeit"
+      ]
+    },
+    {
+      "question": "interaction",
+      "answer": [
+        "Interaktion"
+      ]
+    },
+    {
+      "question": "limb",
+      "answer": [
+        "Glied",
+        "zergliedern",
+        "Gliedma\u00dfe",
+        "Extremit\u00e4ten",
+        "Gliedma\u00dfen"
+      ]
+    },
+    {
+      "question": "earth",
+      "answer": [
+        "Grund",
+        "Land",
+        "Bau",
+        "Boden",
+        "Erde",
+        "beerdigen",
+        "erden",
+        "Erdbau",
+        "Erdloch"
+      ]
+    },
+    {
+      "question": "infection",
+      "answer": [
+        "Ansteckung",
+        "Infektion"
+      ]
+    },
+    {
+      "question": "alliance",
+      "answer": [
+        "Verbund",
+        "Allianz",
+        "Zusammenschluss",
+        "Bund",
+        "Verb\u00fcndeten",
+        "B\u00fcndnis"
+      ]
+    },
+    {
+      "question": "nobility",
+      "answer": [
+        "Adel"
+      ]
+    },
+    {
+      "question": "factor",
+      "answer": [
+        "Faktor"
+      ]
+    },
+    {
+      "question": "philosophy",
+      "answer": [
+        "Philosophie"
+      ]
+    },
+    {
+      "question": "capitalism",
+      "answer": [
+        "Kapitalismus"
+      ]
+    },
+    {
+      "question": "component",
+      "answer": [
+        "Komponente"
+      ]
+    },
+    {
+      "question": "transformation",
+      "answer": [
+        "Transformation"
+      ]
+    },
+    {
+      "question": "metal",
+      "answer": [
+        "Metall"
+      ]
+    },
+    {
+      "question": "steam",
+      "answer": [
+        "d\u00e4mpfen",
+        "Dampf",
+        "Kraft",
+        "Energie"
+      ]
+    },
+    {
+      "question": "conjunction",
+      "answer": [
+        "Konjunktion",
+        "Bindewort"
+      ]
+    },
+    {
+      "question": "ladder",
+      "answer": [
+        "Leiter",
+        "Laufmasche"
+      ]
+    },
+    {
+      "question": "oak",
+      "answer": [
+        "Eichenholz",
+        "Eichen-",
+        "Eiche"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "poet",
+      "answer": [
+        "Dichter",
+        "Poet",
+        "Poetin",
+        "Dichterin"
+      ]
+    },
+    {
+      "question": "superhero",
+      "answer": [
+        "Superheld"
+      ]
+    },
+    {
+      "question": "pavilion",
+      "answer": [
+        "Pavillon"
+      ]
+    },
+    {
+      "question": "afternoon",
+      "answer": [
+        "Nachmittag"
+      ]
+    },
+    {
+      "question": "church",
+      "answer": [
+        "Gottesdienst",
+        "Kirche",
+        "Messe"
+      ]
+    },
+    {
+      "question": "design",
+      "answer": [
+        "Design",
+        "Plan",
+        "designen",
+        "Absicht",
+        "Muster",
+        "Entwurf",
+        "entwerfen"
+      ]
+    },
+    {
+      "question": "skeleton",
+      "answer": [
+        "Rohbau",
+        "Haut und Knochen",
+        "Gerippe",
+        "Skelett",
+        "Skeleton"
+      ]
+    },
+    {
+      "question": "reception",
+      "answer": [
+        "Rezeption",
+        "Empfang"
+      ]
+    },
+    {
+      "question": "screen",
+      "answer": [
+        "Leinwand",
+        "Schirm",
+        "Bildschirm"
+      ]
+    },
+    {
+      "question": "handling",
+      "answer": [
+        "Hehlerei",
+        "Handhabung",
+        "Bedienung",
+        "Handling",
+        "Umgang"
+      ]
+    },
+    {
+      "question": "relation",
+      "answer": [
+        "Verwandte",
+        "Verwandtschaft",
+        "Verwandter",
+        "Familienangeh\u00f6riger",
+        "Angeh\u00f6riger",
+        "Familienmitglied",
+        "Familienangeh\u00f6rige",
+        "Angeh\u00f6rige",
+        "Beziehung",
+        "Relation"
+      ]
+    },
+    {
+      "question": "electorate",
+      "answer": [
+        "Kurf\u00fcrstentum",
+        "W\u00e4hlerschaft"
+      ]
+    },
+    {
+      "question": "anatomy",
+      "answer": [
+        "Anatomie"
+      ]
+    },
+    {
+      "question": "yoga",
+      "answer": [
+        "Yoga"
+      ]
+    },
+    {
+      "question": "tube",
+      "answer": [
+        "Tube",
+        "Rohr",
+        "R\u00f6hre"
+      ]
+    },
+    {
+      "question": "expertise",
+      "answer": [
+        "Expertise"
+      ]
+    },
+    {
+      "question": "millennium",
+      "answer": [
+        "Jahrtausend",
+        "Millennium"
+      ]
+    },
+    {
+      "question": "fossil",
+      "answer": [
+        "Fossil"
+      ]
+    },
+    {
+      "question": "force",
+      "answer": [
+        "Gewalt",
+        "erzwingen",
+        "zwingen",
+        "Kr\u00e4fte",
+        "Kraft"
+      ]
+    },
+    {
+      "question": "mix",
+      "answer": [
+        "Mischung",
+        "abmischen",
+        "vermengen",
+        "mischen",
+        "vermischen",
+        "mixen"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "family",
+      "answer": [
+        "Familie",
+        "vom anderen Ufer sein"
+      ]
+    },
+    {
+      "question": "foliage",
+      "answer": [
+        "Laub",
+        "Bl\u00e4tter"
+      ]
+    },
+    {
+      "question": "autobiography",
+      "answer": [
+        "Autobiografie"
+      ]
+    },
+    {
+      "question": "coalition",
+      "answer": [
+        "Koalition"
+      ]
+    },
+    {
+      "question": "certificate",
+      "answer": [
+        "Zertifikat"
+      ]
+    },
+    {
+      "question": "biology",
+      "answer": [
+        "Biologie"
+      ]
+    },
+    {
+      "question": "slate",
+      "answer": [
+        "planen",
+        "Kandidatenliste",
+        "verreissen",
+        "schiefergrau",
+        "Tafel",
+        "vorsehen",
+        "Liste",
+        "Schiefergrau",
+        "Schiefertafel",
+        "Dachschiefer",
+        "bestimmen",
+        "ansetzen",
+        "Schuldentafel",
+        "Schiefer"
+      ]
+    },
+    {
+      "question": "evaluation",
+      "answer": [
+        "Beurteilung"
+      ]
+    },
+    {
+      "question": "marble",
+      "answer": [
+        "Murmel",
+        "Marmor",
+        "marmorieren"
+      ]
+    },
+    {
+      "question": "king",
+      "answer": [
+        "Dame",
+        "K\u00f6nig"
+      ]
+    },
+    {
+      "question": "electricity",
+      "answer": [
+        "Elektrizit\u00e4t",
+        "Strom"
+      ]
+    },
+    {
+      "question": "tension",
+      "answer": [
+        "Spannung"
+      ]
+    },
+    {
+      "question": "coup",
+      "answer": [
+        "Coup"
+      ]
+    },
+    {
+      "question": "prostitute",
+      "answer": [
+        "prostituieren",
+        "sich prostituieren",
+        "Hure",
+        "Prostituierte",
+        "Dirne"
+      ]
+    },
+    {
+      "question": "replacement",
+      "answer": [
+        "Ersatzspieler",
+        "Ersatz"
+      ]
+    },
+    {
+      "question": "point",
+      "answer": [
+        "Komma",
+        "Peninsula",
+        "Standpunkt",
+        "Halbinsel",
+        "Spitze",
+        "Zeitpunkt",
+        "Landzunge",
+        "Punkt",
+        "zeigen"
+      ]
+    },
+    {
+      "question": "sum",
+      "answer": [
+        "Summe",
+        "summieren"
+      ]
+    },
+    {
+      "question": "composition",
+      "answer": [
+        "Komposition",
+        "Zusammenstellung"
+      ]
+    },
+    {
+      "question": "list",
+      "answer": [
+        "Liste",
+        "Schlagseite",
+        "aufz\u00e4hlen",
+        "Kr\u00e4ngung"
+      ]
+    },
+    {
+      "question": "shootout",
+      "answer": [
+        "Schusswechsel",
+        "Schie\u00dferei"
+      ]
+    },
+    {
+      "question": "pit",
+      "answer": [
+        "Stein",
+        "Loch",
+        "Same",
+        "Kern",
+        "Box",
+        "Grube"
+      ]
+    },
+    {
+      "question": "iron",
+      "answer": [
+        "eisern",
+        "Eisen",
+        "b\u00fcgeln",
+        "B\u00fcgeleisen"
+      ]
+    },
+    {
+      "question": "procedure",
+      "answer": [
+        "Prozedur",
+        "Vorgehensweise",
+        "Vorgehen",
+        "Unterprogramm",
+        "Prozedere"
+      ]
+    },
+    {
+      "question": "victory",
+      "answer": [
+        "Sieg"
+      ]
+    },
+    {
+      "question": "mouth",
+      "answer": [
+        "M\u00fcndlein",
+        "Mund",
+        "Maul",
+        "M\u00fcndung"
+      ]
+    },
+    {
+      "question": "pace",
+      "answer": [
+        "Tempo",
+        "Geschwindigkeit",
+        "Schritt",
+        "Pass",
+        "Passgang"
+      ]
+    },
+    {
+      "question": "piece",
+      "answer": [
+        "St\u00fcck"
+      ]
+    },
+    {
+      "question": "sale",
+      "answer": [
+        "Verkauf",
+        "Ausverkauf",
+        "Auktion",
+        "Schlussverkauf"
+      ]
+    },
+    {
+      "question": "forest",
+      "answer": [
+        "Hain",
+        "Wald",
+        "aufforsten",
+        "Geh\u00f6lz",
+        "Forst"
+      ]
+    },
+    {
+      "question": "poison",
+      "answer": [
+        "Giftstoff",
+        "Gift",
+        "vergiften"
+      ]
+    },
+    {
+      "question": "party",
+      "answer": [
+        "Partie",
+        "Fest",
+        "Partei",
+        "Teilnehmer",
+        "Teilnehmerin",
+        "Party",
+        "Feier",
+        "Fete"
+      ]
+    },
+    {
+      "question": "plant",
+      "answer": [
+        "platzieren",
+        "pflanzen",
+        "Kombination",
+        "Pflanze"
+      ]
+    },
+    {
+      "question": "confluence",
+      "answer": [
+        "Zusammenfluss"
+      ]
+    },
+    {
+      "question": "goalkeeper",
+      "answer": [
+        "Goali",
+        "Schlussmann",
+        "Torsteher",
+        "Fliegenf\u00e4ngerin",
+        "Keeper",
+        "Torwartin",
+        "Torw\u00e4chterin",
+        "Torsteherin",
+        "Schlussfrau",
+        "Keeperin",
+        "Tormann",
+        "Goalmann",
+        "Torh\u00fcterin",
+        "Torw\u00e4chter",
+        "Fliegenf\u00e4nger",
+        "Torh\u00fcter",
+        "Torwart",
+        "Torfrau",
+        "Goalie",
+        "Goalfrau"
+      ]
+    },
+    {
+      "question": "sailor",
+      "answer": [
+        "Seemann",
+        "Matrose"
+      ]
+    },
+    {
+      "question": "perfection",
+      "answer": [
+        "Vollkommenheit",
+        "Perfektion"
+      ]
+    },
+    {
+      "question": "vector",
+      "answer": [
+        "Vektor"
+      ]
+    },
+    {
+      "question": "transport",
+      "answer": [
+        "bef\u00f6rdern",
+        "Bef\u00f6rderung",
+        "transportieren"
+      ]
+    },
+    {
+      "question": "chain",
+      "answer": [
+        "Kette",
+        "ketten"
+      ]
+    },
+    {
+      "question": "ballet",
+      "answer": [
+        "Ballett"
+      ]
+    },
+    {
+      "question": "boat",
+      "answer": [
+        "Boot",
+        "Schiff"
+      ]
+    },
+    {
+      "question": "authenticity",
+      "answer": [
+        "Authentizit\u00e4t"
+      ]
+    },
+    {
+      "question": "improvement",
+      "answer": [
+        "Verbesserung"
+      ]
+    },
+    {
+      "question": "title",
+      "answer": [
+        "Eigentumsnachweis",
+        "Titel",
+        "Eigentumsrecht"
+      ]
+    },
+    {
+      "question": "cover",
+      "answer": [
+        "Abdeckung",
+        "decken",
+        "Versteck",
+        "Deckung",
+        "bespringen",
+        "besteigen",
+        "behandeln",
+        "Deckel",
+        "Gedeck",
+        "abdecken",
+        "covern",
+        "Deckung geben",
+        "\u00dcberdeckung",
+        "Decke"
+      ]
+    },
+    {
+      "question": "aircraft",
+      "answer": [
+        "Luftfahrzeug"
+      ]
+    },
+    {
+      "question": "mourning",
+      "answer": [
+        "Trauer"
+      ]
+    },
+    {
+      "question": "seat",
+      "answer": [
+        "Sitz",
+        "Sitzplatz"
+      ]
+    },
+    {
+      "question": "objection",
+      "answer": [
+        "Einspruch",
+        "Beanstandung",
+        "Widerspruch",
+        "Einwand"
+      ]
+    },
+    {
+      "question": "stunt",
+      "answer": [
+        "Stunt"
+      ]
+    },
+    {
+      "question": "broadcast",
+      "answer": [
+        "verbreiten",
+        "Rundfunk",
+        "Sendung",
+        "Ausstrahlung",
+        "senden",
+        "\u00dcbertragung"
+      ]
+    },
+    {
+      "question": "dragon",
+      "answer": [
+        "Drache",
+        "Lindwurm",
+        "Wurm",
+        "Wyvern"
+      ]
+    },
+    {
+      "question": "consideration",
+      "answer": [
+        "R\u00fccksicht",
+        "Verg\u00fctung",
+        "Erw\u00e4gung",
+        "\u00dcberlegung"
+      ]
+    },
+    {
+      "question": "combat",
+      "answer": [
+        "Schlacht",
+        "Kampf"
+      ]
+    },
+    {
+      "question": "haul",
+      "answer": [
+        "Fang",
+        "ziehen",
+        "G\u00fctertransport",
+        "transportieren",
+        "Fischzug",
+        "schleppen",
+        "Lastbef\u00f6rderung",
+        "bef\u00f6dern"
+      ]
+    },
+    {
+      "question": "casualty",
+      "answer": [
+        "Opfer"
+      ]
+    },
+    {
+      "question": "integrity",
+      "answer": [
+        "Integrit\u00e4t"
+      ]
+    },
+    {
+      "question": "victim",
+      "answer": [
+        "Opfer"
+      ]
+    },
+    {
+      "question": "energy",
+      "answer": [
+        "Energie"
+      ]
+    },
+    {
+      "question": "coordination",
+      "answer": [
+        "Koordinierung",
+        "Koordination"
+      ]
+    },
+    {
+      "question": "fog",
+      "answer": [
+        "Nebel"
+      ]
+    },
+    {
+      "question": "jewellery",
+      "answer": [
+        "Juwelen",
+        "Schmuck"
+      ]
+    },
+    {
+      "question": "embassy",
+      "answer": [
+        "Botschaft"
+      ]
+    },
+    {
+      "question": "designation",
+      "answer": [
+        "Benennung"
+      ]
+    },
+    {
+      "question": "quartet",
+      "answer": [
+        "Quartett"
+      ]
+    },
+    {
+      "question": "abbey",
+      "answer": [
+        "Abtei",
+        "Klosterkirche"
+      ]
+    },
+    {
+      "question": "denial",
+      "answer": [
+        "Negierung",
+        "Negation",
+        "Verneinung",
+        "Leugnung",
+        "Dementi",
+        "Verweigerung"
+      ]
+    },
+    {
+      "question": "button",
+      "answer": [
+        "Taste",
+        "Knopf",
+        "Knospe"
+      ]
+    },
+    {
+      "question": "invention",
+      "answer": [
+        "Invention",
+        "Erfinden",
+        "Erfindung",
+        "Einfallsreichtum"
+      ]
+    },
+    {
+      "question": "ceiling",
+      "answer": [
+        "Decke"
+      ]
+    },
+    {
+      "question": "peak",
+      "answer": [
+        "Gipfel",
+        "Maximum"
+      ]
+    },
+    {
+      "question": "place",
+      "answer": [
+        "Position",
+        "plazieren",
+        "Bude",
+        "Stelle",
+        "Ort",
+        "Schlafplatz",
+        "Sitzplatz",
+        "Quartier",
+        "Stehplatz",
+        "for vehicles: Standplatz",
+        "stellen",
+        "Platz",
+        "Sitz",
+        "einordnen"
+      ]
+    },
+    {
+      "question": "dress",
+      "answer": [
+        "sich anziehen",
+        "ankleiden",
+        "anziehen",
+        "Kleid",
+        "Kleidung",
+        "kleiden"
+      ]
+    },
+    {
+      "question": "patient",
+      "answer": [
+        "Patient",
+        "geduldig"
+      ]
+    },
+    {
+      "question": "mock",
+      "answer": [
+        "aufziehen",
+        "Schein-",
+        "nachahmen",
+        "hochnehmen",
+        "Nachahmung",
+        "nachgemacht",
+        "nach\u00e4ffen"
+      ]
+    },
+    {
+      "question": "bird",
+      "answer": [
+        "Braut",
+        "Typ",
+        "Perle",
+        "Schnitte",
+        "Vogel",
+        "absitzen im Cafe Viereck",
+        "Mieze"
+      ]
+    },
+    {
+      "question": "east",
+      "answer": [
+        "Osten",
+        "Ost"
+      ]
+    },
+    {
+      "question": "staff",
+      "answer": [
+        "Belegschaft",
+        "Notenlinien",
+        "Personal",
+        "Stab"
+      ]
+    },
+    {
+      "question": "lot",
+      "answer": [
+        "Parzelle",
+        "Grund",
+        "Haufen",
+        "Grundst\u00fcck",
+        "Los",
+        "H\u00e4uflein",
+        "Anzahl",
+        "Gruppe",
+        "Schicksal",
+        "Charge",
+        "Menge"
+      ]
+    },
+    {
+      "question": "girlfriend",
+      "answer": [
+        "Freundin",
+        "Girlfriend"
+      ]
+    },
+    {
+      "question": "suspicion",
+      "answer": [
+        "Argwohn",
+        "Verdacht",
+        "Verd\u00e4chtigung"
+      ]
+    },
+    {
+      "question": "armor",
+      "answer": [
+        "R\u00fcstung",
+        "Panzerung",
+        "Panzer",
+        "Panzerkraftwagen"
+      ]
+    },
+    {
+      "question": "couple",
+      "answer": [
+        "Paar",
+        "einige",
+        "ein paar"
+      ]
+    },
+    {
+      "question": "treasure",
+      "answer": [
+        "Schatz"
+      ]
+    },
+    {
+      "question": "slogan",
+      "answer": [
+        "Devise",
+        "Losung",
+        "Spruch ; Schlachtruf",
+        "Parole",
+        "Motto"
+      ]
+    },
+    {
+      "question": "trade",
+      "answer": [
+        "Passat",
+        "Kommerz",
+        "Tausch",
+        "Facharbeiter",
+        "Passatwind",
+        "Handel",
+        "Handwerk",
+        "Gesch\u00e4ft"
+      ]
+    },
+    {
+      "question": "delay",
+      "answer": [
+        "etwas verschieben",
+        "sich versp\u00e4ten",
+        "Verz\u00f6gerung"
+      ]
+    },
+    {
+      "question": "crest",
+      "answer": [
+        "Krone",
+        "Kamm",
+        "Haube"
+      ]
+    },
+    {
+      "question": "ankle",
+      "answer": [
+        "Fu\u00dfkn\u00f6chel",
+        "Kn\u00f6chel",
+        "enkel"
+      ]
+    },
+    {
+      "question": "soccer",
+      "answer": [
+        "Fu\u00dfball"
+      ]
+    },
+    {
+      "question": "source",
+      "answer": [
+        "Ursprung",
+        "beziehen",
+        "Quellkode",
+        "Quelle",
+        "belegen",
+        "Quellcode"
+      ]
+    },
+    {
+      "question": "loss",
+      "answer": [
+        "Verlust",
+        "Niederlage"
+      ]
+    },
+    {
+      "question": "premier",
+      "answer": [
+        "Ministerpr\u00e4zident"
+      ]
+    },
+    {
+      "question": "essay",
+      "answer": [
+        "Aufsatz",
+        "Essay",
+        "Versuch"
+      ]
+    },
+    {
+      "question": "idea",
+      "answer": [
+        "Idee",
+        "Ahnung"
+      ]
+    },
+    {
+      "question": "ice",
+      "answer": [
+        "frieren",
+        "einfrieren",
+        "Eis"
+      ]
+    },
+    {
+      "question": "bunker",
+      "answer": [
+        "Bunker"
+      ]
+    },
+    {
+      "question": "attribute",
+      "answer": [
+        "zuschreiben",
+        "Attribut"
+      ]
+    },
+    {
+      "question": "fortification",
+      "answer": [
+        "Festung",
+        "Fort",
+        "Befestigen",
+        "Festungsbau"
+      ]
+    },
+    {
+      "question": "discovery",
+      "answer": [
+        "Entdeckung"
+      ]
+    }
+  ]
+}

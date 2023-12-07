@@ -1,0 +1,1538 @@
+{
+  "train": [
+    {
+      "question": "premise: Joy Womack is an American ballet dancer. She is the first American to graduate from the Bolshoi Ballet Academy\u2019s main training program, and the first American woman to sign a contract with the Bolshoi Ballet. She is currently a principal dancer at the Kremlin Ballet Theater in Russia.\nhypothesis: Joy Womack has performed in front of an paid audience in Russia.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Dexter Alexander Nottage (born November 14, 1970) is a former American football defensive end in the National Football League (NFL) for the Washington Redskins and the Kansas City Chiefs. He played college football at Florida A&M University and was selected in the sixth round of the 1994 NFL Draft. He played high school football at Hollywood Hills High School.\nhypothesis: Dexter Alexander Nottage (born November 14, 1970) is a former power forward basketball in the NBA.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Knocked Up is a 2007 American romantic comedy film written, directed, and co-produced by Judd Apatow, and starring Seth Rogen, Katherine Heigl, Paul Rudd, and Leslie Mann. It follows the repercussions of a drunken one-night stand between a slacker and a just-promoted media personality that results in an unintended pregnancy.\nhypothesis: Mann is an actress in Knocked Up.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Michigan Murders were a series of highly publicized killings of young women committed between 1967 and 1969 in the Ann Arbor/Ypsilanti area of Southeastern Michigan by an individual known as the Ypsilanti Ripper, the Michigan Murderer, and the Co-Ed Killer.\nhypothesis: The Ypsilanti Ripper killed young women in the Ann Arbor/Ypsilanti area of Southeastern Michigan in the year 1968",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Alexandra Lendon Bastedo (9 March 1946 \u2013 12 January 2014) was a British actress, best known for her role as secret agent Sharron Macready in the 1968 British espionage/science fiction adventure series \"The Champions\". She has been cited as a sex symbol of the 1960s and 1970s. Bastedo was a vegetarian and animal welfare advocate.\nhypothesis: The role of Sharron Macready was played by a French actress in a 1968 series.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Blythburgh is a village and civil parish in the Suffolk Coastal district of the English county of Suffolk. It is 4 mi west of Southwold and 5 mi south-east of Halesworth and lies on the River Blyth. The A12 road runs through the village which is split either side of the road. At the 2011 census the population of the parish was 297. The parish includes the hamlets of Bulcamp and Hinton.\nhypothesis: Blythburgh is in a coastal district.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Quillota is a city located in the Aconcagua River valley of central Chile's Valpara\u00edso Region. It is the capital and largest city of the Quillota Province where many inhabitants live in the surrounding farm areas of San Isidro, La Palma, Pocochay, and San Pedro. It is an important agricultural center, mainly because the plantations of avocado and cherimoya (custard apple) trees.\nhypothesis: Quillota has a lot of children that live in the region.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Out of the Easy is a 2013 novel by Ruta Sepetys. It is her second published novel. It features Josie Moraine, a young woman in the 1950s French Quarter of New Orleans who struggles to escape her family and become the author of her own destiny. The novel became a New York Times bestseller and was chosen as an Editor\u2019s Choice in the New York Times on February 15, 2013.\nhypothesis: Ruta Sepetys published one novel before Out of the Easy.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Thomas Adrian \"Tommy\" Sands (born August 27, 1937) is an American pop music singer and actor. Working in show business as early as 1949, Sands became an overnight sensation and instant teen idol when he appeared on \"Kraft Television Theater\" in January 1957 as \"The Singin' Idol\". The song from the show, \"Teen Age Crush\", reached #2 on the \"Billboard\" Hot 100 and #1 on Cashbox.\nhypothesis: Thomas Adrian was famous before he turned 20. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Jamia Naeemia Lahore is an Islamic University in Lahore associated with the Sunni Barelvi movement. It was founded by Mufti Muhammad Husain Naeemi, father of Sarfraz Ahmed Naeemi. It serves as largest Sunni institution for the Barelvi movement in Pakistan.\nhypothesis: Mufti Muhammad Husain Naeemi started the Sunni Barelvi movement ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Palo Alto Art Center is multi-purpose center for various art-related activities in the city of Palo Alto, California. The Palo Alto Art Center Foundation (PAACF) is the nonprofit that supports the Palo Alto Art Center. The Palo Alto Art Center when it was founded in 1971, was named the Palo Alto Community Cultural Center.\nhypothesis: The PAACF's mission changes on a yearly basis.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ilan Goodman is an English actor who trained at RADA. He is the son of English actor Henry Goodman. He has appeared extensively on stage in the UK including the UK premieres of Adam Rapp's Red Light Winter Lynn Nottage's Intimate Apparel, and Joshua Harmon's Bad Jews.\nhypothesis: Ilan Goodman is the middle child of the the actor Henry Goodman",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: A trumpet concerto is a concerto for solo trumpet and instrumental ensemble, customarily the orchestra. Such works have been written from the Baroque period, when the solo concerto form was first developed, up through the present day. Some major composers have contributed to the trumpet concerto repertoire, with the best known work being Joseph Haydn's Trumpet Concerto in E-flat.\nhypothesis: trumpet concerto needs 10 different instruments. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Chun Myung-hoon (born April 6, 1978) is a South Korean singer, rapper, actor and television presenter. He was a member of boy band NRG. He released his single, \"Welcome To The Jungle\" on October 19, 2012. He is well known for a cast member on several TV shows include \"Girl Spirit\".\nhypothesis: He also released another single right after \"welcome to the jungle\"",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Gawsworth is a civil parish and village in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England. The population of the civil parish as of the 2011 census was 1,705. It is one of the eight ancient parishes of Macclesfield Hundred. Twenty acres of the civil parish were transferred to Macclesfield civil parish in 1936\nhypothesis: The population in Gawsworth in 2011 was below 1,800 people.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Haviland is a city in Kiowa County, Kansas, United States. As of the 2010 census, the city population was 701. It is home of Barclay College and known for meteorite finds connected to the Haviland Crater and for an annual meteorite festival held in July.\nhypothesis: Haviland has an annual meteorite festival.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Charleston is a small town in the Adelaide Hills of South Australia. It is situated on the Onkaparinga Valley Road between Woodside and Mount Torrens, on the main route from the Adelaide Hills to the Barossa Valley, and 3km south-east of Lobethal. Charleston is very close to the source of the River Onkaparinga.\nhypothesis: The Onkaparinga Road valley road is very close to Barossa Valley",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film \"WALL-E\" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to \"Waltz with Bashir\".\nhypothesis: The winner off the best film award lost in the best animated film category, even though it was an animated film.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Chris Stafford (born Christopher Stafford on July 18, 1977, in Collinsville, Illinois) is an American actor. He has acted in film and television including \"Law & Order\" and the coming-out movie \"Edge of Seventeen\", for which he received the Best Actor award at Outfest, and an Independent Spirit Award nomination. After acting Stafford turned his hand to Law. He is now a lawyer.\nhypothesis: Stafford wanted to be a lawyer before he went into acting.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: JoAnne Russell (born October 30, 1954) is an American former professional tennis player. With playing partner Helen Gourlay Cawley, she won the Wimbledon Ladies' Doubles title in 1977. They beat the team of Chris Evert and Rosie Casals in the first round and the top-ranked team of Martina Navratilova and Betty St\u00f6ve in the final (6\u20133, 6\u20133). Russell reached a career-high singles ranking of No. 22.\nhypothesis: Chris Evert and Rosie Casals won four Wimbledon Doubles titles.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. It was the main programming language used by Apple for the OS X and iOS operating systems, and their respective application programming interfaces (APIs) Cocoa and Cocoa Touch prior to the introduction of Swift.\nhypothesis: Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language which is impressive",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Broadcast Film Critics Association (BFCA) is an association of approximately 250 television, radio and online critics. Founded in 1995, it is the largest film critics organization in the United States and Canada. The BFCA has presented the Critics' Choice Movie Awards each year since 1995. Of the prestigious awards given by film critics it is the most populist in its tastes.\nhypothesis: The Broadcast Film Critics Association presents the Oscars.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Iola (pronounced ) is a city situated along the Neosho River in the northwestern part of Allen County, located in Southeast Kansas, in the Central United States. As of the 2010 census, the city population was 5,704. Iola is the county seat of Allen County. It is named in honor of Iola Colborn.\nhypothesis: Lola is a small town.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Cooper\u2013Frost\u2013Austin House is a historic Colonial American house, built in 1681. It is located at 21 Linnaean Street, Cambridge, Massachusetts. It is the oldest extant home in Cambridge and is owned and operated as a non-profit museum by Historic New England. The house is rarely open for public tours, but private tours can be arranged during the summer months.\nhypothesis: You can book a private tour of Cooper\u2013Frost\u2013Austin House in early September.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Wallace Park in Lisburn, Northern Ireland was bequeathed to the people of Lisburn by Sir Richard Wallace. It is a pleasant park with tree-lined walkways. There is a number of football pitches, tennis courts, a duck pond and a children's adventure play area. The grounds of Lisburn Cricket Club are in the centre of the park where Cecil Walker MBE is the groundman.\nhypothesis: Wallace Park is a popular tourist destination. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Tropical rock (or trop rock) is a genre of popular music with influences from rock and roll, reggae, country music, caribbean, Calypso music and zydeco. It incorporates themes and compositions of a tropical nature and represents a relaxed and easygoing lifestyle.\nhypothesis: Tropical rock (or trop rock) is a genre of popular music incorporates many ages into its listeners",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: World of Hell (or simply WoH) was a grey hat computer hacker group that claims to be responsible for several high profile attacks in the year 2001. It gained attention due to its high profile targets and the lighthearted messages it has posted in the aftermath of its attacks.\nhypothesis:  World of Hell (or simply WoH) was a grey hat computer hacker group which everyone loved",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Abesim is a town in Sunyani Municipal District in the Brong-Ahafo Region of Ghana. Abesim is very close to the regional capital town of the Brong-Ahafo Region, Sunyani. Abesim is known for the St. James Seminary and Secondary School. It is also known for the Olistar Senior High School. The school is a second cycle institution.\nhypothesis: Students who live in the regional capital town of the Brong-Ahafo Region, Sunyani, attend school in Abesim",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Boban Rajovi\u0107 (] , born 25 December 1971) is a Danish-born Montenegrin singer popular in former Yugoslavia. Some of his big hit songs include \"Usne boje vina\" (\"Lips the Color of Wine\") and \"Provokacija\" (\"Provocation\".) He has lived in Belgrade since 2000.\nhypothesis: Boban Rajovic moved to Belgrade  in 2000",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Will Wheaton, born Willie Mack Wheaton Jr. (born October 26, 1972) is an American singer, songwriter and musician. He grew up in Los Angeles and is the son of Gospel singer Juanita Wheaton. He studied music in his teens and was eventually tutored by Furman Fordham, whose former students include Lena Horne.\nhypothesis: Furman Fordham killed Will Wheaton in the 1920's.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The bombing of Chongqing (, Japanese: \u91cd\u6176\u7206\u6483 , from 18 February 1938 to 23 August 1943) was part of a terror bombing operation conducted by the Imperial Japanese Army Air Service and Imperial Japanese Navy Air Service on the Chinese provisional capital of Chongqing, authorized by the Imperial General Headquarters.\nhypothesis: The bombing of Chongqing (, Japanese: \u91cd\u6176\u7206\u6483 , from 18 February 1938 to 23 August 1943) was part of a terror bombing operation conducted by the Imperial Japanese Army Air Service and Imperial Japanese Navy Air Service.  This was done as Japan was against the United States. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Issa Album is the debut studio album by American rapper 21 Savage. The album was released on July 7, 2017 by Slaughter Gang and Epic Records. It features production from frequent collaborator Metro Boomin, alongside Southside, Pi'erre Bourne, Zaytoven, Wheezy, DJ Mustard and 21 Savage himself. It succeeds 21 Savage's collaborative EP with Metro Boomin, \"Savage Mode\" (2016).\nhypothesis: American rapper 21 Savage debuted the studio album Issa Album.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Canelo \u00c1lvarez vs. Amir Khan, billed as \"Power vs. Speed\" and also known as \"Canelo vs. Khan\" or by the portmanteau \"Khanelo\", was a professional boxing fight which took place on May 7, 2016, and was contested for the WBC, \"Ring\" magazine and lineal middleweight titles. It was the first major sporting event to be held at the T-Mobile Arena in Las Vegas.\nhypothesis: Canelo Alvarez beat Amir Khan in a professional boxing fight on May 7, 2016",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Saleby is a village in the civil parish of Beesby with Saleby , in the East Lindsey district of Lincolnshire, England. It is on the Alford road to Louth, about 2 mi north-east of Alford and 11 mi south-east of Louth. The hamlet of Thoresthorpe is about 1 mi south of the village.\nhypothesis: Saleby is the largest village in Lincolnshire",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: John Forsythe (born either John Lincoln Freund or Jacob Lincoln Freund; January 29, 1918 \u2013 April 1, 2010) was an American stage, film/television actor, producer, narrator, drama teacher and philanthropist whose career spanned six decades. He also appeared as a guest on several talk and variety shows and as a panelist on numerous game shows.\nhypothesis: John Forsythe was a producer during 1918.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Julia Gjika (born 1949) is an Albanian-born poet living in the United States. She is one of the few writers publishing in the Albanian language and writes poetry as well working as a journalist. Her poems have been praised by her peers and have been included in several publications of collected works.\nhypothesis: Julia Gjika's poems have never received any praise.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Brierfield is a small town and civil parish in the Borough of Pendle Lancashire, England. It is 2.5 mi north east of Burnley, 1 mi south west of Nelson, and 0.5 mi north east of Reedley. It has a population of 8,200, reducing marginally to 8,193 at the 2011 Census.\nhypothesis: Brierfield is 3.5 mi south west of Burnley.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Coward is a 1915 American silent historical war drama film directed by Reginald Barker and produced by Thomas H. Ince. Ince also wrote the film's story and scenario with C. Gardner Sullivan. The film stars Frank Keenan and Charles Ray. John Gilbert also appears in an uncredited bit part. A copy of \"The Coward\" is preserved at the Museum of Modern Art.\nhypothesis: \"The Coward\" was a movie that was filmed in black and white. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Wraith is a 1986 American independent action-horror film produced by John Kemeny, written and directed by Mike Marvin, and starring Charlie Sheen, Sherilyn Fenn, Nick Cassavetes, and Randy Quaid. The film was released theatrically on 288 screens in the U.S. by New Century Vista Film Company (later New Century Entertainment Corporation).\nhypothesis: New Century Entertainment Corporation released The Wraith in 1986.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ipomea wrightii, or Wright's morning glory, is a species of morning glory.It is generally described as an annual, perennial vine or forb or herb. Wright's morning glory is not native to the United States and is considered as an invasive species. It is found growing in the Southeastern part of the United States.\nhypothesis: Ipomea wrightii is an prennial vine",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: George Gipp (February 18, 1895 \u2013 December 14, 1920), nicknamed \"The Gipper\", was a college football player who played for the University of Notre Dame. Gipp was selected as Notre Dame's first Walter Camp All-American. Gipp played several positions, particularly halfback, quarterback, and punter.\nhypothesis: George played football when he was in college.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Luis Walter Alvarez (June 13, 1911 \u2013 September 1, 1988) was an American experimental physicist, inventor, and professor who was awarded the Nobel Prize in Physics in 1968. The American Journal of Physics commented, \"Luis Alvarez was one of the most brilliant and productive experimental physicists of the twentieth century.\"\nhypothesis: Luis Walter Alvarez specialized in quantum physics.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: James Arthur Lovell Jr. (born March 25, 1928) is a former NASA astronaut and a retired captain in the United States Navy, most famous as the commander of the Apollo 13 mission, which suffered a critical failure en route to the Moon but was brought back safely to Earth by the efforts of the crew and mission control.\nhypothesis: James Lovell was on Apollo 13 when it suffered a critical failure on it's way to the moon. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Chlorophyll (also chlorophyl) is any of several closely related green pigments found in cyanobacteria and the chloroplasts of algae and plants. Its name is derived from the Greek words \u03c7\u03bb\u03c9\u03c1\u03cc\u03c2, \"chloros\" (\"green\") and \u03c6\u03cd\u03bb\u03bb\u03bf\u03bd, \"phyllon\" (\"leaf\"). Chlorophyll is essential in photosynthesis, allowing plants to absorb energy from light.\nhypothesis: All plants are green. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: On October 20, 1977, a Convair CV-240 chartered by the rock band Lynyrd Skynyrd from L&J Company of Addison, Texas, ran out of fuel and crashed in Gillsburg, Mississippi, near the end of its flight from Greenville, South Carolina, to Baton Rouge, Louisiana.\nhypothesis: The plane was rebuilt.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Arthur \"Skip\" Roderick is a retired American soccer player who played professionally in the North American Soccer League, Major Indoor Soccer League and the American Soccer League. He is currently the head coach of the NCAA Division III Elizabethtown College men's soccer team.\nhypothesis: Arthur Roderick, a retired American soccer player played professionally n the African Soccer League.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Clark County is a county in the U.S. state of Nevada. As of the 2010 census, the population was 1,951,269, with an estimated population of 2,114,801 in 2015. It is by far the most populous county in Nevada, accounting more than two-thirds of its residents. Las Vegas, Nevada's most populous city, has been the county seat since the county was established.\nhypothesis: The estimated population of Clark County in 2015 was higher than in the 2010 census because of mass immigration.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: St Estevam is an Island in Ilhas, Goa, India. St Estevam is known also 'Juvem' and in the past was known as 'Shakecho Juvo' - the isle of vegetables - known for its long, seven-ridged, light green ladyfingers. Therefore the people of Juvem came to be nicknamed 'bhende'.\nhypothesis: 'Shakecho Juvo' means the isle of fruits.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Columbus Comets are a women's professional American football team based in Columbus, Ohio. They play in the Women's Football Alliance. The Comets played in the National Women's Football Association from their inception in 2003 until 2008 (in 2003 they were known as the Columbus Flames). Their home games are played at Grove City Christian School in Grove City, Ohio.\nhypothesis: The team was first known as the Columbus Flames because of the design that was on their uniforms.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: APOEL FC (Greek: \u0391\u03a0\u039f\u0395\u039b ; short for \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a0\u03bf\u03b4\u03bf\u03c3\u03c6\u03b1\u03b9\u03c1\u03b9\u03ba\u03cc\u03c2 \u038c\u03bc\u03b9\u03bb\u03bf\u03c2 \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2, \"Athletikos Podosferikos Omilos Ellinon Lefkosias\", \"Athletic Football Club of Greeks of Nicosia\") is a professional football club based in Nicosia, Cyprus. APOEL is the most popular football team in Cyprus and they are the most successful with an overall tally of 26 championships, 21 cups and 13 super cups.\nhypothesis: APOEL is the most popular football team, but has yet to win any championships.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "premise: Operation Zahnarzt (literally \"Dentist\") was a plan by the Germans to eliminate the Third Army during World War II. The plan of Operation Zahnarzt was to immediately come after Operation Nordwind. The plan was to initiate a pincer movement to encircle and destroy the 3rd US Army.\nhypothesis: Operation Zahnarzt (literally \"Dentist\") was a plan by the Germans during the war.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Three Musketeers is a 1993 Austrian-American action-adventure comedy film from Walt Disney Pictures, Caravan Pictures, and The Kerner Entertainment Company, directed by Stephen Herek from a screenplay by David Loughery. It stars Charlie Sheen, Kiefer Sutherland, Chris O'Donnell, Oliver Platt, Tim Curry and Rebecca De Mornay.\nhypothesis: The Three Musketeers will be rereleased on the movie's 30 year anniversary.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Camassia quamash, commonly known as camas, small camas, common camas, common camash or quamash, is a perennial herb. It is one species of the genus \"Camassia\" and is native to western North America in large areas of southern Canada and the northwestern United States, from British Columbia and Alberta to California and east from Washington state to Montana and Wyoming.\nhypothesis: Cassia quamash is also known by the name small quamash.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Robin Weaver is an English actress well known for playing the role of recurring character Pamela Cooper in the E4 sitcom \"The Inbetweeners\" and its feature-length films, \"The Inbetweeners Movie\" and \"The Inbetweeners 2\". She has also appeared in several TV commercials.\nhypothesis: Robin most known work is inbetweeners",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Golden Gate (1986) is the first novel by poet and novelist Vikram Seth. The work is a novel in verse composed of 590 Onegin stanzas (sonnets written in iambic tetrameter, with the rhyme scheme following the \"ababccddeffegg\" pattern of \"Eugene Onegin\"). It was inspired by Charles Johnston's translation of Pushkin's \"Eugene Onegin\".\nhypothesis: The Golden Gate was dedicated to Seth's mother.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: James Gaines, birth name James Larry M. Gaines Jr., is an African-American-Filipino character actor, writer and director with dual nationality, born on May 18, 1955, in Maui, Hawaii. He was sometimes also credited as Jaimes Gaines, Jim Gaines, and James Gainers.\nhypothesis: James Gaines was born during the 19th century.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Scientific American (informally abbreviated SciAm) is an American popular science magazine. Many famous scientists, including Albert Einstein, have contributed articles in the past 170 years. It is the oldest continuously published monthly magazine in the United States(though it only became monthly in 1921).\nhypothesis: The SciAm has been running monthly issues since 1921. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Pietro Alessandro Gaspare Scarlatti (2 May 1660 \u2013 22 October 1725) was an Italian Baroque composer, especially famous for his operas and chamber cantatas. He is considered the founder of the Neapolitan school of opera. He was the father of two other composers, Domenico Scarlatti and Pietro Filippo Scarlatti.\nhypothesis: Pietro Filippo Scarlatti had a brother named Pietro Alessandro Gaspare Scarlatti.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Jos\u00e9 Venegas, known as \"El Bronco\", was a Mexican singer and film actor best known as Epigmenio Z\u00fa\u00f1iga in the film \"La Valentina\". Originally from San Buenaventura, Chihuahua, Venegas was born Jos\u00e9 Monta\u00f1o. After having migrated to Mexico City, in order to pursue his talent, Venegas appeared in five films in which he also sang until an alleged confrontation with Pedro Infante stooped his career.\nhypothesis: Venegas wasn't an actor, just a singer",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Screenplaying is a compilation album by British singer-songwriter and guitarist Mark Knopfler, released on 9 November 1993 by Vertigo Records internationally and Warner Bros. Records in the United States. The album contains previously released tracks from Knopfler's soundtrack albums \"Cal\" (1984), \"Last Exit to Brooklyn\" (1989), \"The Princess Bride\" (1987), and \"Local Hero\" (1983).\nhypothesis: The compilation album Screenplaying was released in the 21st century.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Robert L. Hass (born March 1, 1941) is an American poet. He served as Poet Laureate of the United States from 1995 to 1997. He won the 2007 National Book Award and shared the 2008 Pulitzer Prize for the collection \"Time and Materials: Poems 1997-2005.\" In 2014 he was awarded the Wallace Stevens Award from the Academy of American Poets.\nhypothesis: Robert L. Hass wrote a book of poems about growing up poor.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Titus is the original soundtrack to the 1999 motion picture \"Titus\". Elliot Goldenthal wrote the score for the film, an adaptation of Shakespeare's first, and bloodiest, tragedy \"Titus Andronicus\"; written and directed by Julie Taymor, Goldenthal's long-time friend and partner. The only non-Goldenthal piece is an old Italian song called \"\"Vivere\"\" performed by Italian singer Carlo Buti.\nhypothesis: Titus is the sountrack to the play.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Condensed 21st Century Guide to King Crimson is a compilation by progressive rock band King Crimson, released in 2006. It contains select studio tracks from the two box sets, \"The 21st Century Guide to King Crimson \u2013 Volume One \u2013 1969\u20131974\" and \"The 21st Century Guide to King Crimson \u2013 Volume Two \u2013 1981\u20132003\".\nhypothesis: The 21st Century Guide to King Crimson \u2013 Volume One are tracks from 1969\u20131974",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Glassroth v. Moore, CV-01-T-1268-N, 229 F. Supp. 2d 1290 (M.D. Ala. 2002), and its companion case Maddox and Howard v. Moore, CV-01-T-1269-N, concern then-Alabama Supreme Court Chief Justice Roy S. Moore and a stone monument of the Ten Commandments in the rotunda of the Alabama Judicial Building in Montgomery, Alabama.\nhypothesis: The Alabama Judicial Building is in Montgomery, Alabama.\n",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Coward is a 1915 American silent historical war drama film directed by Reginald Barker and produced by Thomas H. Ince. Ince also wrote the film's story and scenario with C. Gardner Sullivan. The film stars Frank Keenan and Charles Ray. John Gilbert also appears in an uncredited bit part. A copy of \"The Coward\" is preserved at the Museum of Modern Art.\nhypothesis: The Coward is a part of American history and located in a museum for preservation.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Canelo \u00c1lvarez vs. Kermit Cintron was a Super-Welterweight championship fight for the WBC World title. The fight took place at the Plaza de Toros M\u00e9xico in Mexico City, Distrito Federal Mexico on the 26 of November 2011. It was a split-site doubleheader headlined which featured junior lightweight Adrien Broner against separate opponents from Broner's hometown in Cincinnati.\nhypothesis: The fight was the most watched fight in Mexico city",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Way I Am is a 2006 album by MC Mong. This is MC Mong's third album. This album comes in a digital disc format. For MC Mong's third album, he invited M-Flo's former member Lisa. His third album also includes duets with Park Hyo Shin, Ivy, and MayBee.\nhypothesis: The Way I Am came after the release of MC's second album.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Mir\u00f3briga (\"Mirobriga Celticorum\") is an ancient Roman town located near the village and civil parish of Santiago do Cac\u00e9m, in the municipality of the same name in the south-west of Portugal. Archeology revealed a that the town occupied the site of an ancient Iron Age settlement that existed since the 9th century B.C.\nhypothesis: Mir\u00f3briga (\"Mirobriga Celticorum\") is an ancient Romanian town located near the village and civil parish of Santiago do Cac\u00e9m",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Izear Luster \"Ike\" Turner, Jr. (November 5, 1931 \u2013 December 12, 2007) was an American musician, bandleader, songwriter, arranger, talent scout, and record producer. An early pioneer of fifties rock and roll, he is most popularly known for his work in the 1960s and 1970s with his then-wife Tina Turner in the Ike & Tina Turner Revue.\nhypothesis: Izear died on November 5, 1931.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Achillea ageratum, also known as sweet yarrow, sweet-Nancy, or sweet maudlin, is a flowering plant in the sunflower family, native to southern Europe (Spain, Portugal, France, Italy, Greece, Balkans). It is cultivated in many places for its pleasant fragrance and sparingly naturalized in a few places outside its native range.\nhypothesis: Sunflowers grow in Spain. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "premise: Parma ]    (Emilian: \"P\u00e4rma\" ) is a city in the northern Italian region of Emilia-Romagna famous for its prosciutto (ham), cheese, architecture, music and surrounding countryside. It is home to the University of Parma, one of the oldest universities in the world.\nhypothesis: Parma is known for its architecture.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Kester \"Smitty\" Smith is an American percussionist. He is the drummer for the Taj Mahal Trio and has collaborated with jazz, blues and world musicians. He has performed with and alongside Taj Mahal for over forty years. He has recorded music with Taj Mahal, Geoff Muldaur, Peter Rowan, Cedella Booker, Morgan Freeman, Ellen McIlwaine, Mary Coughlan and Pinetop Perkins.\nhypothesis: Kester Smith is retired.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: William George \"Billy\" Zane, Jr. (born February 24, 1966) is an American actor and producer. He is best known for playing Hughie in the thriller \"Dead Calm\" (1989), Kit Walker / The Phantom in the superhero film \"The Phantom\" (1996), Caledon Hockley in the epic romantic disaster film \"Titanic\" (1997), and for his television role as John Wheeler in the serial drama series \"Twin Peaks\".\nhypothesis: Billy Zane starred in Dead Calm in 1989 as Kit Walker.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Left Rights is the self-titled debut album by the Mindless Self Indulgence side project featuring members Little Jimmy Urine and Steve, Righ?. The album also contains a video of Mindless Self Indulgence performing \"Panty Shot\" live at CBGBs in New York City.\nhypothesis: The Left Rights formed a side project called Mindless Self Indulgence.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: American Beauty is a lost 1927 American silent film romantic drama produced and distributed by First National Pictures. This film was directed by Richard Wallace and starred Billie Dove. It was based on a short story \"American Beauty\" by Wallace Irwin. She is supported by Walter McGrail and Margaret Livingston.\nhypothesis: American Beauty contains the voices of many actors.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Reggie Yates (born 31 May 1983) is a British actor, television presenter and radio DJ, best known from his roles as Rastamouse, Leo Jones in \"Doctor Who\", and for his work at the BBC in radio and television - presenting various shows for BBC Radio 1 with Fearne Cotton \u2013 as well as hosting the ITV2 reality show \"Release the Hounds\" from 2013 until 2017.\nhypothesis: While acting, Yates also worked as a radio DJ.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Give Us Our Skeletons! (Antakaa Meille Luurankomme in Finnish, Oaivveskaldjut in North Sami) is a 1999 documentary film directed by Paul-Anders Simma about Niillas Somby, a Sami man who retraces his family ancestry as he searches for the head of his ancestor, Mons Somby.\nhypothesis: Give Us Our Skeletons! is a 19999 documentary film.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Taj Mahal or Mini Taj Mahal or Qadri's Taj Mahal, officially known as Maqbara Yadgare Mohabbat Tajammuli Begum is a replica of the historic Taj Mahal of Agra located in Kaser Kalan, a small village in Bulandshahar of Uttar Pradesh, India. It was built by 81 years old a retired postmaster, Faizul Hasan Qadri in the memory of his dead wife Tajamulli Begum, who died due to throat cancer in 2011.\nhypothesis: Faizul Hasan Qadri and his wife, Tajamulli Begum, built Qadri's Taj Mahal. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Best of David Bowie 1974/1979 is a compilation album by David Bowie released in 1998 (see 1998 in music). It follows \"The Best of David Bowie 1969/1974\" (1997) and includes material released between 1974\u20131979. This album was also included as the second disc of the compilation \"The Platinum Collection\" (2005/2006).\nhypothesis: David Bowies album The Best of David Bowie does not include all songs released and recorded during the specified time period",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Fulletby is a village and a civil parish in the East Lindsey district of Lincolnshire, England. It is situated in the Lincolnshire Wolds, and 3 mi north-east from Horncastle, 9 mi south from Louth, and 8 mi north-west from Spilsby. The parish covers approximately 1950 acre . At the time of the 2011 census the population remained less than 100 and is included in the civil parish of Low Toynton.\nhypothesis: Over one hundred people live in the tiny village of Fulletby",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ladybug Ladybug is a 1963 American motion picture directed by Academy Award-nominated filmmaker Frank Perry. The film is a commentary on the psychological effects of the Cold War, the title deriving from the classic nursery rhyme. It was the motion picture debut of William Daniels, Estelle Parsons and Jane Connell.\nhypothesis: Ladybug Ladybug had debutante actors William Daniels, Estelle Parsons and Jane Connell starring in it.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Christiandy Sanjaya (Hanzi: \u9ec3\u6f22\u5c71, Hanyu Pinyin: \"Hu\u00e1ng H\u00e0nsh\u0101n\", Hakka: \"Bong Hon Sham\", born 29 March 1964) is the incumbent Deputy Governor of West Kalimantan since 14 January 2008. He was elected to the post together with his running mate, incumbent Governor Cornelis, after winning the 2007 gubernatorial election. They were re-elected for the second term on the 2012 gubernatorial election.\nhypothesis: Christiandy Sanjaya was born the the 29th day of the third month of 1965",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The following bibliography of Roberto Bola\u00f1o provides a chronological list of the published works of Chilean writer Roberto Bola\u00f1o (1953\u20132003). It includes his fiction (novels, short stories, poems) and non-fiction (essays, speeches, interviews), both published during his lifetime and posthumously.\nhypothesis: Roberto Bolano's bibliography was published during his lifetime.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Fulton James MacGregor MSP is a Scottish politician who is a Scottish National Party (SNP) Member of Scottish Parliament for the constituency of Coatbridge and Chryston. MacGregor is currently Parliamentary Liaison Officer to Shona Robison, Cabinet Secretary for Health & Sport. He also serves on the Justice and Education & Skills committees in the Scottish Parliament.\nhypothesis: People who live in Coatbridge are represented by a different Member of Scottish Parliament than people who live in Chryston.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Warwick Todd is a fictional character created by author and comedian Tom Gleisner. Todd is the author of four fictional cricket diaries: \"The Warwick Todd Diaries\" (1997), \"\" (1998), \"Warwick Todd Goes the Tonk\" (2001) and \"Warwick Todd - Up in the Block Hole\" (2009). The first 3 books in the series were Australian bestsellers.\nhypothesis: Tom Gleisner is done writing Warwick Todd novels.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Scott Powell was born in Dallas, Texas, on August 13, 1948. He was a founding member of Sha Na Na, which began at Columbia University in 1969, under the name The Kingsmen. The group's name was later changed to avoid confusion with another band of the same name.\nhypothesis: Scott Powell came up with the name The Kingsmen.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: EPOC is a discontinued family of graphical operating systems developed by Psion for portable devices, primarily PDAs. EPOC came from epoch, the beginning of an era, but was backfitted by the engineers to \"Electronic Piece Of Cheese\". It was succeeded by Symbian in 1998.\nhypothesis: Electronic pieces of cheese were developed to feed portable devices.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: A Taxi Driver () is a 2017 South Korean historical action drama film directed by Jang Hoon, with Song Kang-ho starring in the title role, alongside Thomas Kretschmann. The film was released on August 2, 2017 in South Korea. It was selected as the South Korean entry for the Best Foreign Language Film at the 90th Academy Awards.\nhypothesis: The film Taxi Driver was released in North Korea and not the United States or Australia. ",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Hikari is the second full-length album by British metalcore band Oceans Ate Alaska, released on July 28th 2017 through Fearless Records. It is the first album released by the band without original vocalist James Harrison, and instead it was recorded with Jake Noakes, who joined the band shortly after Harrison's departure.\nhypothesis: Hikari is the second full-length album by British metalcore band Oceans Ate Alaska, released in the seventh month of a year",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Count Francesco Baracca (9 May 1888 \u2013 19 June 1918) was Italy's top fighter ace of World War I. He was credited with 34 aerial victories. The emblem he wore side by side on his plane of a black horse prancing on its two rear feet inspired that of Ferrari.\nhypothesis: Count Francesco Baracca (9 May 1888 \u2013 19 June 1918) was Italy's top fighter ace of World War I. He was credited with more than 34 aerial victories.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: A trumpet concerto is a concerto for solo trumpet and instrumental ensemble, customarily the orchestra. Such works have been written from the Baroque period, when the solo concerto form was first developed, up through the present day. Some major composers have contributed to the trumpet concerto repertoire, with the best known work being Joseph Haydn's Trumpet Concerto in E-flat.\nhypothesis: Joseph Haydn was the first composer of a trumpet concerto.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 2008\u201309 Tour de Ski was the 3rd edition of the Tour de Ski and took place from 27 December 2008 until 4 January 2009. The race kicked off in Oberhof, Germany, and finished in Val di Fiemme, Italy. The men's event was 102\u00a0km, won by Dario Cologna of Switzerland; and the woman's event was 60\u00a0km, won by Virpi Kuitunen of Finland.\nhypothesis: The 2008\u201309 Tour de Ski was the third edition of the Tour de Ski and took place from the twenty-seventh day of the last month of 2008 to 4 january 2009",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Nocturna Artificialia is the first credited film directed and produced by the Brothers Quay, Timothy and Stephen. \"This British fraternal directing team is known for their avant-garde puppet films.\" Rather than dialog, this film uses shadows and music to create the dream-like state of the main character and his journey on a red tram at night.\nhypothesis: Stephen and Timothy are siblings.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Fort Davis National Historic Site is a United States National Historic Site located in the unincorporated community of Fort Davis, Jeff Davis County, Texas. Located within the Davis Mountains of West Texas, the historic site was established in 1961 to protect one of the best remaining examples of a United States Army fort in the southwestern United States.\nhypothesis: Fort Davis was once a United States Air Force Base situated in Texas.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Citrix Systems is a computer software company that was founded in 1989 by Ed Iacobucci. Citrix creates and sells virtualization, cloud computing, networking and SaaS products that aim to provide remote connectivity to workers on a variety of devices.\nhypothesis: Citrix Systems was founded by Ed Iacobucci, who was born in 1989",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: \"I Hate Myself for Loving You\" is a 1988 song from Joan Jett and the Blackhearts and the first single from the album \"Up Your Alley\". The song reached No.\u00a08 on the U.S. \"Billboard\" Hot 100, Jett's third single to reach the Top 10, but her first since \"Crimson and Clover\" in 1982. The song spent six weeks longer on the charts than did the group's biggest hit, \"I Love Rock 'n' Roll.\"\nhypothesis: Joan Jett went 6 years without a top 10 single.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Green Mile is a 1996 serial novel written by Stephen King. It tells the story of death row supervisor Paul Edgecombe's encounter with John Coffey, an unusual inmate who displays inexplicable healing and empathetic abilities. The serial novel was originally released in six volumes before being republished as a single volume work. The book is an example of magical realism.\nhypothesis: The seventh volume of the serial novel was an example of magical realism.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Johan Gustav Christoffer Thorsager Kjeldahl (] 16 August 1849 \u2013 18 July 1900), was a Danish chemist who developed a method for determining the amount of nitrogen in certain organic compounds using a laboratory technique which was named the Kjeldahl method after him.\nhypothesis: Johan Gustav developed Kjeldahl method in 1901",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: A Quick Fuck is a layered shooter made from one part coffee liqueur like Kahlua, one part cold Midori liqueur and one part Baileys Irish Cream. The Baileys is poured off the back of a bar spoon so it \"floats\" on top of the Kahlua in a shot glass. Then slowly layer the Midori on top of the Baileys. Note that Baileys does not have to be used; any type of Irish Cream will do.\nhypothesis: In A Quick Fuck you need to pour the Baileys off the back of a bar spoon to make it float on top of the Midori.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Summer Lovers is a 1982 American romantic comedy film written and directed by Randal Kleiser, starring Peter Gallagher, Daryl Hannah and Valerie Quennessen. It was filmed on location on the island of Santorini, Greece. The original music score is composed by Basil Poledouris. \"Summer Lovers\" featured \"Hard to Say I'm Sorry\", a No. 1 hit for Chicago and \"I'm So Excited\" by The Pointer Sisters.\nhypothesis: Daryl Hannah was an actress in a 1982 romantic movie along side Peter Gallagher. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Tipp FM (Tipperary Local Radio), licensed since 1989 by the Broadcasting Commission of Ireland, is the local radio station covering County Tipperary. In addition to the official franchise area, the station also enjoys a listenership in neighbouring counties.\nhypothesis: County Tipperary is in Ireland",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Separation is a 2013 Canadian thriller film directed by Greg White and his feature film directorial debut. The film was released on video on demand on April 15, 2013 and stars Sarah Manninen and Peter Stebbings as a married couple struggling to save their lives as well as their marriage.\nhypothesis: Greg White and never directed a film before 2012.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: George Dayton (born 1827, died 1938) lived in Union Township in what is now Rutherford, New Jersey, and represented Bergen County in the New Jersey Senate from 1875 to 1877. Dayton moved to Closter, New Jersey, in 1890 and became the clerk of Harrington Township, New Jersey.\nhypothesis: Dayton was a politician his whole life",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Bj\u00f6rn Kristian Ulvaeus (] ) (born 25 April 1945; credited as Bj\u00f6rn Ulv\u00e6us) is a Swedish songwriter, producer, a former member of the Swedish musical group ABBA (1972\u20131982), and co-composer of the musicals \"Chess\", \"Kristina fr\u00e5n Duvem\u00e5la\", and \"Mamma Mia!\". He co-produced the film \"Mamma Mia!\" with fellow ABBA member and close friend Benny Andersson.\nhypothesis: Bj\u00f6rn Kristian Ulvaeus co-produced the film \"Mamma Mia!\" with the members of ABBA.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Yisroel Tzvi Neuman (born April 1947) is an Orthodox rabbi and one of the four roshei yeshiva (deans) of Beth Medrash Govoha (the Lakewood Yeshiva) in Lakewood, New Jersey. He shares this post with Rabbi Malkiel Kotler, Rabbi Yerucham Olshin, and Rabbi Dovid Schustal. He is married to the daughter of Rav Dov Schwartzman, who is a granddaughter of the founder of the yeshiva, Rabbi Aharon Kotler.\nhypothesis: Yisroel Tzvi Neuman married Mary Schwartzman in April 1972.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Chelone is a genus of four species of perennial herbaceous plants native to eastern North America. They all have similarly shaped flowers (which led to the name turtlehead due to their resemblance to the head of a turtle), which vary in color from white to red, purple or pink. \"C. cuthbertii\", \"C. glabra\", and \"C. lyonii\" are diploid and \"C. obliqua\" is either tetraploid or hexaploid.\nhypothesis: Chelone plants are native throughout North America.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Canelo \u00c1lvarez vs. Amir Khan, billed as \"Power vs. Speed\" and also known as \"Canelo vs. Khan\" or by the portmanteau \"Khanelo\", was a professional boxing fight which took place on May 7, 2016, and was contested for the WBC, \"Ring\" magazine and lineal middleweight titles. It was the first major sporting event to be held at the T-Mobile Arena in Las Vegas.\nhypothesis: The fight took place in the decade after the 2000's. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ann Rowan (died 10 August 2014) was an Irish actress. She was best known for her role as Julia Mac in the RT\u00c9 television soap opera \"The Riordans\". She also had roles in the television series \"Father Ted\" and \"Screen Two\". She made appearances in the movies \"Ulysses\" (1967) and \"The Outsider\" (1980).\nhypothesis: Ann Rowan played the role of Father Ted in the series of the same name.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Incline Village is a census-designated place (CDP) in Washoe County, Nevada on the north shore of Lake Tahoe. The population was 8,777 at the 2010 census. It is part of the Reno\u2212Sparks Metropolitan Statistical Area. Until the 2010 census, the CDP Crystal Bay, Nevada was counted jointly with Incline Village.\nhypothesis: During the 2010 census the population of Incline Village wasn't counted.  ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Westfield Garden City, better known as Garden City, is one of Brisbane's major shopping centres, located in the suburb of Upper Mount Gravatt. The centre is operated by Westfield, and previously operated by AMP Limited before the takeover in 2003. The shopping centre currently has 440 specialty stores, cafes, restaurants and other services and food vendors.\nhypothesis: Garden City, lesser known as Westfield Garden City, is one of Brisbane's major shopping centres, previously operated by AMP Limited before a takeover in the early 2000's.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Namibian Sun is a daily tabloid newspaper in Namibia. It was launched on 20 September 2007 as a weekly tabloid newspaper published on Thursdays. It had an initial print run of 36,000. The paper publishes mostly in English with some pages in \"Oshiwambo\" and targets a readership aged between 18 and 40. It has been published daily since 2010.\nhypothesis: The Namibian Sun is a daily tabloid newspaper in Namibia which is mostly read by those in their 30s, and the paper targets a readership aged between 18 and 40",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: \"An English Gentleman\" is the second single from the album \"The Great Western\" by Manic Street Preachers vocalist/guitarist James Dean Bradfield, released on 25 September 2006 on Columbia Records.\" The title track pays tribute to the late Manics publicist Philip Hall. Also featured on the CD version of the single is a cover Frank Sinatra's \"Summer Wind\", Bradfield's favourite song.\nhypothesis: Frank Sinatra's favorite song was \"Summer Wind\".",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Curious George 2: Follow That Monkey! is a 2009 animated comedy film of the children's stories by H.A. Rey and Margret Rey. It is a sequel to the successful 2006 theatrical feature film \"Curious George\". It was originally titled \"Curious George 2: Monkey on the Run\". It was released straight to DVD.\nhypothesis: Curious George 2: Follow That Monkey! is a 2009 animated comedy film of the children's stories by H.B. Rey and Margret Rey. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Testimony: The Story of Shostakovich is a 1988 British musical drama film directed by Tony Palmer and starring Ben Kingsley, Sherry Baines and Robert Stephens. The film is based on the memoirs of Dmitri Shostakovich (1906\u20131975) as dictated in the book \"Testimony\" (edited by Solomon Volkov, ISBN\u00a0 ) and filmed in Panavision. Some consider the book to be a fabrication.\nhypothesis: The source material for The Story of Shostakovich is a fabrication",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The paloma (Spanish for \"dove\") is a tequila-based cocktail. This drink is most commonly prepared by mixing tequila with a grapefruit-flavored soda such as Fresca, Squirt, or Jarritos and served on the rocks with a lime wedge. This drink also has the option of adding salt to the rim of the glass.\nhypothesis: The monalva (Spanish for \"dove\") is a tequila-based cocktail",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: This is a list of films produced by the U.S. film studio 20th Century Fox Film Corporation and released between its May 31, 1935 creation as a merger between Fox Film Corporation (1915\u20131935) and 20th Century Pictures (1933\u20131936) until 1999. For subsequent releases by 20th Century Fox, see List of 20th Century Fox films (2000\u2013present).\nhypothesis: This list contains movies released by 20th Century Pictures in 1982.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Colour of Magic is a 1983 comic fantasy novel by Terry Pratchett, and is the first book of the \"Discworld\" series. The first printing of the British edition consisted of 506 copies. Pratchett has described it as \"an attempt to do for the classical fantasy universe what \"Blazing Saddles\" did for Westerns.\"\nhypothesis: \"Discworld\" begins with the novel, \"Discworld\".",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Robin Weaver is an English actress well known for playing the role of recurring character Pamela Cooper in the E4 sitcom \"The Inbetweeners\" and its feature-length films, \"The Inbetweeners Movie\" and \"The Inbetweeners 2\". She has also appeared in several TV commercials.\nhypothesis: Robin Weaver does not consent to being in commercials",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Hit Parader was an American music magazine that operated between 1942 and 2008. A monthly publication, it was a general popular music title until the 1980s, when its focus turned to the genres of hard rock and heavy metal.<ref name=\"RBP/HP\"> </ref> The magazine reached its peak during the 1980s as heavy metal music achieved high levels of popularity and commercial success.\nhypothesis: Hit Parader was a unique magazine.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Other One is the third solo album by former Fleetwood Mac guitarist Bob Welch. The track \"Future Games\" was first released on the Fleetwood Mac album of the same name in 1971. Members of Welch's backing band also make songwriting contributions here though the majority of tracks are Welch's own.\nhypothesis: Bob Welch wrote the song \"Future Games\".",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Sentimentally Yours is the third studio album by American country music singer, Patsy Cline, released August 7, 1962. The album was the final studio album Cline would release before her death in a plane crash less than a year later. (Her last album was recorded in 1963\nhypothesis: Patsy Cline is a failed opera singer.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: About to Crack is the fifth studio album by Dutch punk hardcore band Vitamin X. Released through Tankcrimes on September 11, 2012 in the US, Agipunk in Europe and Peculio Discos in Brazil. The album was recorded at Electrical Audio in Chicago by Steve Albini who previously recorded Nirvana, Neurosis, PJ Harvey, High on Fire, Iggy Pop & The Stooges. Art is by John Dyer Baizley.\nhypothesis: Vitamin X made four albums before About to Crack.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: is an American band formed in Los Angeles by Maynard James Keenan, known as the lead singer of the bands Tool and A Perfect Circle. As Keenan is the only permanent member, he considers the project to be his \"creative subconscious.\" In light of this, Puscifer is considered a pseudonym for his solo work.\nhypothesis: Keenan has practiced singing",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Dewhurst v. Coulthard, 3 U.S. 409 (1799) , was a United States Supreme Court case that initiated with a civil suit brought by Isaac Coulthard (owner of Coulthard's Brewery) against John Dewhurst which reached the Court by a convoluted process. The Court refused to hear the case: \"T]his court will not take cognizance of any suit, or controversy not brought before them by regular process of law.\"\nhypothesis: Dewhurts v. Coulthard was not brought before the Supreme court by a regular process of law. ",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: In astrophysics, the Chandrasekhar equation is a dimensionless form of the Poisson equation for the density distribution of a spherically symmetric isothermal gas sphere subjected to its own gravitaional force, named after the Indian American astrophysicist Subrahmanyan Chandrasekhar. The equation reads\nhypothesis: Subrahmanyan Chandrasekhar was a very influential scientist.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: John Fair \"Jocko\" Marcellino (born May 12, 1950) is an American singer, musician, songwriter, producer and actor best known as one of the founders of the American rock and roll group Sha Na Na. He performed with Sha Na Na at the original Woodstock Festival, in the movie \"Grease\" and in The Sha Na Na Show, their worldwide syndicated TV show.\nhypothesis: Marcellino is 69 years old",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Robert Anthony Stoops (born September 9, 1960) is a former American college football coach. He is the former head football coach at the University of Oklahoma, a position he held from 1999 until he announced his retirement June 7, 2017. During the 2000 season, Stoops led the Sooners to an Orange Bowl victory and a national championship.\nhypothesis: Stoops was born in the decade prior to the 1960's.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Earl of Burlington is a title that has been created twice, the first time in the Peerage of England in 1664 and the second in the Peerage of the United Kingdom in 1831. Since 1858, Earl of Burlington has been a courtesy title used by the Dukes of Devonshire, traditionally borne by the duke's grandson, who is the eldest son of the duke's eldest son, the Marquess of Hartington.\nhypothesis: Earl of Burlington is a title over 100 years old",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Peter Franklin Hansen (December 5, 1921 \u2013 April 9, 2017) was an American actor, best known for his role as a lawyer Lee Baldwin, on the soap opera \"General Hospital\", playing the role from 1965 to 1976, 1977 to 1986, briefly in 1990, and again from 1992 to 2004. In 1989, he appeared in the movie \"The War of the Roses\" with Danny DeVito, Kathleen Turner, and Michael Douglas.\nhypothesis: Peter Franklin Hansen is currently alive.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ben Wong Chi-yin (born 20 October 1965) is a Hong Kong actor best known for his roles as Yung Heung-hoi in the long-running drama series \"A Kindred Spirit\" and Spicy Ginger in the crime drama \"Lives of Omission\", the latter winning him Best Supporting Actor at the 2011 TVB Anniversary Awards.\nhypothesis: Ben Wong Chi-yin was born in Hong Kong.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Sandra Boler is an Australian-born British fashion journalist and former editor of \"Brides\" magazine from 1983 to the early 21st century. In this role she was a widely consulted authority on wedding-related matters from the 1980s to the early 21st century.\nhypothesis: Sandra Boler's former editor was of British descent.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Vow is a 2012 American romantic drama film directed by Michael Sucsy and written by Abby Kohn, Marc Silverstein, and Jason Katims, inspired by the true story of Kim and Krickitt Carpenter. The film stars Rachel McAdams and Channing Tatum as the Collins, with Sam Neill, Scott Speedman and Jessica Lange in supporting roles.\nhypothesis: The Vow was created during the 21st century.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Ron Clark Story is a 2006 television film starring Matthew Perry. The film is based on the real-life educator Ron Clark. It follows the inspiring tale of an idealistic teacher who leaves his small hometown to teach in a New York City public school, where he faces trouble with the students. The film was directed by Randa Haines, and was released directly on television.\nhypothesis: Ron Clark's hometown was not New York City.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Stephen and Timothy Quay ( ; born June 17, 1947) are American identical twin brothers better known as the Brothers Quay or Quay Brothers. They are influential stop-motion animators. They are also the recipients of the 1998 Drama Desk Award for Outstanding Set Design for their work on the play \"The Chairs\".\nhypothesis: Quay Brothers received a nomination for a Tony Award for Best Scenic Design.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: King of the Corner is a 2004 film featured at the Newport Film Festival. It stars Peter Riegert and Isabella Rossellini, and includes Eric Bogosian, Eli Wallach, Beverly D'Angelo and Rita Moreno. It was released in 2004. Peter Riegert also co-wrote and directed the film.\nhypothesis: The only actors in the King of the Corner were Peter Riegert, Isabella Rossellini, Eric Bogosian, Eli Wallach, and Beverly D'Angelo.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Robert Anthony Stoops (born September 9, 1960) is a former American college football coach. He is the former head football coach at the University of Oklahoma, a position he held from 1999 until he announced his retirement June 7, 2017. During the 2000 season, Stoops led the Sooners to an Orange Bowl victory and a national championship.\nhypothesis: Robert Anthony Stoops was a head football coach at an American university until he was almost 57 years old.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Jargon Society is an independent press founded by the American poet Jonathan Williams. Jargon has published seminal works of the American literary avant-garde, including books by Charles Olson, Louis Zukofsky, Paul Metcalf, James Broughton, and Williams himself, as well as \"sui generis\" books of folk art such as \"White Trash Cooking\".\nhypothesis: \"White Trash Cooking\" is an avant-garde book.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Guardians (Hangul: \ud30c\uc218\uafbc ; RR: \"Pasuggun \"; lit. Lookout ) is a South Korean television series starring Lee Si-young, Kim Young-kwang, Kim Tae-hoon, Kim Seul-gi and Key. The drama aired on MBC on Mondays and Tuesdays at 22:00 (KST) from May 22 to July 11, 2017.\nhypothesis: Lee Si-young is an drama actor in South Korea.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Grand Mosque in Makhachkala (\"Yusuf Bei Cami\") is the main mosque of the Republic of Dagestan. It is supposed to have been patterned after the Sultan Ahmed Mosque in Istanbul. The building can accommodate up to 17,000 worshipers. Its construction was financed by Turkey. The mosque was completed and consecrated in 1998. It is the focal point of the city's main thoroughfare, Imam Shamil Avenue.\nhypothesis: The Grand Mosque in Makhachkala is big.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 47th annual Berlin International Film Festival was held from February 13 to 24, 1997. The Golden Bear was awarded to Canadian-American film \"The People vs. Larry Flynt\" directed by Milo\u0161 Forman. The retrospective dedicated to Austrian film director G. W. Pabst was shown at the festival.\nhypothesis: Th Berlin International Film Festival was on February 19, 1997.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Kaspars Roga (born 19 July 1974 in Jelgava, Latvian SSR, Soviet Union) is a Latvian-Soviet rock musician and one of the four members of the pop rock band Brainstorm which came third at the Eurovision Song Contest 2000, with the song \"My Star\". He is the drummer since 1989 and has been directing several videos from the band since 1993.\nhypothesis: Kaspars Roga is a dummer.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Three Musketeers is a 1993 Austrian-American action-adventure comedy film from Walt Disney Pictures, Caravan Pictures, and The Kerner Entertainment Company, directed by Stephen Herek from a screenplay by David Loughery. It stars Charlie Sheen, Kiefer Sutherland, Chris O'Donnell, Oliver Platt, Tim Curry and Rebecca De Mornay.\nhypothesis: Walt Disney pictures makes films other than romance films",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Craig Neil Erickson (born May 17, 1969) is a former professional quarterback who was selected by the Philadelphia Eagles in the fifth round of the 1991 NFL Draft and also by the Tampa Bay Buccaneers in the fourth round of the 1992 NFL Draft. He is one of the few NFL players to be drafted twice, another famous example being Bo Jackson. Coincidentally, each was drafted by the Tampa Bay Buccaneers.\nhypothesis: Craig Neil Erickson has always held the position of quarterback.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Jaana Kunitz, born in Taivalkoski, Finland in 1972, is a professional dance instructor based in San Diego, California. She is married to her dance partner, James Kunitz, and has since retired from competing in ballroom dance competitions to focus on coaching, video production, and dance-fitness programs.\nhypothesis: James Kunitz has since retired from competing in ballroom dance competitions to focus on coaching, video production, and dance-fitness programs.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Miss Per\u00fa 2010, the 58th Miss Per\u00fa pageant was held at the on May 22, 2010. That year, 22 candidates were competing for the national crown. The chosen winner represented Peru at the Miss Universe 2010 and Miss World 2010. The rest of the finalists would enter in different pageants.\nhypothesis: The Miss Per\u00fa pageant will be cancelled in 2020.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Richard Michael Nolan (born December 17, 1943) is an American politician and member of the Minnesota Democratic\u2013Farmer\u2013Labor Party who has been the U.S. Representative for Minnesota's 8th congressional district since 2013 and previously served as the U.S. Representative for Minnesota's 6th congressional district from 1975 to 1981.\nhypothesis: Richard Michael Nolan was born December 17, 19433",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Mackintosh and T.J. is a 1975 American modern day Western film starring Roy Rogers in his last feature film appearance in a film that was specifically written for him. Prior to this film his most recent feature film appearances were in the Bob Hope films \"Son of Paleface\" (1952) and 1959's \"Alias Jesse James\" (a cameo).\nhypothesis: Rogers' last feature film was one of Hope's films. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Brierfield is a small town and civil parish in the Borough of Pendle Lancashire, England. It is 2.5 mi north east of Burnley, 1 mi south west of Nelson, and 0.5 mi north east of Reedley. It has a population of 8,200, reducing marginally to 8,193 at the 2011 Census.\nhypothesis: Brierfield is 1 mi south east of Nelson.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Where the Boys Are '84 (onscreen title: Where the Boys Are) is a 1984 American comedy film and a remake of the 1960 teen sex comedy film \"Where the Boys Are\", starring Lisa Hartman, Russell Todd, Lorna Luft, Wendy Schaal and Lynn-Holly Johnson. Directed by Hy Averback and produced by Allan Carr, it was the first film released by Tri-Star Pictures.\nhypothesis: Where are the boys was mad in 1984.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The Left Rights is the self-titled debut album by the Mindless Self Indulgence side project featuring members Little Jimmy Urine and Steve, Righ?. The album also contains a video of Mindless Self Indulgence performing \"Panty Shot\" live at CBGBs in New York City.\nhypothesis: The Left Rights album was performed in New York City.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Andries Bonger (20 May 1861 \u2013 20 January 1936), nicknamed \"Dries\", was Johanna van Gogh-Bonger's favorite brother. Bonger was a friend of his future brother-in-law Theo van Gogh in Paris. It was through Andries that Johanna and Theo met. He also knew Vincent van Gogh who called him Andr\u00e9 in letters.\nhypothesis: Andries Bonger was a great friend to Vincent van Gogh",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Michael Allen Baker (born October 27, 1953) is a retired captain in the United States Navy, former NASA astronaut, and the International Space Station Program Manager for International and Crew Operations, at NASA's Johnson Space Center. He is responsible for the coordination of program operations, integration and flight crew training and support activities with the International Partners.\nhypothesis: Michael Allen Baker is over 60 years old today",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The White House Visitors Office is responsible for public tours of the White House, for maintaining a facility where the public can obtain information about the White House, and for other White House events such as the White House Easter Egg Roll, Holiday Open Houses, Spring and Fall Garden tours, State Arrival Ceremonies and other special events.\nhypothesis: The White House Visitors Office has the duty of protecting the president from harm. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Algee Smith (born November 7, 1994) is an American actor and singer. After appearing in several small television roles in 2017, Smith first rose to fame portraying Ralph Tresvant in BET's \"The New Edition Story\" miniseries. The same year, he garnered critical acclaim as Larry Reed in Katheryn Bigelow's film \"Detroit\". In 2018, he's set to star in the film, \"The Hate U Give\"\nhypothesis: \"Detroit\" contained the role that brought rising fame to Algee",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed \"the Red Devils\", the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910.\nhypothesis: Manchester United Football Club has competed in the league beneath the Premier League.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 2008 Supercheap Auto Bathurst 1000 was the twelfth running of the Australian 1000 race, first held after the organisational split over the Bathurst 1000 that occurred in 1997. It was the 52nd race tracing its lineage back to the 1960 Armstrong 500 held at Phillip Island.\nhypothesis: The 1960 Amrstrong 500 was the only race not 1000 km",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: \"When Will I See You Again\" is a song released in 1974 by American soul group The Three Degrees, from their third album \"The Three Degrees\". The song was written and produced by Kenny Gamble and Leon Huff. Sheila Ferguson sang the lead, accompanied by Fayette Pinkney and Valerie Holiday.\nhypothesis: When Will I See You Again was the most popular song of 1971.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Lewis Burwell Puller Jr. (August 18, 1945 \u2013 May 11, 1994) was an attorney and a former United States Marine Corps officer who was severely wounded in the Vietnam War. He won the 1992 Pulitzer Prize for Biography or Autobiography for his autobiography \"Fortunate Son\".\nhypothesis: Lewis Burwell Puller Jr. wrote only one book.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Gustave Marie Maurice Mesny (28 March 1886 \u2013 19 January 1945) was a French Army general in command of the 5th North African Infantry Division who was captured during the Second World War. Mesny was unlawfully executed in retribution for the death of German general Fritz von Brodowski.\nhypothesis: Gustave was a Brigadier General. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Edmond (or Edmund) Halley, FRS (pronounced ; 8 November [O.S. 29 October] 1656 \u2013 25 January 1742 [O.S. 14 January 1741] ) was an English astronomer, geophysicist, mathematician, meteorologist, and physicist who is best known for computing the orbit of Halley's Comet. He was the second Astronomer Royal in Britain, succeeding John Flamsteed.\nhypothesis: Edmond (or Edmund) Halley, FRS was born on 8 october and died on the second month of a year",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Ruth Mott (5 February 1917 \u2013 28 July 2012) was an English domestic servant who became a television cook and personality. Mott spent most of her life working in country houses with her television work not beginning until the age of 70 when her knowledge of a working Victorian kitchen was utilized for the television show \"The Victorian Kitchen\".\nhypothesis: Ruth Mott was not an author",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Taxi Driver: Oko Ashewo, also known as just Taxi Driver or Oko Ashewo, is a 2015 Nigerian dark comedy thriller film produced by Ayobami Macaulay and directed by Daniel Oriahi. It stars Odunlade Adekola, Femi Jacobs, Ijeoma Grace Agu and Hafeez Oyetoro.\nhypothesis: Daniel Oriahi co-wrote the script of Taxi Driver.",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Viru is a 5.0% ABV pilsner-style beer brewed in Estonia. It is brewed in the country's second largest city, Tartu, by the A. Le Coq brewery. The brand is owned by Baltic Beer Company Ltd (formerly Brand Independence Ltd), based in London, UK, and is brewed under licence in Estonia. A. Le Coq is the second largest brewery in Estonia, with a market share of 36.8% in 2005.\nhypothesis: Viru's parent company is based in London.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: \"Drunk Girls\" is a song by American rock band LCD Soundsystem. It was released as the second single from their third studio album, \"This Is Happening\" (2010), on May 3, 2010. Band frontman James Murphy has described the song as \"dumb\" but added \"I like dumb, short stuff.\" The 7\" single features a cover of the song by San Francisco psychedelic rock band Wooden Shjips.\nhypothesis: The song \"Drunk Girls\" was produced when Barack Obama was president.",
+      "answer": 0,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 2012 PGA Championship was the 94th PGA Championship, played August 9\u201312 at the Ocean Course of the Kiawah Island Golf Resort in Kiawah Island, South Carolina, southwest of Charleston. Rory McIlroy shot a bogey-free 66 (\u22126) in the final round to win his second major title by eight strokes over runner-up David Lynn.\nhypothesis: The 2012 PGA Championship lasted seven days ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Clifton George Bailey III (born 13 April 1967), better known by the stage name Capleton, is a Jamaican reggae and dancehall artist. He is also referred to as King Shango, King David, The Fireman and The Prophet. His record label is called David House Productions. He is known for his Rastafari movement views expressed in his songs.\nhypothesis: The artist Capleton is more well  known by the name Clifton George Bailey III.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Brett McLaughlin, known professionally as Leland, is an American singer, songwriter, record producer, composer and lecturer. Based in Los Angeles, California, he has worked closely with a range of popular artists, including Troye Sivan, Daya, Capital Cities, Andy Grammer, Hilary Duff and Allie X.\nhypothesis: Brett write his own lyrics",
+      "answer": 1,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: The 4th Lux Style Awards ceremony was held in Expo Center in Karachi, Pakistan. The show was hosted by Junaid Khan and Aamina Sheikh and from the members of BNN. The show had the performances by Humayun Saeed, Zara Sheikh, Veena Malik, Ali Zafar, Meesha Shafi and Sadia Imam. Some of the film and music categories were removed from the award.\nhypothesis: The 4th Lux Style Awards ceremony was hosted by Junaid Khan and Zara Sheikh.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Monmouth Methodist Church is located in Monmouth, south east Wales. It is set well back from St James Street between buildings. Designed by George Vaughan Maddox and built in 1837, it retains its original galleries, organ loft and sophisticated pulpit.\nhypothesis: Monmouth College Church was built in 1837 and originally built between Wales and James Street.",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    },
+    {
+      "question": "premise: Tere Bin Laden: Dead or Alive is a 2016 Indian comedy film written and directed by Abhishek Sharma. A sequel to the 2010 film \"Tere Bin Laden\", it narrates the story of an aspiring filmmaker who bumps into an Osama bin Laden lookalike, and also samples materials from the prequel. The film stars Manish Paul, Pradyuman Singh, and Piyush Mishra, and was released worldwide on 26 February 2016.\nhypothesis: Abhishek Sharma starred in the film Dead or Alive. ",
+      "answer": 2,
+      "option": [
+        "Entail",
+        "Neutral",
+        "Contradict"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "due",
+      "answer": "undue"
+    },
+    {
+      "question": "unmusical",
+      "answer": "musical"
+    },
+    {
+      "question": "fast",
+      "answer": "slow"
+    },
+    {
+      "question": "unbutton",
+      "answer": "button"
+    },
+    {
+      "question": "unpublished",
+      "answer": "published"
+    },
+    {
+      "question": "unwary",
+      "answer": "wary"
+    },
+    {
+      "question": "temperance",
+      "answer": "intemperance"
+    },
+    {
+      "question": "unaccustomed",
+      "answer": "accustomed"
+    },
+    {
+      "question": "inland",
+      "answer": "coastal"
+    },
+    {
+      "question": "independent",
+      "answer": "dependent"
+    },
+    {
+      "question": "unmarried",
+      "answer": "married"
+    },
+    {
+      "question": "experienced",
+      "answer": "inexperienced"
+    },
+    {
+      "question": "individual",
+      "answer": "common"
+    },
+    {
+      "question": "diurnal",
+      "answer": "nocturnal"
+    },
+    {
+      "question": "noble",
+      "answer": "ignoble"
+    },
+    {
+      "question": "coated",
+      "answer": "uncoated"
+    },
+    {
+      "question": "former",
+      "answer": "latter"
+    },
+    {
+      "question": "outer",
+      "answer": "inner"
+    },
+    {
+      "question": "gravity",
+      "answer": "levity"
+    },
+    {
+      "question": "correctly",
+      "answer": "incorrectly"
+    },
+    {
+      "question": "tonic",
+      "answer": "atonic"
+    },
+    {
+      "question": "happiness",
+      "answer": "sadness"
+    },
+    {
+      "question": "spiritless",
+      "answer": "spirited"
+    },
+    {
+      "question": "anterior",
+      "answer": "posterior"
+    },
+    {
+      "question": "nationalism",
+      "answer": "internationalism"
+    },
+    {
+      "question": "conciliatory",
+      "answer": "antagonistic"
+    },
+    {
+      "question": "cautious",
+      "answer": "incautious"
+    },
+    {
+      "question": "malevolence",
+      "answer": "benevolence"
+    },
+    {
+      "question": "bold",
+      "answer": "timid"
+    },
+    {
+      "question": "lucky",
+      "answer": "unlucky"
+    },
+    {
+      "question": "incautiously",
+      "answer": "cautiously"
+    },
+    {
+      "question": "abolish",
+      "answer": "establish"
+    },
+    {
+      "question": "unrealistic",
+      "answer": "realistic"
+    },
+    {
+      "question": "mesial",
+      "answer": "distal"
+    },
+    {
+      "question": "conditioned",
+      "answer": "unconditioned"
+    },
+    {
+      "question": "untied",
+      "answer": "tied"
+    },
+    {
+      "question": "worth",
+      "answer": "worthlessness"
+    },
+    {
+      "question": "sour",
+      "answer": "sweet"
+    },
+    {
+      "question": "absolve",
+      "answer": "blame"
+    },
+    {
+      "question": "sweeten",
+      "answer": "sour"
+    },
+    {
+      "question": "nascent",
+      "answer": "dying"
+    },
+    {
+      "question": "disservice",
+      "answer": "service"
+    },
+    {
+      "question": "nontoxic",
+      "answer": "toxic"
+    },
+    {
+      "question": "wisely",
+      "answer": "foolishly"
+    },
+    {
+      "question": "humorless",
+      "answer": "humorous"
+    },
+    {
+      "question": "proportionately",
+      "answer": "disproportionately"
+    },
+    {
+      "question": "nonviolent",
+      "answer": "violent"
+    },
+    {
+      "question": "unavailability",
+      "answer": "availability"
+    },
+    {
+      "question": "girl",
+      "answer": "boy"
+    },
+    {
+      "question": "expensive",
+      "answer": "cheap"
+    }
+  ],
+  "val": [
+    {
+      "question": "equilibrium",
+      "answer": "disequilibrium"
+    },
+    {
+      "question": "punished",
+      "answer": "unpunished"
+    },
+    {
+      "question": "deaf",
+      "answer": "hearing"
+    },
+    {
+      "question": "nonmodern",
+      "answer": "modern"
+    },
+    {
+      "question": "federal",
+      "answer": "unitary"
+    },
+    {
+      "question": "congenial",
+      "answer": "uncongenial"
+    },
+    {
+      "question": "uncreative",
+      "answer": "creative"
+    },
+    {
+      "question": "unloved",
+      "answer": "loved"
+    },
+    {
+      "question": "necessarily",
+      "answer": "unnecessarily"
+    },
+    {
+      "question": "righteous",
+      "answer": "unrighteous"
+    },
+    {
+      "question": "maturity",
+      "answer": "immaturity"
+    },
+    {
+      "question": "effectively",
+      "answer": "ineffectively"
+    },
+    {
+      "question": "robust",
+      "answer": "frail"
+    },
+    {
+      "question": "unlikeness",
+      "answer": "likeness"
+    },
+    {
+      "question": "descent",
+      "answer": "ascent"
+    },
+    {
+      "question": "unconditioned",
+      "answer": "conditioned"
+    },
+    {
+      "question": "unimpressive",
+      "answer": "impressive"
+    },
+    {
+      "question": "unanalyzed",
+      "answer": "analyzed"
+    },
+    {
+      "question": "epidemic",
+      "answer": "endemic"
+    },
+    {
+      "question": "accurately",
+      "answer": "inaccurately"
+    }
+  ],
+  "test": [
+    {
+      "question": "inclined",
+      "answer": "vertical"
+    },
+    {
+      "question": "wellness",
+      "answer": "illness"
+    },
+    {
+      "question": "unmitigated",
+      "answer": "mitigated"
+    },
+    {
+      "question": "acceleration",
+      "answer": "deceleration"
+    },
+    {
+      "question": "approve",
+      "answer": "disapprove"
+    },
+    {
+      "question": "real",
+      "answer": "nominal"
+    },
+    {
+      "question": "darkness",
+      "answer": "lightness"
+    },
+    {
+      "question": "falsity",
+      "answer": "truth"
+    },
+    {
+      "question": "successful",
+      "answer": "unsuccessful"
+    },
+    {
+      "question": "atypical",
+      "answer": "typical"
+    },
+    {
+      "question": "deciduous",
+      "answer": "evergreen"
+    },
+    {
+      "question": "dissimilar",
+      "answer": "similar"
+    },
+    {
+      "question": "credulous",
+      "answer": "incredulous"
+    },
+    {
+      "question": "curable",
+      "answer": "incurable"
+    },
+    {
+      "question": "elitist",
+      "answer": "egalitarian"
+    },
+    {
+      "question": "agreement",
+      "answer": "disagreement"
+    },
+    {
+      "question": "immodest",
+      "answer": "modest"
+    },
+    {
+      "question": "unveiled",
+      "answer": "veiled"
+    },
+    {
+      "question": "glad",
+      "answer": "sad"
+    },
+    {
+      "question": "benign",
+      "answer": "malignant"
+    },
+    {
+      "question": "above",
+      "answer": "below"
+    },
+    {
+      "question": "perceptibly",
+      "answer": "imperceptibly"
+    },
+    {
+      "question": "uncongenial",
+      "answer": "congenial"
+    },
+    {
+      "question": "guided",
+      "answer": "unguided"
+    },
+    {
+      "question": "nominative",
+      "answer": "oblique"
+    },
+    {
+      "question": "legitimate",
+      "answer": "illegitimate"
+    },
+    {
+      "question": "concerned",
+      "answer": "unconcerned"
+    },
+    {
+      "question": "anode",
+      "answer": "cathode"
+    },
+    {
+      "question": "highland",
+      "answer": "lowland"
+    },
+    {
+      "question": "express",
+      "answer": "local"
+    },
+    {
+      "question": "uncompromising",
+      "answer": "compromising"
+    },
+    {
+      "question": "unextended",
+      "answer": "extended"
+    },
+    {
+      "question": "logical",
+      "answer": "illogical"
+    },
+    {
+      "question": "clergy",
+      "answer": "laity"
+    },
+    {
+      "question": "irreverence",
+      "answer": "reverence"
+    },
+    {
+      "question": "privileged",
+      "answer": "underprivileged"
+    },
+    {
+      "question": "fauna",
+      "answer": "flora"
+    },
+    {
+      "question": "illegible",
+      "answer": "legible"
+    },
+    {
+      "question": "unnaturally",
+      "answer": "naturally"
+    },
+    {
+      "question": "unchristian",
+      "answer": "christian"
+    },
+    {
+      "question": "nondeductible",
+      "answer": "deductible"
+    },
+    {
+      "question": "natural",
+      "answer": "flat"
+    },
+    {
+      "question": "surprised",
+      "answer": "unsurprised"
+    },
+    {
+      "question": "incommensurate",
+      "answer": "commensurate"
+    },
+    {
+      "question": "inconsistency",
+      "answer": "consistency"
+    },
+    {
+      "question": "disincentive",
+      "answer": "incentive"
+    },
+    {
+      "question": "enabling",
+      "answer": "disabling"
+    },
+    {
+      "question": "noncommissioned",
+      "answer": "commissioned"
+    },
+    {
+      "question": "invalidate",
+      "answer": "validate"
+    },
+    {
+      "question": "reasonable",
+      "answer": "unreasonable"
+    },
+    {
+      "question": "nonspeaking",
+      "answer": "speaking"
+    },
+    {
+      "question": "descendant",
+      "answer": "ancestor"
+    },
+    {
+      "question": "immature",
+      "answer": "mature"
+    },
+    {
+      "question": "unlock",
+      "answer": "lock"
+    },
+    {
+      "question": "dorsal",
+      "answer": "ventral"
+    },
+    {
+      "question": "provocative",
+      "answer": "unprovocative"
+    },
+    {
+      "question": "animate",
+      "answer": "inanimate"
+    },
+    {
+      "question": "stay",
+      "answer": "change"
+    },
+    {
+      "question": "unworthy",
+      "answer": "worthy"
+    },
+    {
+      "question": "strength",
+      "answer": "weakness"
+    },
+    {
+      "question": "divergence",
+      "answer": "convergence"
+    },
+    {
+      "question": "imperishable",
+      "answer": "perishable"
+    },
+    {
+      "question": "displease",
+      "answer": "please"
+    },
+    {
+      "question": "suspected",
+      "answer": "unsuspected"
+    },
+    {
+      "question": "flexion",
+      "answer": "extension"
+    },
+    {
+      "question": "alternate",
+      "answer": "opposite"
+    },
+    {
+      "question": "noncompliance",
+      "answer": "compliance"
+    },
+    {
+      "question": "plucked",
+      "answer": "bowed"
+    },
+    {
+      "question": "affirm",
+      "answer": "negate"
+    },
+    {
+      "question": "import",
+      "answer": "export"
+    },
+    {
+      "question": "married",
+      "answer": "unmarried"
+    },
+    {
+      "question": "recede",
+      "answer": "advance"
+    },
+    {
+      "question": "enclosed",
+      "answer": "unenclosed"
+    },
+    {
+      "question": "unburden",
+      "answer": "burden"
+    },
+    {
+      "question": "narrow",
+      "answer": "wide"
+    },
+    {
+      "question": "unmodified",
+      "answer": "modified"
+    },
+    {
+      "question": "dishonest",
+      "answer": "honest"
+    },
+    {
+      "question": "attach",
+      "answer": "detach"
+    },
+    {
+      "question": "unmask",
+      "answer": "mask"
+    },
+    {
+      "question": "fairness",
+      "answer": "unfairness"
+    },
+    {
+      "question": "unattached",
+      "answer": "attached"
+    },
+    {
+      "question": "empirical",
+      "answer": "theoretical"
+    },
+    {
+      "question": "hawk",
+      "answer": "dove"
+    },
+    {
+      "question": "improperly",
+      "answer": "properly"
+    },
+    {
+      "question": "elation",
+      "answer": "depression"
+    },
+    {
+      "question": "ignoble",
+      "answer": "noble"
+    },
+    {
+      "question": "indecisive",
+      "answer": "decisive"
+    },
+    {
+      "question": "fortunate",
+      "answer": "unfortunate"
+    },
+    {
+      "question": "uninspiring",
+      "answer": "inspiring"
+    },
+    {
+      "question": "female",
+      "answer": "male"
+    },
+    {
+      "question": "infectious",
+      "answer": "noninfectious"
+    },
+    {
+      "question": "urban",
+      "answer": "rural"
+    },
+    {
+      "question": "assisted",
+      "answer": "unassisted"
+    },
+    {
+      "question": "misconception",
+      "answer": "conception"
+    },
+    {
+      "question": "impatience",
+      "answer": "patience"
+    },
+    {
+      "question": "disobedient",
+      "answer": "obedient"
+    },
+    {
+      "question": "tail",
+      "answer": "head"
+    },
+    {
+      "question": "enter",
+      "answer": "exit"
+    },
+    {
+      "question": "sanity",
+      "answer": "insanity"
+    },
+    {
+      "question": "synergistic",
+      "answer": "antagonistic"
+    }
+  ]
+}

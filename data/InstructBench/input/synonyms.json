@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "compose",
+      "answer": "write"
+    },
+    {
+      "question": "hallway",
+      "answer": "hall"
+    },
+    {
+      "question": "account",
+      "answer": "accounting"
+    },
+    {
+      "question": "transport",
+      "answer": "carry"
+    },
+    {
+      "question": "shade",
+      "answer": "tone"
+    },
+    {
+      "question": "judge",
+      "answer": "try"
+    },
+    {
+      "question": "leaning",
+      "answer": "tendency"
+    },
+    {
+      "question": "couple",
+      "answer": "pair"
+    },
+    {
+      "question": "restitution",
+      "answer": "return"
+    },
+    {
+      "question": "ballad",
+      "answer": "lay"
+    },
+    {
+      "question": "invoke",
+      "answer": "appeal"
+    },
+    {
+      "question": "ring",
+      "answer": "band"
+    },
+    {
+      "question": "price",
+      "answer": "terms"
+    },
+    {
+      "question": "opinion",
+      "answer": "thought"
+    },
+    {
+      "question": "westerly",
+      "answer": "western"
+    },
+    {
+      "question": "preferable",
+      "answer": "preferred"
+    },
+    {
+      "question": "log",
+      "answer": "lumber"
+    },
+    {
+      "question": "hapless",
+      "answer": "poor"
+    },
+    {
+      "question": "validation",
+      "answer": "proof"
+    },
+    {
+      "question": "contiguous",
+      "answer": "immediate"
+    },
+    {
+      "question": "interrogation",
+      "answer": "examination"
+    },
+    {
+      "question": "fluid",
+      "answer": "liquid"
+    },
+    {
+      "question": "research",
+      "answer": "search"
+    },
+    {
+      "question": "manufacturer",
+      "answer": "producer"
+    },
+    {
+      "question": "burst",
+      "answer": "fit"
+    },
+    {
+      "question": "appointed",
+      "answer": "prescribed"
+    },
+    {
+      "question": "hope",
+      "answer": "desire"
+    },
+    {
+      "question": "stimulation",
+      "answer": "input"
+    },
+    {
+      "question": "reception",
+      "answer": "response"
+    },
+    {
+      "question": "peak",
+      "answer": "top"
+    },
+    {
+      "question": "saturated",
+      "answer": "pure"
+    },
+    {
+      "question": "crisp",
+      "answer": "sharp"
+    },
+    {
+      "question": "blank",
+      "answer": "white"
+    },
+    {
+      "question": "bore",
+      "answer": "drill"
+    },
+    {
+      "question": "recognized",
+      "answer": "recognised"
+    },
+    {
+      "question": "quality",
+      "answer": "character"
+    },
+    {
+      "question": "diary",
+      "answer": "journal"
+    },
+    {
+      "question": "coldness",
+      "answer": "cold"
+    },
+    {
+      "question": "program",
+      "answer": "programme"
+    },
+    {
+      "question": "ram",
+      "answer": "pound"
+    },
+    {
+      "question": "specify",
+      "answer": "set"
+    },
+    {
+      "question": "intellectual",
+      "answer": "rational"
+    },
+    {
+      "question": "layer",
+      "answer": "bed"
+    },
+    {
+      "question": "progress",
+      "answer": "advance"
+    },
+    {
+      "question": "wedge",
+      "answer": "force"
+    },
+    {
+      "question": "presentation",
+      "answer": "introduction"
+    },
+    {
+      "question": "proportion",
+      "answer": "balance"
+    },
+    {
+      "question": "benefit",
+      "answer": "welfare"
+    },
+    {
+      "question": "honestly",
+      "answer": "frankly"
+    },
+    {
+      "question": "reading",
+      "answer": "indication"
+    }
+  ],
+  "val": [
+    {
+      "question": "hunt",
+      "answer": "run"
+    },
+    {
+      "question": "whistle",
+      "answer": "sing"
+    },
+    {
+      "question": "structure",
+      "answer": "construction"
+    },
+    {
+      "question": "ferocity",
+      "answer": "violence"
+    },
+    {
+      "question": "appeal",
+      "answer": "charm"
+    },
+    {
+      "question": "ocular",
+      "answer": "visual"
+    },
+    {
+      "question": "dependent",
+      "answer": "qualified"
+    },
+    {
+      "question": "abrupt",
+      "answer": "sharp"
+    },
+    {
+      "question": "resolution",
+      "answer": "declaration"
+    },
+    {
+      "question": "supporter",
+      "answer": "friend"
+    },
+    {
+      "question": "blanket",
+      "answer": "cover"
+    },
+    {
+      "question": "zero",
+      "answer": "0"
+    },
+    {
+      "question": "terminus",
+      "answer": "term"
+    },
+    {
+      "question": "collision",
+      "answer": "hit"
+    },
+    {
+      "question": "tracing",
+      "answer": "trace"
+    },
+    {
+      "question": "prefer",
+      "answer": "favor"
+    },
+    {
+      "question": "framework",
+      "answer": "fabric"
+    },
+    {
+      "question": "agenda",
+      "answer": "schedule"
+    },
+    {
+      "question": "haste",
+      "answer": "rush"
+    },
+    {
+      "question": "caravan",
+      "answer": "train"
+    }
+  ],
+  "test": [
+    {
+      "question": "eye",
+      "answer": "optic"
+    },
+    {
+      "question": "help",
+      "answer": "aid"
+    },
+    {
+      "question": "prevention",
+      "answer": "bar"
+    },
+    {
+      "question": "alteration",
+      "answer": "adjustment"
+    },
+    {
+      "question": "advanced",
+      "answer": "modern"
+    },
+    {
+      "question": "amino",
+      "answer": "aminic"
+    },
+    {
+      "question": "hale",
+      "answer": "whole"
+    },
+    {
+      "question": "mood",
+      "answer": "mode"
+    },
+    {
+      "question": "improbable",
+      "answer": "tall"
+    },
+    {
+      "question": "appropriate",
+      "answer": "capture"
+    },
+    {
+      "question": "system",
+      "answer": "scheme"
+    },
+    {
+      "question": "pour",
+      "answer": "stream"
+    },
+    {
+      "question": "marketplace",
+      "answer": "market"
+    },
+    {
+      "question": "radical",
+      "answer": "basal"
+    },
+    {
+      "question": "why",
+      "answer": "wherefore"
+    },
+    {
+      "question": "tramp",
+      "answer": "bum"
+    },
+    {
+      "question": "brilliantly",
+      "answer": "bright"
+    },
+    {
+      "question": "message",
+      "answer": "content"
+    },
+    {
+      "question": "penny",
+      "answer": "cent"
+    },
+    {
+      "question": "step",
+      "answer": "tread"
+    },
+    {
+      "question": "functional",
+      "answer": "operational"
+    },
+    {
+      "question": "bank",
+      "answer": "cant"
+    },
+    {
+      "question": "tap",
+      "answer": "tip"
+    },
+    {
+      "question": "dose",
+      "answer": "dosage"
+    },
+    {
+      "question": "alive",
+      "answer": "live"
+    },
+    {
+      "question": "yellow",
+      "answer": "yellowish"
+    },
+    {
+      "question": "pure",
+      "answer": "virgin"
+    },
+    {
+      "question": "bias",
+      "answer": "prejudice"
+    },
+    {
+      "question": "provision",
+      "answer": "supply"
+    },
+    {
+      "question": "behind",
+      "answer": "slow"
+    },
+    {
+      "question": "boundary",
+      "answer": "bound"
+    },
+    {
+      "question": "multitude",
+      "answer": "people"
+    },
+    {
+      "question": "hazard",
+      "answer": "risk"
+    },
+    {
+      "question": "dollar",
+      "answer": "buck"
+    },
+    {
+      "question": "ranking",
+      "answer": "superior"
+    },
+    {
+      "question": "distinct",
+      "answer": "decided"
+    },
+    {
+      "question": "strange",
+      "answer": "unknown"
+    },
+    {
+      "question": "market",
+      "answer": "marketplace"
+    },
+    {
+      "question": "risk",
+      "answer": "danger"
+    },
+    {
+      "question": "drag",
+      "answer": "trail"
+    },
+    {
+      "question": "sure",
+      "answer": "trusted"
+    },
+    {
+      "question": "career",
+      "answer": "calling"
+    },
+    {
+      "question": "overt",
+      "answer": "open"
+    },
+    {
+      "question": "procedure",
+      "answer": "process"
+    },
+    {
+      "question": "citation",
+      "answer": "reference"
+    },
+    {
+      "question": "possibly",
+      "answer": "perhaps"
+    },
+    {
+      "question": "mystery",
+      "answer": "secret"
+    },
+    {
+      "question": "besides",
+      "answer": "also"
+    },
+    {
+      "question": "completion",
+      "answer": "closing"
+    },
+    {
+      "question": "self",
+      "answer": "ego"
+    },
+    {
+      "question": "arm",
+      "answer": "branch"
+    },
+    {
+      "question": "permit",
+      "answer": "let"
+    },
+    {
+      "question": "nation",
+      "answer": "country"
+    },
+    {
+      "question": "agrarian",
+      "answer": "agricultural"
+    },
+    {
+      "question": "learn",
+      "answer": "see"
+    },
+    {
+      "question": "ancestor",
+      "answer": "root"
+    },
+    {
+      "question": "offer",
+      "answer": "offering"
+    },
+    {
+      "question": "result",
+      "answer": "outcome"
+    },
+    {
+      "question": "perplex",
+      "answer": "get"
+    },
+    {
+      "question": "yea",
+      "answer": "yeah"
+    },
+    {
+      "question": "hammer",
+      "answer": "pound"
+    },
+    {
+      "question": "source",
+      "answer": "seed"
+    },
+    {
+      "question": "moisture",
+      "answer": "wet"
+    },
+    {
+      "question": "pierce",
+      "answer": "thrust"
+    },
+    {
+      "question": "confidence",
+      "answer": "trust"
+    },
+    {
+      "question": "blueprint",
+      "answer": "design"
+    },
+    {
+      "question": "decide",
+      "answer": "determine"
+    },
+    {
+      "question": "keystone",
+      "answer": "key"
+    },
+    {
+      "question": "strain",
+      "answer": "extend"
+    },
+    {
+      "question": "here",
+      "answer": "hither"
+    },
+    {
+      "question": "skill",
+      "answer": "science"
+    },
+    {
+      "question": "locomotive",
+      "answer": "engine"
+    },
+    {
+      "question": "mother",
+      "answer": "fuss"
+    },
+    {
+      "question": "spill",
+      "answer": "fall"
+    },
+    {
+      "question": "young",
+      "answer": "youth"
+    },
+    {
+      "question": "king",
+      "answer": "queen"
+    },
+    {
+      "question": "frequent",
+      "answer": "haunt"
+    },
+    {
+      "question": "crying",
+      "answer": "tears"
+    },
+    {
+      "question": "repair",
+      "answer": "doctor"
+    },
+    {
+      "question": "soonest",
+      "answer": "earliest"
+    },
+    {
+      "question": "sociable",
+      "answer": "social"
+    },
+    {
+      "question": "significant",
+      "answer": "important"
+    },
+    {
+      "question": "hard",
+      "answer": "strong"
+    },
+    {
+      "question": "foil",
+      "answer": "transparency"
+    },
+    {
+      "question": "spare",
+      "answer": "free"
+    },
+    {
+      "question": "affecting",
+      "answer": "touching"
+    },
+    {
+      "question": "management",
+      "answer": "direction"
+    },
+    {
+      "question": "telegram",
+      "answer": "wire"
+    },
+    {
+      "question": "justify",
+      "answer": "warrant"
+    },
+    {
+      "question": "overture",
+      "answer": "approach"
+    },
+    {
+      "question": "infantry",
+      "answer": "foot"
+    },
+    {
+      "question": "being",
+      "answer": "existence"
+    },
+    {
+      "question": "defeated",
+      "answer": "discomfited"
+    },
+    {
+      "question": "tongue",
+      "answer": "knife"
+    },
+    {
+      "question": "closure",
+      "answer": "closing"
+    },
+    {
+      "question": "garrison",
+      "answer": "fort"
+    },
+    {
+      "question": "distinguished",
+      "answer": "grand"
+    },
+    {
+      "question": "atom",
+      "answer": "particle"
+    },
+    {
+      "question": "batch",
+      "answer": "plenty"
+    },
+    {
+      "question": "hail",
+      "answer": "come"
+    }
+  ]
+}

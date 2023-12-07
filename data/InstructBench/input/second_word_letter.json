@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "preceding",
+      "answer": "r"
+    },
+    {
+      "question": "dividing",
+      "answer": "i"
+    },
+    {
+      "question": "illness",
+      "answer": "l"
+    },
+    {
+      "question": "bore",
+      "answer": "o"
+    },
+    {
+      "question": "hiking",
+      "answer": "i"
+    },
+    {
+      "question": "cousin",
+      "answer": "o"
+    },
+    {
+      "question": "athlete",
+      "answer": "t"
+    },
+    {
+      "question": "turnpike",
+      "answer": "u"
+    },
+    {
+      "question": "intent",
+      "answer": "n"
+    },
+    {
+      "question": "tap",
+      "answer": "a"
+    },
+    {
+      "question": "child",
+      "answer": "h"
+    },
+    {
+      "question": "roller",
+      "answer": "o"
+    },
+    {
+      "question": "highway",
+      "answer": "i"
+    },
+    {
+      "question": "flour",
+      "answer": "l"
+    },
+    {
+      "question": "line",
+      "answer": "i"
+    },
+    {
+      "question": "owner",
+      "answer": "w"
+    },
+    {
+      "question": "accession",
+      "answer": "c"
+    },
+    {
+      "question": "calibre",
+      "answer": "a"
+    },
+    {
+      "question": "schooling",
+      "answer": "c"
+    },
+    {
+      "question": "criticism",
+      "answer": "r"
+    },
+    {
+      "question": "octagonal",
+      "answer": "c"
+    },
+    {
+      "question": "amendment",
+      "answer": "m"
+    },
+    {
+      "question": "production",
+      "answer": "r"
+    },
+    {
+      "question": "aspect",
+      "answer": "s"
+    },
+    {
+      "question": "voltage",
+      "answer": "o"
+    },
+    {
+      "question": "financing",
+      "answer": "i"
+    },
+    {
+      "question": "ankle",
+      "answer": "n"
+    },
+    {
+      "question": "mirror",
+      "answer": "i"
+    },
+    {
+      "question": "swimming",
+      "answer": "w"
+    },
+    {
+      "question": "capture",
+      "answer": "a"
+    },
+    {
+      "question": "act",
+      "answer": "c"
+    },
+    {
+      "question": "diocese",
+      "answer": "i"
+    },
+    {
+      "question": "rifle",
+      "answer": "i"
+    },
+    {
+      "question": "terrorist",
+      "answer": "e"
+    },
+    {
+      "question": "clergy",
+      "answer": "l"
+    },
+    {
+      "question": "juice",
+      "answer": "u"
+    },
+    {
+      "question": "winter",
+      "answer": "i"
+    },
+    {
+      "question": "elimination",
+      "answer": "l"
+    },
+    {
+      "question": "workshop",
+      "answer": "o"
+    },
+    {
+      "question": "exterior",
+      "answer": "x"
+    },
+    {
+      "question": "conviction",
+      "answer": "o"
+    },
+    {
+      "question": "inscription",
+      "answer": "n"
+    },
+    {
+      "question": "sickness",
+      "answer": "i"
+    },
+    {
+      "question": "regime",
+      "answer": "e"
+    },
+    {
+      "question": "stealing",
+      "answer": "t"
+    },
+    {
+      "question": "scarce",
+      "answer": "c"
+    },
+    {
+      "question": "career",
+      "answer": "a"
+    },
+    {
+      "question": "midst",
+      "answer": "i"
+    },
+    {
+      "question": "export",
+      "answer": "x"
+    },
+    {
+      "question": "crush",
+      "answer": "r"
+    }
+  ],
+  "val": [
+    {
+      "question": "wine",
+      "answer": "i"
+    },
+    {
+      "question": "colonel",
+      "answer": "o"
+    },
+    {
+      "question": "maneuver",
+      "answer": "a"
+    },
+    {
+      "question": "repertoire",
+      "answer": "e"
+    },
+    {
+      "question": "canopy",
+      "answer": "a"
+    },
+    {
+      "question": "format",
+      "answer": "o"
+    },
+    {
+      "question": "shock",
+      "answer": "h"
+    },
+    {
+      "question": "heat",
+      "answer": "e"
+    },
+    {
+      "question": "couple",
+      "answer": "o"
+    },
+    {
+      "question": "keeper",
+      "answer": "e"
+    },
+    {
+      "question": "scent",
+      "answer": "c"
+    },
+    {
+      "question": "racing",
+      "answer": "a"
+    },
+    {
+      "question": "isotope",
+      "answer": "s"
+    },
+    {
+      "question": "neighborhood",
+      "answer": "e"
+    },
+    {
+      "question": "inspiration",
+      "answer": "n"
+    },
+    {
+      "question": "coloration",
+      "answer": "o"
+    },
+    {
+      "question": "plantation",
+      "answer": "l"
+    },
+    {
+      "question": "group",
+      "answer": "r"
+    },
+    {
+      "question": "zoo",
+      "answer": "o"
+    },
+    {
+      "question": "consciousness",
+      "answer": "o"
+    }
+  ],
+  "test": [
+    {
+      "question": "voting",
+      "answer": "o"
+    },
+    {
+      "question": "photograph",
+      "answer": "h"
+    },
+    {
+      "question": "foot",
+      "answer": "o"
+    },
+    {
+      "question": "armament",
+      "answer": "r"
+    },
+    {
+      "question": "lap",
+      "answer": "a"
+    },
+    {
+      "question": "diversion",
+      "answer": "i"
+    },
+    {
+      "question": "baseman",
+      "answer": "a"
+    },
+    {
+      "question": "east",
+      "answer": "a"
+    },
+    {
+      "question": "clearance",
+      "answer": "l"
+    },
+    {
+      "question": "calm",
+      "answer": "a"
+    },
+    {
+      "question": "league",
+      "answer": "e"
+    },
+    {
+      "question": "symbolism",
+      "answer": "y"
+    },
+    {
+      "question": "vector",
+      "answer": "e"
+    },
+    {
+      "question": "culture",
+      "answer": "u"
+    },
+    {
+      "question": "quarter",
+      "answer": "u"
+    },
+    {
+      "question": "boundary",
+      "answer": "o"
+    },
+    {
+      "question": "personnel",
+      "answer": "e"
+    },
+    {
+      "question": "press",
+      "answer": "r"
+    },
+    {
+      "question": "rhetoric",
+      "answer": "h"
+    },
+    {
+      "question": "timing",
+      "answer": "i"
+    },
+    {
+      "question": "mountain",
+      "answer": "o"
+    },
+    {
+      "question": "characterization",
+      "answer": "h"
+    },
+    {
+      "question": "surface",
+      "answer": "u"
+    },
+    {
+      "question": "document",
+      "answer": "o"
+    },
+    {
+      "question": "principal",
+      "answer": "r"
+    },
+    {
+      "question": "corner",
+      "answer": "o"
+    },
+    {
+      "question": "lighter",
+      "answer": "i"
+    },
+    {
+      "question": "theory",
+      "answer": "h"
+    },
+    {
+      "question": "judgement",
+      "answer": "u"
+    },
+    {
+      "question": "regiment",
+      "answer": "e"
+    },
+    {
+      "question": "boom",
+      "answer": "o"
+    },
+    {
+      "question": "site",
+      "answer": "i"
+    },
+    {
+      "question": "breach",
+      "answer": "r"
+    },
+    {
+      "question": "cheating",
+      "answer": "h"
+    },
+    {
+      "question": "moon",
+      "answer": "o"
+    },
+    {
+      "question": "point",
+      "answer": "o"
+    },
+    {
+      "question": "model",
+      "answer": "o"
+    },
+    {
+      "question": "conquer",
+      "answer": "o"
+    },
+    {
+      "question": "distributor",
+      "answer": "i"
+    },
+    {
+      "question": "description",
+      "answer": "e"
+    },
+    {
+      "question": "promoter",
+      "answer": "r"
+    },
+    {
+      "question": "baby",
+      "answer": "a"
+    },
+    {
+      "question": "fantasy",
+      "answer": "a"
+    },
+    {
+      "question": "invasion",
+      "answer": "n"
+    },
+    {
+      "question": "fare",
+      "answer": "a"
+    },
+    {
+      "question": "geography",
+      "answer": "e"
+    },
+    {
+      "question": "performer",
+      "answer": "e"
+    },
+    {
+      "question": "afford",
+      "answer": "f"
+    },
+    {
+      "question": "leisure",
+      "answer": "e"
+    },
+    {
+      "question": "service",
+      "answer": "e"
+    },
+    {
+      "question": "contract",
+      "answer": "o"
+    },
+    {
+      "question": "groove",
+      "answer": "r"
+    },
+    {
+      "question": "rejection",
+      "answer": "e"
+    },
+    {
+      "question": "simpler",
+      "answer": "i"
+    },
+    {
+      "question": "strand",
+      "answer": "t"
+    },
+    {
+      "question": "fight",
+      "answer": "i"
+    },
+    {
+      "question": "choreography",
+      "answer": "h"
+    },
+    {
+      "question": "hurricane",
+      "answer": "u"
+    },
+    {
+      "question": "shed",
+      "answer": "h"
+    },
+    {
+      "question": "ball",
+      "answer": "a"
+    },
+    {
+      "question": "northwest",
+      "answer": "o"
+    },
+    {
+      "question": "drag",
+      "answer": "r"
+    },
+    {
+      "question": "prequel",
+      "answer": "r"
+    },
+    {
+      "question": "bite",
+      "answer": "i"
+    },
+    {
+      "question": "diamond",
+      "answer": "i"
+    },
+    {
+      "question": "reduction",
+      "answer": "e"
+    },
+    {
+      "question": "agreement",
+      "answer": "g"
+    },
+    {
+      "question": "affect",
+      "answer": "f"
+    },
+    {
+      "question": "counterpart",
+      "answer": "o"
+    },
+    {
+      "question": "credit",
+      "answer": "r"
+    },
+    {
+      "question": "fumble",
+      "answer": "u"
+    },
+    {
+      "question": "guitar",
+      "answer": "u"
+    },
+    {
+      "question": "servant",
+      "answer": "e"
+    },
+    {
+      "question": "place",
+      "answer": "l"
+    },
+    {
+      "question": "section",
+      "answer": "e"
+    },
+    {
+      "question": "explanation",
+      "answer": "x"
+    },
+    {
+      "question": "glory",
+      "answer": "l"
+    },
+    {
+      "question": "gateway",
+      "answer": "a"
+    },
+    {
+      "question": "editor",
+      "answer": "d"
+    },
+    {
+      "question": "closing",
+      "answer": "l"
+    },
+    {
+      "question": "precision",
+      "answer": "r"
+    },
+    {
+      "question": "wife",
+      "answer": "i"
+    },
+    {
+      "question": "collection",
+      "answer": "o"
+    },
+    {
+      "question": "trap",
+      "answer": "r"
+    },
+    {
+      "question": "simplicity",
+      "answer": "i"
+    },
+    {
+      "question": "morale",
+      "answer": "o"
+    },
+    {
+      "question": "suit",
+      "answer": "u"
+    },
+    {
+      "question": "phosphate",
+      "answer": "h"
+    },
+    {
+      "question": "signal",
+      "answer": "i"
+    },
+    {
+      "question": "flu",
+      "answer": "l"
+    },
+    {
+      "question": "cricket",
+      "answer": "r"
+    },
+    {
+      "question": "family",
+      "answer": "a"
+    },
+    {
+      "question": "camera",
+      "answer": "a"
+    },
+    {
+      "question": "accordance",
+      "answer": "c"
+    },
+    {
+      "question": "cantata",
+      "answer": "a"
+    },
+    {
+      "question": "rendition",
+      "answer": "e"
+    },
+    {
+      "question": "inning",
+      "answer": "n"
+    },
+    {
+      "question": "admission",
+      "answer": "d"
+    },
+    {
+      "question": "run",
+      "answer": "u"
+    },
+    {
+      "question": "custom",
+      "answer": "u"
+    }
+  ]
+}

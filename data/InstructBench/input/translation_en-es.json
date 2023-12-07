@@ -1,0 +1,1353 @@
+{
+  "train": [
+    {
+      "question": "possibility",
+      "answer": [
+        "posibilidad"
+      ]
+    },
+    {
+      "question": "question",
+      "answer": [
+        "poner en tela de juicio",
+        "dudar",
+        "cuestionar",
+        "interrogante",
+        "cuesti\u00f3n",
+        "pregunta",
+        "moci\u00f3n",
+        "consultar",
+        "preguntar",
+        "inc\u00f3gnita",
+        "tema",
+        "duda",
+        "interrogar",
+        "asunto",
+        "t\u00f3pico"
+      ]
+    },
+    {
+      "question": "article",
+      "answer": [
+        "art\u00edculo",
+        "objecto"
+      ]
+    },
+    {
+      "question": "funnel",
+      "answer": [
+        "embudo",
+        "chimenea"
+      ]
+    },
+    {
+      "question": "tale",
+      "answer": [
+        "historia",
+        "cuento"
+      ]
+    },
+    {
+      "question": "businessman",
+      "answer": [
+        "empresario",
+        "hombre de negocios"
+      ]
+    },
+    {
+      "question": "supply",
+      "answer": [
+        "oferta",
+        "suministrar",
+        "abastecimiento",
+        "suplir",
+        "proveer",
+        "municionar",
+        "\u00fatil",
+        "suplente",
+        "equipar",
+        "provisiones",
+        "abasto",
+        "abastecer",
+        "suministro"
+      ]
+    },
+    {
+      "question": "position",
+      "answer": [
+        "posici\u00f3n",
+        "puesto"
+      ]
+    },
+    {
+      "question": "message",
+      "answer": [
+        "recado",
+        "mensaje"
+      ]
+    },
+    {
+      "question": "prose",
+      "answer": [
+        "prosa"
+      ]
+    },
+    {
+      "question": "brain",
+      "answer": [
+        "cerebro"
+      ]
+    },
+    {
+      "question": "battle",
+      "answer": [
+        "luchar",
+        "lucha",
+        "batalla",
+        "batallar"
+      ]
+    },
+    {
+      "question": "length",
+      "answer": [
+        "longitud",
+        "eslora",
+        "largo"
+      ]
+    },
+    {
+      "question": "plane",
+      "answer": [
+        "platano",
+        "cepillar",
+        "plano",
+        "avi\u00f3n",
+        "cepillo"
+      ]
+    },
+    {
+      "question": "pile",
+      "answer": [
+        "mont\u00f3n",
+        "conjunto"
+      ]
+    },
+    {
+      "question": "treasury",
+      "answer": [
+        "tesoro"
+      ]
+    },
+    {
+      "question": "beer",
+      "answer": [
+        "cerveza"
+      ]
+    },
+    {
+      "question": "music",
+      "answer": [
+        "m\u00fasica"
+      ]
+    },
+    {
+      "question": "recipe",
+      "answer": [
+        "receta"
+      ]
+    },
+    {
+      "question": "machinery",
+      "answer": [
+        "mec\u00e1nica",
+        "m\u00e1quinas",
+        "maquinaria"
+      ]
+    },
+    {
+      "question": "coronation",
+      "answer": [
+        "coronaci\u00f3n"
+      ]
+    },
+    {
+      "question": "mourning",
+      "answer": [
+        "duelo",
+        "luto"
+      ]
+    },
+    {
+      "question": "controversy",
+      "answer": [
+        "pol\u00e9mica",
+        "controversia"
+      ]
+    },
+    {
+      "question": "acquaintance",
+      "answer": [
+        "conocida",
+        "junta",
+        "conocimiento",
+        "relaci\u00f3n",
+        "conocido",
+        "trato",
+        "amistad"
+      ]
+    },
+    {
+      "question": "deity",
+      "answer": [
+        "deidad",
+        "divinidad",
+        "diosa",
+        "dios"
+      ]
+    },
+    {
+      "question": "tuberculosis",
+      "answer": [
+        "tuberculosis"
+      ]
+    },
+    {
+      "question": "slave",
+      "answer": [
+        "esclavo",
+        "esclava"
+      ]
+    },
+    {
+      "question": "grandmother",
+      "answer": [
+        "abuela"
+      ]
+    },
+    {
+      "question": "guard",
+      "answer": [
+        "tapador",
+        "custodiar",
+        "guardar",
+        "guarda",
+        "bloque",
+        "vigilar",
+        "vanguardia",
+        "protector",
+        "guardia"
+      ]
+    },
+    {
+      "question": "suspension",
+      "answer": [
+        "suspensi\u00f3n"
+      ]
+    },
+    {
+      "question": "irony",
+      "answer": [
+        "iron\u00eda"
+      ]
+    },
+    {
+      "question": "tune",
+      "answer": [
+        "melod\u00eda",
+        "afinar"
+      ]
+    },
+    {
+      "question": "guide",
+      "answer": [
+        "navegar",
+        "gu\u00eda",
+        "se\u00f1al",
+        "guiar"
+      ]
+    },
+    {
+      "question": "exile",
+      "answer": [
+        "destierro",
+        "exiliado",
+        "desterrado",
+        "exilio",
+        "desterrar",
+        "exiliar"
+      ]
+    },
+    {
+      "question": "inventory",
+      "answer": [
+        "inventariar",
+        "inventario"
+      ]
+    },
+    {
+      "question": "geology",
+      "answer": [
+        "geolog\u00eda"
+      ]
+    },
+    {
+      "question": "produce",
+      "answer": [
+        "realizar",
+        "producto",
+        "frutas y verduras",
+        "producir"
+      ]
+    },
+    {
+      "question": "mix",
+      "answer": [
+        "mezcla",
+        "mezclar"
+      ]
+    },
+    {
+      "question": "cluster",
+      "answer": [
+        "grupo",
+        "racimo",
+        "amontonar",
+        "acorde",
+        "agruparse",
+        "amontonamiento",
+        "c\u00famulo",
+        "agrupamiento",
+        "agrupaci\u00f3n",
+        "aglomerar"
+      ]
+    },
+    {
+      "question": "diagnosis",
+      "answer": [
+        "diagn\u00f3stico",
+        "diagnosis"
+      ]
+    },
+    {
+      "question": "receptor",
+      "answer": [
+        "receptor"
+      ]
+    },
+    {
+      "question": "distortion",
+      "answer": [
+        "distorsi\u00f3n"
+      ]
+    },
+    {
+      "question": "mile",
+      "answer": [
+        "milla"
+      ]
+    },
+    {
+      "question": "stiff",
+      "answer": [
+        "tieso; r\u00edgido",
+        "adolorido",
+        "inflexible",
+        "tieso",
+        "serio",
+        "r\u00edgido",
+        "duro",
+        "severo"
+      ]
+    },
+    {
+      "question": "hero",
+      "answer": [
+        "h\u00e9roe"
+      ]
+    },
+    {
+      "question": "trunk",
+      "answer": [
+        "trompa",
+        "joroba",
+        "maletera",
+        "tronco",
+        "cajuela",
+        "ba\u00fal",
+        "maleta",
+        "maletero",
+        "valija",
+        "valijera"
+      ]
+    },
+    {
+      "question": "container",
+      "answer": [
+        "recipiente",
+        "contenedor"
+      ]
+    },
+    {
+      "question": "rehabilitation",
+      "answer": [
+        "rehabilitaci\u00f3n"
+      ]
+    },
+    {
+      "question": "tournament",
+      "answer": [
+        "campeonato",
+        "justa",
+        "torneo"
+      ]
+    },
+    {
+      "question": "trilogy",
+      "answer": [
+        "trilog\u00eda"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "rear",
+      "answer": [
+        "criar",
+        "erigir",
+        "posterior",
+        "retaguardia"
+      ]
+    },
+    {
+      "question": "surgeon",
+      "answer": [
+        "cirujana",
+        "cirujano"
+      ]
+    },
+    {
+      "question": "motorcycle",
+      "answer": [
+        "moto",
+        "motor",
+        "motora",
+        "motocicleta"
+      ]
+    },
+    {
+      "question": "sister",
+      "answer": [
+        "hermana",
+        "sor",
+        "hermano"
+      ]
+    },
+    {
+      "question": "authenticity",
+      "answer": [
+        "autenticidad"
+      ]
+    },
+    {
+      "question": "gravity",
+      "answer": [
+        "gravedad"
+      ]
+    },
+    {
+      "question": "paper",
+      "answer": [
+        "art\u00edculo cient\u00edfico",
+        "art\u00edculo",
+        "papel acad\u00e9mico",
+        "papel",
+        "de papel"
+      ]
+    },
+    {
+      "question": "commitment",
+      "answer": [
+        "compromiso",
+        "acuerdo",
+        "promesa"
+      ]
+    },
+    {
+      "question": "direction",
+      "answer": [
+        "direcci\u00f3n"
+      ]
+    },
+    {
+      "question": "officer",
+      "answer": [
+        "oficial"
+      ]
+    },
+    {
+      "question": "boost",
+      "answer": [
+        "impulso",
+        "empujar",
+        "empuje",
+        "impulsar"
+      ]
+    },
+    {
+      "question": "regime",
+      "answer": [
+        "r\u00e9gimen",
+        "reg\u00edmenes"
+      ]
+    },
+    {
+      "question": "offset",
+      "answer": [
+        "descuento",
+        "compensar",
+        "ajuste",
+        "impresi\u00f3n Offset",
+        "reducci\u00f3n",
+        "desplazamiento",
+        "compensaci\u00f3n"
+      ]
+    },
+    {
+      "question": "tragedy",
+      "answer": [
+        "tragedia"
+      ]
+    },
+    {
+      "question": "guitar",
+      "answer": [
+        "jarana",
+        "guitarra"
+      ]
+    },
+    {
+      "question": "survey",
+      "answer": [
+        "inspeccionar",
+        "encuesta",
+        "estudio de mercado",
+        "campa\u00f1a topogr\u00e1fica",
+        "supervisi\u00f3n",
+        "informe"
+      ]
+    },
+    {
+      "question": "regiment",
+      "answer": [
+        "regimiento"
+      ]
+    },
+    {
+      "question": "denial",
+      "answer": [
+        "negaci\u00f3n"
+      ]
+    },
+    {
+      "question": "courtship",
+      "answer": [
+        "cortejo"
+      ]
+    },
+    {
+      "question": "budget",
+      "answer": [
+        "presupuestar",
+        "presupuesto",
+        "presuuesto"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "floor",
+      "answer": [
+        "palabra"
+      ]
+    },
+    {
+      "question": "menu",
+      "answer": [
+        "men\u00fa",
+        "carta"
+      ]
+    },
+    {
+      "question": "occupation",
+      "answer": [
+        "ocupaci\u00f3n"
+      ]
+    },
+    {
+      "question": "place",
+      "answer": [
+        "asiento",
+        "apostar",
+        "casa",
+        "colocar",
+        "posici\u00f3n",
+        "puesto",
+        "entonar",
+        "colocarse",
+        "poner",
+        "situar",
+        "lugar",
+        "contratar",
+        "sitio",
+        "clasificarse",
+        "plaza"
+      ]
+    },
+    {
+      "question": "dinner",
+      "answer": [
+        "cena"
+      ]
+    },
+    {
+      "question": "consciousness",
+      "answer": [
+        "conciencia"
+      ]
+    },
+    {
+      "question": "combination",
+      "answer": [
+        "combinaci\u00f3n"
+      ]
+    },
+    {
+      "question": "deadline",
+      "answer": [
+        "compromiso",
+        "fecha l\u00edmite",
+        "requisito"
+      ]
+    },
+    {
+      "question": "enterprise",
+      "answer": [
+        "empuje",
+        "emprendimiento",
+        "empresa",
+        "iniciativa"
+      ]
+    },
+    {
+      "question": "fever",
+      "answer": [
+        "fiebre"
+      ]
+    },
+    {
+      "question": "ticket",
+      "answer": [
+        "billete",
+        "multa",
+        "pasaje",
+        "parte",
+        "boleto",
+        "tique",
+        "tiquete",
+        "entrada"
+      ]
+    },
+    {
+      "question": "coach",
+      "answer": [
+        "entrenadora",
+        "vag\u00f3n",
+        "entrenar",
+        "entrenador",
+        "autocar",
+        "coche"
+      ]
+    },
+    {
+      "question": "strip",
+      "answer": [
+        "remover",
+        "tira",
+        "sacarse la ropa",
+        "desvestir"
+      ]
+    },
+    {
+      "question": "propaganda",
+      "answer": [
+        "propaganda"
+      ]
+    },
+    {
+      "question": "evidence",
+      "answer": [
+        "prueba",
+        "evidencia",
+        "evidenciar"
+      ]
+    },
+    {
+      "question": "fighter",
+      "answer": [
+        "caza",
+        "combatiente",
+        "guerrero"
+      ]
+    },
+    {
+      "question": "belly",
+      "answer": [
+        "barriga",
+        "panza",
+        "vientre"
+      ]
+    },
+    {
+      "question": "liberty",
+      "answer": [
+        "libertad"
+      ]
+    },
+    {
+      "question": "instance",
+      "answer": [
+        "caso",
+        "instancia"
+      ]
+    },
+    {
+      "question": "turn",
+      "answer": [
+        "turno",
+        "rebelar",
+        "girar",
+        "volver",
+        "doblar"
+      ]
+    },
+    {
+      "question": "builder",
+      "answer": [
+        "constructor civil",
+        "constructor"
+      ]
+    },
+    {
+      "question": "equality",
+      "answer": [
+        "equidad",
+        "paridad",
+        "igualdad"
+      ]
+    },
+    {
+      "question": "posture",
+      "answer": [
+        "postura"
+      ]
+    },
+    {
+      "question": "transport",
+      "answer": [
+        "exiliar",
+        "deportado",
+        "transportar",
+        "transporte"
+      ]
+    },
+    {
+      "question": "platform",
+      "answer": [
+        "plataforma",
+        "and\u00e9n"
+      ]
+    },
+    {
+      "question": "importance",
+      "answer": [
+        "importancia"
+      ]
+    },
+    {
+      "question": "sympathy",
+      "answer": [
+        "empat\u00eda",
+        "compasi\u00f3n"
+      ]
+    },
+    {
+      "question": "list",
+      "answer": [
+        "escora",
+        "hacer una lista",
+        "tira",
+        "lista",
+        "escorar",
+        "leer una lista"
+      ]
+    },
+    {
+      "question": "unit",
+      "answer": [
+        "unidad"
+      ]
+    },
+    {
+      "question": "triple",
+      "answer": [
+        "triple",
+        "triplicar"
+      ]
+    },
+    {
+      "question": "letter",
+      "answer": [
+        "carta",
+        "letra",
+        "car\u00e1cter"
+      ]
+    },
+    {
+      "question": "east",
+      "answer": [
+        "levante",
+        "hacia oriente",
+        "oriental",
+        "hacia el este",
+        "oriente",
+        "rumbo al este",
+        "al este",
+        "este",
+        "rumbo este",
+        "oriente."
+      ]
+    },
+    {
+      "question": "invasion",
+      "answer": [
+        "invasi\u00f3n"
+      ]
+    },
+    {
+      "question": "morality",
+      "answer": [
+        "moralidad"
+      ]
+    },
+    {
+      "question": "autonomy",
+      "answer": [
+        "autonom\u00eda"
+      ]
+    },
+    {
+      "question": "echo",
+      "answer": [
+        "eco",
+        "repercutir",
+        "repetir"
+      ]
+    },
+    {
+      "question": "broadcast",
+      "answer": [
+        "programa",
+        "emisi\u00f3n"
+      ]
+    },
+    {
+      "question": "creature",
+      "answer": [
+        "criatura"
+      ]
+    },
+    {
+      "question": "apple",
+      "answer": [
+        "manzana"
+      ]
+    },
+    {
+      "question": "anniversary",
+      "answer": [
+        "aniversario"
+      ]
+    },
+    {
+      "question": "notion",
+      "answer": [
+        "intenci\u00f3n",
+        "ganas",
+        "noci\u00f3n"
+      ]
+    },
+    {
+      "question": "confidence",
+      "answer": [
+        "certeza propia",
+        "certeza",
+        "certidumbre",
+        "confidencia"
+      ]
+    },
+    {
+      "question": "priority",
+      "answer": [
+        "prioridad"
+      ]
+    },
+    {
+      "question": "environment",
+      "answer": [
+        "sistema operativo",
+        "ecosistema",
+        "medio ambiente",
+        "medio",
+        "programa",
+        "clima",
+        "medioambiente",
+        "naturaleza",
+        "entorno",
+        "ambiente"
+      ]
+    },
+    {
+      "question": "principle",
+      "answer": [
+        "principio"
+      ]
+    },
+    {
+      "question": "sense",
+      "answer": [
+        "significaci\u00f3n",
+        "significado",
+        "sentir",
+        "sentido",
+        "sensaci\u00f3n",
+        "acepci\u00f3n",
+        "dar sentido"
+      ]
+    },
+    {
+      "question": "relocation",
+      "answer": [
+        "mudanza",
+        "traslado"
+      ]
+    },
+    {
+      "question": "brother",
+      "answer": [
+        "par",
+        "hermano"
+      ]
+    },
+    {
+      "question": "framework",
+      "answer": [
+        "marco",
+        "infraestructura"
+      ]
+    },
+    {
+      "question": "thread",
+      "answer": [
+        "subproceso",
+        "argumento",
+        "hilo",
+        "pasar",
+        "filete",
+        "tema",
+        "enhebrar",
+        "rosca",
+        "proceso ligero",
+        "t\u00f3pico"
+      ]
+    },
+    {
+      "question": "scientist",
+      "answer": [
+        "cient\u00edfico"
+      ]
+    },
+    {
+      "question": "victory",
+      "answer": [
+        "victoria"
+      ]
+    },
+    {
+      "question": "morning",
+      "answer": [
+        "madrugada",
+        "ma\u00f1ana",
+        "AM"
+      ]
+    },
+    {
+      "question": "seat",
+      "answer": [
+        "asiento",
+        "sede"
+      ]
+    },
+    {
+      "question": "clearance",
+      "answer": [
+        "oferta",
+        "espacio",
+        "limpieza",
+        "barata",
+        "permiso",
+        "liquidaci\u00f3n",
+        "acceso",
+        "claro",
+        "remate",
+        "ganga",
+        "despeje",
+        "compensaci\u00f3n"
+      ]
+    },
+    {
+      "question": "party",
+      "answer": [
+        "divertirse",
+        "parte contratante",
+        "carrete",
+        "fiestar",
+        "partido",
+        "pachanga",
+        "revent\u00f3n",
+        "fiesta"
+      ]
+    },
+    {
+      "question": "innocence",
+      "answer": [
+        "inocencia"
+      ]
+    },
+    {
+      "question": "diving",
+      "answer": [
+        "buceo",
+        "submarinismo"
+      ]
+    },
+    {
+      "question": "juice",
+      "answer": [
+        "zumo",
+        "jugo"
+      ]
+    },
+    {
+      "question": "turf",
+      "answer": [
+        "hip\u00f3dromo",
+        "c\u00e9sped"
+      ]
+    },
+    {
+      "question": "chip",
+      "answer": [
+        "ficha",
+        "desconcharse",
+        "papa frita",
+        "desconchado",
+        "patata frita",
+        "astillar",
+        "astilla",
+        "desconchar",
+        "chip"
+      ]
+    },
+    {
+      "question": "doctorate",
+      "answer": [
+        "doctorado"
+      ]
+    },
+    {
+      "question": "membrane",
+      "answer": [
+        "membrana"
+      ]
+    },
+    {
+      "question": "king",
+      "answer": [
+        "rey",
+        "coronar"
+      ]
+    },
+    {
+      "question": "genre",
+      "answer": [
+        "g\u00e9nero"
+      ]
+    },
+    {
+      "question": "conception",
+      "answer": [
+        "concepci\u00f3n"
+      ]
+    },
+    {
+      "question": "disguise",
+      "answer": [
+        "pantalla",
+        "disfrazar",
+        "tapadera",
+        "disfraz"
+      ]
+    },
+    {
+      "question": "point",
+      "answer": [
+        "indicar",
+        "momento",
+        "punta",
+        "punto",
+        "apuntar"
+      ]
+    },
+    {
+      "question": "staff",
+      "answer": [
+        "empleado",
+        "varas",
+        "personal",
+        "pentagrama",
+        "equipo",
+        "plantilla",
+        "b\u00e1culo",
+        "pauta",
+        "bast\u00f3n"
+      ]
+    },
+    {
+      "question": "shipyard",
+      "answer": [
+        "astillero"
+      ]
+    },
+    {
+      "question": "client",
+      "answer": [
+        "cliente"
+      ]
+    },
+    {
+      "question": "profession",
+      "answer": [
+        "profesi\u00f3n"
+      ]
+    },
+    {
+      "question": "trade",
+      "answer": [
+        "comerciar",
+        "comercio",
+        "gremio"
+      ]
+    },
+    {
+      "question": "curse",
+      "answer": [
+        "maldici\u00f3n",
+        "mala palabra",
+        "regla",
+        "maldecir",
+        "menstruaci\u00f3n"
+      ]
+    },
+    {
+      "question": "certification",
+      "answer": [
+        "certificaci\u00f3n"
+      ]
+    },
+    {
+      "question": "tag",
+      "answer": [
+        "etiquetar",
+        "el pillarse",
+        "etiqueta marbete",
+        "pilla pilla"
+      ]
+    },
+    {
+      "question": "eruption",
+      "answer": [
+        "erupci\u00f3n"
+      ]
+    },
+    {
+      "question": "mood",
+      "answer": [
+        "humor",
+        "mal humor",
+        "mal genio",
+        "\u00e1nimos",
+        "\u00e1nimo"
+      ]
+    },
+    {
+      "question": "aircraft",
+      "answer": [
+        "aeronave"
+      ]
+    },
+    {
+      "question": "gamma",
+      "answer": [
+        "gama",
+        "gamma"
+      ]
+    },
+    {
+      "question": "title",
+      "answer": [
+        "tutela",
+        "t\u00edtulo"
+      ]
+    },
+    {
+      "question": "casino",
+      "answer": [
+        "casino"
+      ]
+    },
+    {
+      "question": "department",
+      "answer": [
+        "secci\u00f3n",
+        "departamento"
+      ]
+    },
+    {
+      "question": "emission",
+      "answer": [
+        "emisi\u00f3n"
+      ]
+    },
+    {
+      "question": "ice",
+      "answer": [
+        "helado",
+        "congelar",
+        "hielo"
+      ]
+    },
+    {
+      "question": "kit",
+      "answer": [
+        "juego",
+        "kit",
+        "equipo",
+        "ensello"
+      ]
+    },
+    {
+      "question": "lithium",
+      "answer": [
+        "litio"
+      ]
+    },
+    {
+      "question": "inch",
+      "answer": [
+        "pulgada"
+      ]
+    },
+    {
+      "question": "casualty",
+      "answer": [
+        "baja",
+        "v\u00edctima"
+      ]
+    },
+    {
+      "question": "millennium",
+      "answer": [
+        "milenio"
+      ]
+    },
+    {
+      "question": "family",
+      "answer": [
+        "familia",
+        "familiar"
+      ]
+    },
+    {
+      "question": "drag",
+      "answer": [
+        "arrastrar",
+        "bocanada",
+        "resistencia"
+      ]
+    },
+    {
+      "question": "slavery",
+      "answer": [
+        "esclavitud"
+      ]
+    },
+    {
+      "question": "duration",
+      "answer": [
+        "duraci\u00f3n"
+      ]
+    },
+    {
+      "question": "vernacular",
+      "answer": [
+        "dialecto",
+        "idioma",
+        "vern\u00e1culo"
+      ]
+    },
+    {
+      "question": "assistance",
+      "answer": [
+        "asistencia"
+      ]
+    },
+    {
+      "question": "novel",
+      "answer": [
+        "novela",
+        "novedoso",
+        "novedosa"
+      ]
+    },
+    {
+      "question": "expressway",
+      "answer": [
+        "autopista"
+      ]
+    },
+    {
+      "question": "satellite",
+      "answer": [
+        "sat\u00e9lite"
+      ]
+    },
+    {
+      "question": "boat",
+      "answer": [
+        "barco",
+        "bote",
+        "barca"
+      ]
+    }
+  ]
+}

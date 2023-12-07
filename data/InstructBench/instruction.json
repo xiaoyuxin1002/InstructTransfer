@@ -1,0 +1,645 @@
+{
+  "gold": {
+    "cause_and_effect": [
+      "Each input consists of two sentences, where one is the cause and the other is the outcome. Write The cause sentence",
+      "The input consists of two sentences. One is the cause of the other. Write the cause sentence",
+      "The input is a cause and effect. Write the cause.",
+      "The input is a cause and effect, write the cause",
+      "Find the cause in the following cause and effect pair",
+      "Output the sentence describing the cause (the other sentence is what happened as a result).",
+      "Output the cause (other sentence describes what happened as a result)",
+      "Which of the following sentences is the cause?",
+      "Which of the two events is the cause?"
+    ],
+    "singular_to_plural": [
+      "write the plurals of the inputs",
+      "output the plural of the input",
+      "Write the plural form of the word",
+      "Write the plural of each of the following inputs",
+      "Write the plural form of each word in the input.",
+      "Write the plural form of the following nouns:",
+      "You will be given as input a singular noun and need to output a plural noun.",
+      "Write the input word in plural form."
+    ],
+    "rhymes": [
+      "what is a word that rhymes with the input token",
+      "write a word that rhymes with the input",
+      "Write a word that rhymes with the input",
+      "Write a word that rhymes with the input word",
+      "Write a word that rhymes with each of the following input words",
+      "For each word in the input write another word that rhymes with it.",
+      "Write a rhyme for the following word:",
+      "Write a word that rhymes with the input word."
+    ],
+    "sum": [
+      "sum the numbers in the input",
+      "Write the result of adding the two numbers",
+      "Write the sum of the two numbers",
+      "Write the sum of the pair of numbers for each input",
+      "For each input, write the sum of the two numbers that appears there.",
+      "Add the following numbers:",
+      "You are given two numbers as input. Apply the + operator to them and output the answer:",
+      "Apply the + operator on the two numbers."
+    ],
+    "letters_list": [
+      "write down the spelling of the inputs",
+      "spell the word in the input",
+      "Write the word, but with a space between each one of its letters",
+      "Write the input word, but with a space between each one of its letters",
+      "For each word in the input, write the same word but add a space between all characters.",
+      "For each input, write the input word with the addition of a space separating each character pair in the word.",
+      "Break the following word into letters:",
+      "Write the word that you will be given as input, but separate the characters with a space.",
+      "Write the characters of the input word, separate the characters with a space."
+    ],
+    "translation_en-de": [
+      "Translate to German",
+      "Translate the input word to German",
+      "Translate the word to German",
+      "Translate each word in the input to German.",
+      "Translate the following text from English to German:",
+      "Translate from English to German:"
+    ],
+    "synonyms": [
+      "provide a synonym",
+      "output a word that is similar to the input",
+      "Write a word with similar meaning to the input",
+      "Write a word with a similar meaning",
+      "Write a word with close, but not exactly the same, meaning to each word in the following inputs",
+      "Write a synonym of the following word:",
+      "You will be given a word as input and need to output a word that is semantically similar. ",
+      "Write a synonym of the input word."
+    ],
+    "negation": [
+      "write the negation",
+      "output the negation of the input",
+      "Write a negated version of the given sentence",
+      "Negate the given sentence",
+      "For each input, write a sentence that expresses the exact opposite meaning of the input.",
+      "Negate the following sentence:",
+      "You will be given a sentence that states a fact (that might be true or not). Try to state the opposite fact.",
+      "Change the fact stated in the sentence to an opposite fact."
+    ],
+    "num_to_verbal": [
+      "output how the number in the input is pronounced in English",
+      "output the pronunciation of the number in the input",
+      "Write the number in English words",
+      "For each input, write the number in plain English words without using digits.",
+      "For each input, write the number in plain English words without using digits or numbers.",
+      "Write the following number with words:",
+      "You will be given an input number and you need to output the number while writing it with words",
+      "Write the input number with words."
+    ],
+    "active_to_passive": [
+      "output the passive form of the input",
+      "Rewrite the input sentence in passive form",
+      "Rewrite the sentence in passive form",
+      "For each input, write the passive form of the sentence.",
+      "Change the wording of the following sentence from active to passive.",
+      "Write the following sentence in passive language",
+      "turn the sentence from active tense to passive tense.",
+      "Change the sentence from active to passive."
+    ],
+    "second_word_letter": [
+      "write the second letter of the word",
+      "Write down the second letter in the following word",
+      "What is the second character in the next word?",
+      "Second character of the given word?",
+      "extract the second letter of the word",
+      "extract the second letter in a word",
+      "Extract the second letter from the input word"
+    ],
+    "antonyms": [
+      "output the opposite of",
+      "what the opposite of",
+      "Write a word that means the opposite of the input",
+      "Write a word that means the opposite of the input word",
+      "Write the opposite of each of the following inputs",
+      "For each input, write a word with the exact opposite meaning to the input word.",
+      "Write an antonym of the following word:",
+      "You will be given a word as input. Please output an antonym of the input word.",
+      "Write an antonym to the following word."
+    ],
+    "sentence_similarity": [
+      "Rate from 0 (definitely not) to 5 (perfectly) the degree in which both sentences describe the same event.",
+      "Rate from 0 (definitly not) to 5 (perfectly) the degree in which the two sentences describe the same thing.",
+      "Each input consists of two sentences (Sentence 1 and Sentence 2). Rate on a scale of 0 to 5 whether Sentence 1 is a paraphrase of Sentence 2",
+      "Each input consists of two sentences (Sentence 1 and Sentence 2). Rate on a scale of 0 to 5 whether those sentences are paraphrases of each other, and also give a brief textual description of the rating (0 being definitely not, 2 being possibly, 3 being probably, 4 being almost perfectly and 5 being perfectly). Use \" - \" to separate them",
+      "Score from 0 to 5 whether the two sentences describe the same event (5 being highest and 0 lowest)",
+      "Score from 0 to 5 whether the two sentences describe the same event"
+    ],
+    "first_word_letter": [
+      "write the first letter of the word",
+      "Write down the first letter in the following word",
+      "write down the first letter in the following word",
+      "What is the first character of the given word?",
+      "First character of the given word?",
+      "extract the first letter of the word",
+      "extract the first letter in the word",
+      "Write the first character of the input word",
+      "Extract the first letter from the input word"
+    ],
+    "diff": [
+      "write the result of the first number in the input minus the second one",
+      "output the result of taking the first number in the input and subtracting the second number",
+      "Subtract the second number of the input from the first number of the input",
+      "Write the result of subtracting the second number from the first number",
+      "For each input of two numbers subtract the second number from the first and write the result.",
+      "For each input, subtract the second number from the first number and write the results.",
+      "Subtract the second number from the first number:",
+      "You will be given two numbers as input, and you need to output the result of subtracting the second number from the first one.",
+      "Subtract the second number from the first one:"
+    ],
+    "larger_animal": [
+      "which of the animals separated by , is bigger",
+      "output which of the animals in the input is bigger",
+      "Write the bigger animal of the two",
+      "Write the bigger animal",
+      "Write which of the pair of animals in each input is larger",
+      "For each input, write which of the two animals is bigger.",
+      "find the larger between the following pair of animals",
+      "Which of the following animals is bigger?",
+      "Which is bigger?"
+    ],
+    "word_in_context": [
+      "Given two sentences and a common word, output \"same\" if the common word has the same meaning in both sentences, and \"not the same\" otherwise.",
+      "Given two sentences and a common word, output \"same\" if the common word has the same meaning in both sentences, otherwise output \"not the same\"",
+      "For each input, determine whether the two sentences (marked 'Sentence 1' and 'Sentence 2') use the selected word (marked 'Word:') with the same meaning or not.",
+      "For each input, determine if the keyword (marked in 'Word:') is used in the same meaning in both the sentences (marked 'Sentence 1' and 'Sentence 2').",
+      "Each input consists of two sentences (Sentence 1 and Sentence 2) and a word that appears in both of them (Word). Classify whether the meaning of this word is the same in both sentences (options are \"same\" or \"not the same\")",
+      "Each input consists of two sentences (Sentence 1 and Sentence 2), and a word that appears in at least one sentence as is or in a modified way (Word). Classify whether the meaning of this word is the same in both sentences (options are \"same\" or \"not the same\")",
+      "\"same\" if the word has the same meaning in both sentences, otherwise \"not the same\"",
+      "Write \"same\" if the word has the same meaning in both sentences, otherwise write \"not the same\"",
+      "Whether the meaning of the word is the same or not in both sentences",
+      "Determine whether the meaning of the word is the same in both sentences"
+    ],
+    "translation_en-es": [
+      "Translate to Spanish",
+      "Translate the word into Spanish",
+      "Translate the word to Spanish",
+      "Translate the following text from English to Spanish"
+    ],
+    "translation_en-fr": [
+      "Translate the input to French",
+      "Translate the word into French",
+      "Translate each of the following input to French",
+      "Translate each word in the input to French."
+    ],
+    "informal_to_formal": [
+      "Write a paraphrase of the input, but use a formal style",
+      "Write a paraphrase of the input sentence, but use a formal style",
+      "Write the sentence in a \"higher\" English",
+      "Rephrase the following sentence in a formal tone",
+      "Rephrase in a more formal fashion",
+      "Rephrase in a more formal manner"
+    ],
+    "sentiment": [
+      "Output whether the sentiment of the input sentence is positive or negative.",
+      "Given an input text, output whether the sentiment is positive or negative.",
+      "For each input, determine if the sentiment in the input is prone to negative or positive opinion.",
+      "For each input, determine whether it expresses a positive or a negative opinion.",
+      "Classify the sentiment of the input sentence (options are positive or negative)",
+      "write \"positive\" if the input is a positive review, and \"negative\" if the input is a negative review",
+      "Determine whether the sentiment is positive or negative",
+      "Output whether the sentiment is positive or negative"
+    ],
+    "ag_news": [
+      "What label best describes this news article?",
+      "Is this a piece of news regarding World Politics, Sports, Business, or Science and Technology?",
+      "Would you recommend the following article to a Politician, an Athlete, a Business executive or a Scientist?",
+      "Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business or Science and Technology",
+      "Which section of a newspaper would this article likely appear in?"
+    ],
+    "hellaswag": [
+      "Complete the description with an appropriate ending:",
+      "Complete the sentence:",
+      "The task is to generate the ending for the sentence:",
+      "How does this sentence end?",
+      "How does the description likely end?"
+    ],
+    "anli": [
+      "Using only the description and what you know about the world, is the hypothesis definitely correct, incorrect, or inconclusive?",
+      "Given the premise should we assume that the hypothesis is true?",
+      "Given the premise, does the hypothesis follow?",
+      "Based on the passage, is the hypothesis true?",
+      "Are we justified in saying the hypothesis?"
+    ],
+    "boolq": [
+      "Using only the passage and a question, is the answer true or false?",
+      "Given the passage, is the question true or false?",
+      "Using the given passage, answer the following true/false question.",
+      "Based on the passage, is the answer true or false?",
+      "Using the passage, are we justified in saying the answer is true or false?"
+    ],
+    "nq_open": [
+      "The goal is to predict an English answer string for an input English question. All questions can be answered using the contents of English Wikipedia.",
+      "I've always wondered:",
+      "Answer the following question.",
+      "For the following questions, predict a short-form answer.",
+      "Answer each question with a brief expression"
+    ],
+    "tweet_emotion": [
+      "To get full credit in this exam, choose the correct emotion from the following choices: anger, joy, optimism, sadness",
+      "Which emotion among anger, joy, optimism, sadness best describes the feeling of the author of the following tweet?",
+      "Which emotion is best represented by the following tweet?",
+      "Categorize the tweet into one of the following options: anger, joy, optimism, sadness",
+      "What is the emotion of the text? Hint: anger, joy, optimism, sadness"
+    ],
+    "trivia_qa": [
+      "The goal is to predict an English answer string for an input English question.",
+      "Answer the following question.",
+      "I've always wondered:",
+      "For the following questions, predict a short-form answer.",
+      "Answer each question with a brief expression"
+    ],
+    "cosmos_qa": [
+      "Read the following context and answer the question.",
+      "According to the below context, answer the following question.",
+      "According to the below context, choose the best answer to the following question.",
+      "Pick the best answer:",
+      "Based on the context, answer the question."
+    ],
+    "imdb": [
+      "The following movie review expresses what sentiment?",
+      "Did the reviewer find this movie positive or negative?",
+      "Is this review positive or negative?",
+      "How does this viewer feel about the movie?",
+      "What sentiment does the writer express for the movie?"
+    ]
+  },
+  "gpt-35": {
+    "active_to_passive": [
+      "Convert the sentences to passive voice.",
+      "Rewrite the sentence in the passive voice.",
+      "Rewrite each sentence in the passive voice.",
+      "Write the passive voice version of each sentence."
+    ],
+    "sum": [
+      "Add the two numbers together.",
+      "You and your friend are finding the sum of two numbers.",
+      "Add the two numbers together and write the sum as the output."
+    ],
+    "cause_and_effect": [
+      "For each input, write the output that directly follows it."
+    ],
+    "num_to_verbal": [
+      "Write the numbers in words.",
+      "Convert the given number into its written form, including the thousands, hundreds, and tens place.",
+      "Convert each input from numeric form to written form, including the thousands, hundreds, tens, and units places."
+    ],
+    "letters_list": [
+      "Please write the given input in separate letters.",
+      "Write the word, but separate each letter with spaces.",
+      "Write the input as individual letters, separated by spaces.",
+      "Please write the word and separate each letter with a space.",
+      "Write the given word with each letter spelled out individually."
+    ],
+    "diff": [
+      "Subtract the second input from the first input.",
+      "Subtract the second input from the first input to get the output.",
+      "Subtract the second number from the first number and write the result as the output."
+    ],
+    "informal_to_formal": [
+      "Rewrite each output sentence to make it sound more formal."
+    ],
+    "translation_en-de": [
+      "Translate the given word(s) into German.",
+      "Translate the given word/term into German.",
+      "Translate the given words from English to German.",
+      "Translate the following English words into German.",
+      "Translate the following words from English to German."
+    ],
+    "singular_to_plural": [
+      "Add an \"s\" to each word.",
+      "Add an \"s\" to the end of each word.",
+      "Add an \"s\" to the end of each input."
+    ],
+    "negation": [
+      "Negate each statement.",
+      "Negate each statement in the output.",
+      "Negate the statements in each input.",
+      "Negate the statements in each of the inputs."
+    ],
+    "second_word_letter": [
+      "Find the last letter of each word.",
+      "Find the first vowel in each word.",
+      "Find the vowel that appears most frequently in each word.",
+      "Find the letter that comes after the first 't' in each word.",
+      "Remove all the consonants from the input word and keep only the vowels."
+    ],
+    "sentence_similarity": [
+      "Write an output for each given input sentence.",
+      "Read the two sentences and determine how well they match each other.",
+      "Write an output that accurately describes the relationship between the two given sentences.",
+      "Based on the given input, you were instructed to provide an output that describes the likelihood or quality of something.",
+      "Based on the given input-output pairs, the instruction seems to be to determine the likelihood or probability of a certain statement being true based on the given sentence pairs."
+    ],
+    "translation_en-fr": [
+      "Translate the given word into French.",
+      "Translate each word from English to French.",
+      "Translate each input word from English to French.",
+      "Trim the input word to only include the first five characters.",
+      "Translate the given word from English to French, and provide any additional related words or synonyms in French."
+    ],
+    "word_in_context": [
+      "Identify whether the word in the second sentence has the same meaning as the word in the first sentence.",
+      "Determine whether the word in the instruction is used in the same way in both sentences and provide a yes/no answer as well as a true/false answer.",
+      "Read the two sentences and determine if the word in question has the same meaning in both sentences. If it does, write \"same\". If it does not, write \"not the same\".",
+      "Determine if the word in each pair of sentences has the same meaning. If they do, write \"same\", otherwise write \"not the same\". Then, determine if the word in each pair of sentences is used in the same way. If they are, write \"yes\", otherwise write \"no\". Finally, determine if the word in each pair of sentences is true or false. If it is true, write \"true\", otherwise write \"false\".",
+      "Compare the meanings of the given word in both sentences and determine if they are the same or not. If they are the same, write \"same\" in the output. If they are not the same, write \"not the same\" in the output. If the given word does not appear in either sentence, write \"no\" in the output. Finally, determine if the given word has a positive or negative connotation in each sentence, and write \"yes\" in the output if it has a positive connotation, or \"no\" if it has a negative connotation in each sentence."
+    ],
+    "larger_animal": [
+      "Choose the second input as the output.",
+      "Choose the second animal in each pair.",
+      "Choose the first item from each input pair.",
+      "Choose the animal that is larger or more imposing in each pair.",
+      "Choose the larger or more dominant animal from each pair of animals."
+    ],
+    "synonyms": [
+      "Find a synonym for each word in the input.",
+      "Find a synonym for each of the following words.",
+      "Find a word that is similar in meaning to the given word.",
+      "Remove the last two letters and add the letters \"ive\" to the end.",
+      "Find a word that is a synonym or related to each of the given words."
+    ],
+    "first_word_letter": [
+      "Take the first letter of each word.",
+      "Write the first letter of each word.",
+      "Write the first letter of each input.",
+      "Find the first letter of each word in the given input."
+    ],
+    "translation_en-es": [
+      "Translate each word into Spanish.",
+      "Translate the following words into Spanish.",
+      "Translate each word from English to Spanish.",
+      "Translate the following English words into Spanish."
+    ],
+    "rhymes": [
+      "Write words that rhyme with the given word.",
+      "Generate words that rhyme with the given word.",
+      "Generate words that rhyme with the given input.",
+      "Write as many words as you can that contain the given input."
+    ],
+    "sentiment": [
+      "Determine the overall sentiment for each input-output pair.",
+      "Determine the overall tone or sentiment of each input-output pair.",
+      "Please classify each input-output pair as either positive or negative.",
+      "Determine the sentiment (positive or negative) of each input-output pair.",
+      "For each input, determine whether the sentiment expressed in the output is positive or negative."
+    ],
+    "antonyms": [
+      "Prefix \"un-\" to each input.",
+      "Apply the opposite meaning to each input.",
+      "Create an opposite output for each input.",
+      "Find the opposite or antonym of each input.",
+      "Transform each word from the input by adding the prefix \"un-\" to it."
+    ],
+    "cosmos_qa": [
+      "Given the context, determine the most suitable answer to the question.",
+      "Carefully consider the information below and select the most accurate answer to the question.",
+      "Carefully read the following information and provide the answer to the question.",
+      "According to the context provided, pick the correct answer to the question.",
+      "Make use of the given context to answer the question."
+    ],
+    "nq_open": [
+      "Anticipate a concise answer for the following queries.",
+      "I have long wondered:",
+      "Give an answer to the following question.",
+      "Respond to the subsequent question.",
+      "I have often pondered:"
+    ],
+    "trivia_qa": [
+      "Predict a brief response for the following inquiries.",
+      "Reply to each question with a brief statement.",
+      "I have always pondered:",
+      "The purpose is to anticipate an English answer for the given English inquiry.",
+      "I have been pondering this for a while:"
+    ],
+    "anli": [
+      "Is there enough evidence to confirm or reject the hypothesis based on the description?",
+      "Is the hypothesis consistent with what we know about the subject matter and the information in the passage?",
+      "Does the hypothesis logically follow from the information presented in the passage?",
+      "Given the available information, can we say that the hypothesis is factual or not?",
+      "Does the hypothesis match the information provided in the passage and our general understanding of the topic?"
+    ],
+    "boolq": [
+      "Assess whether a question is true or false based on the information provided in the passage.",
+      "Evaluate the accuracy of a question based on the information in the passage.",
+      "Ascertain the validity of a question based on the passage.",
+      "Determine if the answer to a question is true or false based solely on the given passage.",
+      "Respond to a true/false question by referring to the given passage."
+    ],
+    "tweet_emotion": [
+      "To achieve a high score, select the correct emotion from the options provided: anger, joy, optimism, sadness.",
+      "Which sentiment, anger, joy, optimism, or sadness, accurately characterizes the emotion of the individual who authored the tweet below?",
+      "Determine the sentiment that is most accurately portrayed in the following tweet.",
+      "Which of the four emotions (anger, joy, optimism, sadness) is best reflected in the tweet below?",
+      "Which of the following choices (anger, joy, optimism, or sadness) best matches the emotion depicted in the tweet?"
+    ],
+    "imdb": [
+      "What is the writer's impression of the film?",
+      "What is the general mood of the movie review?",
+      "Does the review give a positive or negative assessment of the film?",
+      "How does the writer feel about the movie?",
+      "Does the reviewer recommend this movie?"
+    ],
+    "hellaswag": [
+      "Complete the sentence with an appropriate conclusion.",
+      "Fill in the blank to finish the sentence.",
+      "Craft the ending for the sentence in question.",
+      "Write the final part of the sentence.",
+      "Close the description appropriately."
+    ],
+    "ag_news": [
+      "How would you categorize this particular news story?",
+      "Which part of a newspaper would you expect this news article to be in - Global News, Sports, Commerce, or Science and Technology?",
+      "Which newspaper section is most likely to feature this news article?",
+      "How would you categorize this news article?",
+      "Is this news article about World Affairs, Sports, Commerce, or Science and Technology?"
+    ]
+  },
+  "llama-2-70b": {
+    "synonyms": [
+      "The instruction was: \"For each input, provide a synonym or related word that captures the essence of the input.\"",
+      "The instruction was: \"Replace each word with its synonym.\"",
+      "The instruction was: \"For each input, provide a word that is related to the input and has a similar meaning or context.\"",
+      "The instruction was: \"Take the first letter of the given word and add it to the end of the word to create a new word.\"",
+      "The instruction was: \"Provide a synonym for the given word.\""
+    ],
+    "negation": [
+      "The instruction was to provide an answer that contradicts the given question.",
+      "The instruction was to provide a false statement for each given input.",
+      "The instruction was to provide a contradictory answer to each given question or statement.",
+      "The instruction was to provide a contradictory answer to each input question.",
+      "The instruction was to provide an opposite or contradictory answer to each given question or statement."
+    ],
+    "imdb": [
+      "Give a positive or negative opinion on the given movie or TV show based on the provided review.",
+      "Give a positive or negative review for each movie based on the given input.",
+      "Give a brief summary of the given input and provide a rating based on the overall tone of the text. The rating should be either positive, negative, or neutral.\n\nThe friend provided five input-output pairs, where the input is a text review of a movie or a TV show, and the output is a rating based on the overall tone of the text. The ratings given by the friend are as follows:\n\n1. Negative\n2. Positive\n3. Neg",
+      "The instruction was to read the given input and provide an output based on the content of the input. The output should be a single word indicating whether the review is positive or negative.",
+      "Given a review of a book or movie, determine if the review is positive or negative."
+    ],
+    "rhymes": [
+      "The instruction was to create a list of words that rhyme with the given input.",
+      "The instruction was to create a list of words that are anagrams of the given input. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. In this case, the friend was given a word and they created a list of words that could be formed by rearranging the letters of the input word.",
+      "The instruction was to create a list of words that are anagrams of the given input. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. In this case, the friend took each input and created a list of words that could be formed by rearranging the letters of the input.",
+      "The instruction was to create a new word by changing one letter in the given input word. The output for each input word is a new word created by changing one letter in the input word."
+    ],
+    "larger_animal": [
+      "The instruction was: \"Choose the larger animal from the given pair.\"",
+      "The instruction was: \"For each input, write the name of the animal that is larger or more dangerous.\"",
+      "The instruction was: \"Choose the larger animal from the two given options.\""
+    ],
+    "second_word_letter": [
+      "The instruction was: \"For each input, write the first letter of the word.\"",
+      "The instruction was: \"Take the first letter of each word and write it down.\"",
+      "The instruction was: \"Take the first letter of each word and write it down as the output.\"",
+      "The instruction was: \"For each given word, write the first letter of the word.\""
+    ],
+    "hellaswag": [
+      "The instruction was to provide an output for each input, which was done by giving a response to each question or statement presented. The outputs were related to the inputs and provided additional information or context.",
+      "For each input, provide an output that summarizes the main idea or action described in the input.",
+      "The instruction was to provide an output for each input given, which the friend did by providing a response for each input-output pair. The instruction also included a header, title, and step or substeps for each input.",
+      "For each input, provide an output that is a continuation of the story or explanation.",
+      "The instruction was to provide an output for each input given. The friend followed the instruction and provided an output for each input, which included information about bail bonds, a special effect outro, relieving head congestion, being a call center agent, and making marshmallow cereal bars."
+    ],
+    "ag_news": [
+      "The instruction was to categorize each news article into one of the following sections: Business, World, or Sci/Tech. The friend correctly categorized each article based on its content.",
+      "The instruction was to categorize each news article into one of the following categories: Sports, Sci/Tech, World, or Business. The friend correctly categorized each article based on its content.",
+      "The instruction was to categorize each news article into one of the following sections: Business, World, Sci/Tech, or Sports. The friend read the instruction and assigned each input to one of these sections based on the content of the article.",
+      "The instruction was to categorize each news article into one of the following sections: Business, Sci/Tech, World, or Sports. The friend correctly categorized each article based on its content.",
+      "The instruction was to categorize each news article into one of four categories: Sci/Tech, Business, Sports, or World. The friend read the instruction and correctly categorized each news article into its respective category based on the content of the article."
+    ],
+    "diff": [
+      "The instruction was: \"Subtract the second number from the first number.\""
+    ],
+    "singular_to_plural": [
+      "The instruction was: \"Add an 's' to the end of each word to make it plural.\"",
+      "The instruction was likely to \"pluralize the given nouns.\"",
+      "The instruction was likely to \"pluralize the given word.\""
+    ],
+    "cause_and_effect": [
+      "The instruction was to provide the first sentence in each pair as the answer to the question.",
+      "The instruction was to provide the second sentence in each input-output pair.",
+      "The instruction was to provide the first sentence of each input-output pair.",
+      "The instruction was to choose the sentence that is more likely to be the cause of the event described in the second sentence."
+    ],
+    "word_in_context": [
+      "The instruction was to determine if the given sentences and word have the same meaning or not.",
+      "The instruction was to determine if the word in the input sentences has the same meaning as the word in the given sentence.",
+      "The instruction was to determine if the meaning of the given word in the two sentences is the same or different.",
+      "The instruction was to determine if the meaning of the word in the given sentences is the same or different."
+    ],
+    "translation_en-de": [
+      "The instruction was likely to translate the given English words into German. The output for each input is the German translation of the word.",
+      "The instruction was to provide the German translation for each given English word.",
+      "The instruction was to provide German translations or related words for the given English words.",
+      "The instruction was: \"For each input, provide a question and its corresponding answer.\"",
+      "The instruction was to provide a translation for each input word, where the output is the German equivalent of the given English word."
+    ],
+    "active_to_passive": [
+      "The instruction was to rewrite each sentence in passive voice."
+    ],
+    "first_word_letter": [
+      "The instruction was: \"Take the first letter of each word and write it down as the output.\"",
+      "The instruction was: \"Take the first letter of each word and write it down as the answer.\"",
+      "The instruction was: \"For each given word, write the first letter of the word as the answer.\""
+    ],
+    "tweet_emotion": [
+      "The instruction was to analyze the given input and determine the emotion that best represents the tone or sentiment of the input. The friend then provided an output of either \"Anger\" or \"Sadness\" based on their interpretation of the emotion conveyed in each input.",
+      "The instruction was to analyze the given questions and determine the emotion expressed in each one, then provide a corresponding answer. The emotions identified were anger and sadness.",
+      "The instruction was to determine the emotion expressed in each input statement and provide an output that corresponds to that emotion. The emotions identified were Anger and Optimism.",
+      "The instruction was to analyze the given input and determine the emotion or sentiment expressed in the text. The friend then provided an output for each input, indicating the emotion they perceived in the text. The emotions identified were Joy, Anger, Optimism, and Anger again.",
+      "The instruction was to determine the emotion associated with each input statement. The friend analyzed each statement and provided an output of the emotion they felt was most relevant to the context of the statement. The emotions identified were Anger, Sadness, and Optimism."
+    ],
+    "informal_to_formal": [
+      "The instruction was to rephrase the given questions and answers in a more formal manner.",
+      "The instruction was to rephrase the given questions and answers in a more formal or polite manner.",
+      "The instruction was to rephrase each input question or statement using more formal language.",
+      "The instruction was to rephrase the given questions and statements in a more formal or polite manner."
+    ],
+    "trivia_qa": [
+      "For each question, provide the correct answer. If the answer is not clear or there are multiple possible answers, provide the most likely or commonly accepted answer.",
+      "For each question, provide the most accurate and concise answer.",
+      "For each question, provide an answer that is relevant and accurate.",
+      "For each question, provide a brief and accurate answer."
+    ],
+    "sentence_similarity": [
+      "The instruction was to determine if the two sentences in each pair are describing the same event or situation. The answers indicate the level of similarity between the two sentences, with \"probably not\" meaning there is a low similarity, \"almost perfectly\" meaning there is a high similarity, and \"definitely not\" meaning there is no similarity between the two sentences.",
+      "The instruction was to determine the similarity between the two sentences in each input-output pair and provide a response based on the level of similarity. The responses given by the friend indicate the level of similarity between the two sentences in each pair: \"almost perfectly\" for high similarity, \"possibly\" for moderate similarity, \"probably not\" for low similarity, and \"probably\" for some similarity.",
+      "The instruction was to determine the similarity between the two sentences in each input-output pair. The friend's output for each pair indicates the level of similarity between the sentences, with \"almost perfectly\" meaning very similar, \"possibly\" meaning somewhat similar, and \"not at all\" meaning not similar.",
+      "The instruction was to determine the similarity between the two sentences in each pair, and provide an output based on the level of similarity. The output options were: \"definitely not,\" \"possibly,\" \"almost perfectly,\" and \"perfectly.\"",
+      "The instruction was to determine if the two sentences in each pair are related or not. The friend's answers indicate that the first two pairs of sentences are possibly related, the third pair is possibly related, and the fourth pair is definitely not related."
+    ],
+    "sum": [
+      "The instruction was: \"Add the two numbers together and find the sum.\"",
+      "The instruction was: \"Add the two numbers together to find the output.\"",
+      "The instruction was: Add the two numbers together to get the output.",
+      "The instruction was: Add the two numbers together and find the sum."
+    ],
+    "translation_en-es": [
+      "The instruction was to provide a translation for each input word in Spanish.",
+      "The instruction was to provide translations of the given words into Spanish.",
+      "The instruction was to provide a translation or synonym for the given input word in Spanish.",
+      "The instruction was to provide the Spanish translation for each given English word.",
+      "The instruction was to provide the Spanish translation for each of the given English words."
+    ],
+    "translation_en-fr": [
+      "The instruction was: \"For each input, provide a French translation or related word.\"",
+      "The instruction was to provide the French translation for each given English word.",
+      "The instruction was to provide the French translation or related words for the given English words.",
+      "The instruction was: \"For each input, provide a French translation or a related word or phrase.\""
+    ],
+    "letters_list": [
+      "The instruction was: \"For each given word, write the letters in alphabetical order.\"",
+      "The instruction was: \"Write each word with spaces between each letter.\"",
+      "The instruction was: \"Write each word in lowercase letters, separated by a space.\"",
+      "The instruction was to write each word in lowercase letters, separated by spaces."
+    ],
+    "cosmos_qa": [
+      "For each input, provide an output that summarizes the main idea or answer to the question.",
+      "For each input, provide an output that answers the question or explains the context. Keep your answers concise and polite.",
+      "For each input, provide a brief and polite response that answers the question or addresses the context.",
+      "For each input, provide a short and concise answer to the question."
+    ],
+    "anli": [
+      "For each premise, determine if the hypothesis is entailed, neutral, or contradicted by the premise.",
+      "For each of the following questions, determine if the hypothesis is entailed, contradicted, or neutral with respect to the premise.\n\nEntail: The hypothesis is a logical consequence of the premise.\nContradict: The hypothesis is in direct conflict with the premise.\nNeutral: The hypothesis is neither entailed nor contradicted by the premise.",
+      "For each question, determine if the hypothesis is entailed, neutral, or contradicted by the premise.\n\nEntail: The hypothesis is a logical consequence of the premise.\nNeutral: The hypothesis is neither supported nor contradicted by the premise.\nContradict: The hypothesis is incompatible with the premise.",
+      "For each input-output pair, determine if the hypothesis is entailed, contradicts, or is neutral to the premise.",
+      "For each premise, determine if the hypothesis is entailed, neutral, or contradicts the premise."
+    ],
+    "antonyms": [
+      "The instruction was to provide an antonym for each given input.",
+      "The instruction was: \"Provide the antonym for the given word.\"",
+      "The instruction was: \"For each input, provide an output that is the opposite or antonym of the input.\"",
+      "The instruction was to provide an antonym for each given word."
+    ],
+    "num_to_verbal": [
+      "The instruction was: \"For each given number, write it out in words.\"",
+      "The instruction was to write the given number in words.",
+      "The instruction was to write the given numbers in words."
+    ],
+    "sentiment": [
+      "The instruction was to determine whether the given statement has a positive, negative, or neutral sentiment.",
+      "The instruction was to determine whether the given statement was positive or negative.",
+      "The instruction was to determine whether the given statement is positive or negative.",
+      "The instruction was to determine if the given statement is positive or negative. The friend's output for each input was \"negative,\" indicating that they interpreted all the statements as having a negative connotation."
+    ],
+    "boolq": [
+      "For each input-output pair, determine if the output is true or false based on the information provided in the passage.",
+      "For each passage, determine if the statement in the question is true or false based on the information provided in the passage.",
+      "For each passage, read the passage and the question, and determine if the answer to the question is True or False based on the information provided in the passage.",
+      "Read the passage and answer the question with either \"True\" or \"False\".",
+      "Read the passage and answer the question with either True or False."
+    ],
+    "nq_open": [
+      "The instruction was to provide the original artist or creator, the title of the episode or event, or the source of the information for each input question.",
+      "The instruction was to provide an answer to each question given as an input. The friend followed the instruction and provided an answer for each question, resulting in the input-output pairs you have shared.",
+      "The instruction was likely to provide accurate and informative answers to the given questions.",
+      "The instruction was to provide answers to the given questions.",
+      "The instruction was to provide an answer to each given question."
+    ]
+  }
+}

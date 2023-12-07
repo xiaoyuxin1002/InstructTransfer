@@ -1,0 +1,1347 @@
+{
+  "train": [
+    {
+      "question": "strip",
+      "answer": [
+        "faire un striptease",
+        "strip",
+        "se d\u00e9shabiller",
+        "bande",
+        "enlever"
+      ]
+    },
+    {
+      "question": "deficit",
+      "answer": [
+        "d\u00e9ficit",
+        "d\u00e9ficit budg\u00e9taire"
+      ]
+    },
+    {
+      "question": "cloud",
+      "answer": [
+        "s'obscurcir",
+        "nuage"
+      ]
+    },
+    {
+      "question": "mail",
+      "answer": [
+        "poste",
+        "courrier",
+        "mail",
+        "courrier \u00e9lectronique",
+        "courriel",
+        "e-mail"
+      ]
+    },
+    {
+      "question": "mercury",
+      "answer": [
+        "mercure"
+      ]
+    },
+    {
+      "question": "vicinity",
+      "answer": [
+        "environs",
+        "vicinit\u00e9",
+        "voisinage"
+      ]
+    },
+    {
+      "question": "approval",
+      "answer": [
+        "agr\u00e9ment",
+        "approbation"
+      ]
+    },
+    {
+      "question": "confluence",
+      "answer": [
+        "confluent",
+        "confluence",
+        "convergence"
+      ]
+    },
+    {
+      "question": "address",
+      "answer": [
+        "adresse",
+        "habilet\u00e9",
+        "discours"
+      ]
+    },
+    {
+      "question": "abuse",
+      "answer": [
+        "viol",
+        "abuser",
+        "abus"
+      ]
+    },
+    {
+      "question": "candidate",
+      "answer": [
+        "candidate",
+        "candidat"
+      ]
+    },
+    {
+      "question": "prejudice",
+      "answer": [
+        "pr\u00e9judice",
+        "id\u00e9e pr\u00e9con\u00e7ue",
+        "pr\u00e9jug\u00e9"
+      ]
+    },
+    {
+      "question": "mechanism",
+      "answer": [
+        "mechanisme",
+        "m\u00e9canisme"
+      ]
+    },
+    {
+      "question": "construction",
+      "answer": [
+        "construction"
+      ]
+    },
+    {
+      "question": "union",
+      "answer": [
+        "r\u00e9union",
+        "union"
+      ]
+    },
+    {
+      "question": "feminism",
+      "answer": [
+        "f\u00e9minisme"
+      ]
+    },
+    {
+      "question": "parachute",
+      "answer": [
+        "parachute",
+        "parachuter"
+      ]
+    },
+    {
+      "question": "appointment",
+      "answer": [
+        "rendez-vous",
+        "nomination",
+        "rencard"
+      ]
+    },
+    {
+      "question": "ballad",
+      "answer": [
+        "ballade"
+      ]
+    },
+    {
+      "question": "participation",
+      "answer": [
+        "participation"
+      ]
+    },
+    {
+      "question": "spot",
+      "answer": [
+        "bouton",
+        "s'apercevoir",
+        "tacher",
+        "endroit",
+        "tache",
+        "d\u00e9tecter",
+        "d\u00e9tacher",
+        "rep\u00e9rer",
+        "peu",
+        "trouver"
+      ]
+    },
+    {
+      "question": "grass",
+      "answer": [
+        "balance",
+        "gazon",
+        "moucharder",
+        "pelouse",
+        "beuh",
+        "herbe"
+      ]
+    },
+    {
+      "question": "turnpike",
+      "answer": [
+        "route \u00e0 p\u00e9age"
+      ]
+    },
+    {
+      "question": "whistle",
+      "answer": [
+        "sifflements",
+        "sifflement",
+        "sifflet",
+        "siffler"
+      ]
+    },
+    {
+      "question": "wheelchair",
+      "answer": [
+        "chaise roulante",
+        "fauteuil roulant"
+      ]
+    },
+    {
+      "question": "violence",
+      "answer": [
+        "violence"
+      ]
+    },
+    {
+      "question": "deposit",
+      "answer": [
+        "arrhes",
+        "gisement",
+        "d\u00e9poser",
+        "caution",
+        "acompte",
+        "d\u00e9p\u00f4t"
+      ]
+    },
+    {
+      "question": "walk",
+      "answer": [
+        "parcourir",
+        "battre",
+        "ficher le camp",
+        "se barrer",
+        "se casser",
+        "balade",
+        "faire \u00e0 pied",
+        "raccompagner",
+        "se tirer",
+        "marcher",
+        "d\u00e9marche",
+        "all\u00e9e",
+        "marche",
+        "promenade",
+        "accompagner",
+        "promener",
+        "s'envoler",
+        "se promener",
+        "but-sur-balles"
+      ]
+    },
+    {
+      "question": "verse",
+      "answer": [
+        "verset",
+        "vers",
+        "couplet"
+      ]
+    },
+    {
+      "question": "sale",
+      "answer": [
+        "vente",
+        "soldes",
+        "liquidation"
+      ]
+    },
+    {
+      "question": "home",
+      "answer": [
+        "patrie",
+        "maison",
+        "\u00e0 la maison"
+      ]
+    },
+    {
+      "question": "patrol",
+      "answer": [
+        "patrouille"
+      ]
+    },
+    {
+      "question": "cheese",
+      "answer": [
+        "ouistiti",
+        "fromage",
+        "fric"
+      ]
+    },
+    {
+      "question": "communist",
+      "answer": [
+        "communiste"
+      ]
+    },
+    {
+      "question": "pig",
+      "answer": [
+        "salaud",
+        "flic",
+        "pourceau",
+        "keuf",
+        "cochon",
+        "porc"
+      ]
+    },
+    {
+      "question": "gut",
+      "answer": [
+        "visc\u00e9ral",
+        "consistence f sg",
+        "cordes de boyau",
+        "vider de sa substance",
+        "couilles",
+        "cran m sg",
+        "boyaux",
+        "boyau",
+        "panse",
+        "vider",
+        "\u00e9visc\u00e9rer",
+        "bedaine",
+        "d\u00e9labrer",
+        "en boyau",
+        "intestin",
+        "bide"
+      ]
+    },
+    {
+      "question": "bombardment",
+      "answer": [
+        "bombardement"
+      ]
+    },
+    {
+      "question": "charge",
+      "answer": [
+        "frais",
+        "cr\u00e9diter",
+        "armer",
+        "s'\u00e9lancer",
+        "accuser",
+        "charge",
+        "charger",
+        "inculpation"
+      ]
+    },
+    {
+      "question": "bed",
+      "answer": [
+        "lit"
+      ]
+    },
+    {
+      "question": "compound",
+      "answer": [
+        "compos\u00e9",
+        "compos\u00e9 chimique",
+        "complexe",
+        "composer"
+      ]
+    },
+    {
+      "question": "contributor",
+      "answer": [
+        "soumissionnaire",
+        "contributeur"
+      ]
+    },
+    {
+      "question": "claim",
+      "answer": [
+        "r\u00e9clamation",
+        "revendiquer",
+        "affirmation",
+        "revendication",
+        "demande"
+      ]
+    },
+    {
+      "question": "formula",
+      "answer": [
+        "formule"
+      ]
+    },
+    {
+      "question": "synthesis",
+      "answer": [
+        "synth\u00e8se"
+      ]
+    },
+    {
+      "question": "depression",
+      "answer": [
+        "d\u00e9pression"
+      ]
+    },
+    {
+      "question": "encounter",
+      "answer": [
+        "rencontrer",
+        "rencontre"
+      ]
+    },
+    {
+      "question": "time",
+      "answer": [
+        "chronom\u00e9trer",
+        "heure",
+        "heure du jour",
+        "fois",
+        "peine",
+        "temps"
+      ]
+    },
+    {
+      "question": "voyage",
+      "answer": [
+        "voyage"
+      ]
+    },
+    {
+      "question": "insect",
+      "answer": [
+        "insecte"
+      ]
+    },
+    {
+      "question": "taxi",
+      "answer": [
+        "taxi"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "efficiency",
+      "answer": [
+        "rendement"
+      ]
+    },
+    {
+      "question": "track",
+      "answer": [
+        "voie",
+        "piste",
+        "sillon",
+        "chemin",
+        "marque",
+        "trace",
+        "sentier",
+        "route",
+        "empreinte"
+      ]
+    },
+    {
+      "question": "dictator",
+      "answer": [
+        "dictateur"
+      ]
+    },
+    {
+      "question": "architect",
+      "answer": [
+        "architecturer",
+        "architecte"
+      ]
+    },
+    {
+      "question": "sociology",
+      "answer": [
+        "sociologie"
+      ]
+    },
+    {
+      "question": "autumn",
+      "answer": [
+        "automne"
+      ]
+    },
+    {
+      "question": "season",
+      "answer": [
+        "saison",
+        "\u00e9picer",
+        "temps",
+        "assaisonner"
+      ]
+    },
+    {
+      "question": "lesson",
+      "answer": [
+        "le\u00e7on",
+        "devoirs"
+      ]
+    },
+    {
+      "question": "canvas",
+      "answer": [
+        "toiler",
+        "toile",
+        "entoiler"
+      ]
+    },
+    {
+      "question": "dish",
+      "answer": [
+        "parabole",
+        "vaisselle",
+        "canon",
+        "plat",
+        "assiette"
+      ]
+    },
+    {
+      "question": "leak",
+      "answer": [
+        "fuir",
+        "fuite",
+        "taupe",
+        "voie d'eau"
+      ]
+    },
+    {
+      "question": "chemical",
+      "answer": [
+        "chimique",
+        "produit chimique"
+      ]
+    },
+    {
+      "question": "city",
+      "answer": [
+        "ville",
+        "cit\u00e9"
+      ]
+    },
+    {
+      "question": "rail",
+      "answer": [
+        "rails",
+        "rail",
+        "r\u00e2le"
+      ]
+    },
+    {
+      "question": "pot",
+      "answer": [
+        "marie-jeanne",
+        "chaudron",
+        "beuh",
+        "zamal",
+        "marmite",
+        "herbe",
+        "pot",
+        "beu",
+        "mari"
+      ]
+    },
+    {
+      "question": "tuberculosis",
+      "answer": [
+        "tuberculose"
+      ]
+    },
+    {
+      "question": "discourse",
+      "answer": [
+        "conversation",
+        "expos\u00e9",
+        "discussion",
+        "discours"
+      ]
+    },
+    {
+      "question": "ancestry",
+      "answer": [
+        "ascendance"
+      ]
+    },
+    {
+      "question": "unit",
+      "answer": [
+        "unit\u00e9"
+      ]
+    },
+    {
+      "question": "pet",
+      "answer": [
+        "se peloter",
+        "chouchou",
+        "caresser",
+        "peloter",
+        "animal de compagnie",
+        "animal familier"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "draught",
+      "answer": [
+        "courant d'air",
+        "gorg\u00e9e",
+        "\u00e0 la pression"
+      ]
+    },
+    {
+      "question": "dance",
+      "answer": [
+        "danse",
+        "danser"
+      ]
+    },
+    {
+      "question": "superhero",
+      "answer": [
+        "super-h\u00e9ros"
+      ]
+    },
+    {
+      "question": "energy",
+      "answer": [
+        "courage",
+        "\u00e9nergie"
+      ]
+    },
+    {
+      "question": "commissioner",
+      "answer": [
+        "commissaire"
+      ]
+    },
+    {
+      "question": "impedance",
+      "answer": [
+        "imp\u00e9dance"
+      ]
+    },
+    {
+      "question": "resignation",
+      "answer": [
+        "d\u00e9mission",
+        "r\u00e9signation"
+      ]
+    },
+    {
+      "question": "east",
+      "answer": [
+        "oriental",
+        "orientale",
+        "de l'est",
+        "vers l 'est",
+        "est",
+        "\u00e0 l'est"
+      ]
+    },
+    {
+      "question": "loss",
+      "answer": [
+        "d\u00e9faite",
+        "perte"
+      ]
+    },
+    {
+      "question": "invention",
+      "answer": [
+        "invention"
+      ]
+    },
+    {
+      "question": "custom",
+      "answer": [
+        "droit de douane",
+        "us",
+        "coutume",
+        "connaissance"
+      ]
+    },
+    {
+      "question": "praise",
+      "answer": [
+        "louer",
+        "f\u00e9liciter",
+        "louange",
+        "pr\u00f4ner"
+      ]
+    },
+    {
+      "question": "elevation",
+      "answer": [
+        "\u00e9l\u00e9vation"
+      ]
+    },
+    {
+      "question": "market",
+      "answer": [
+        "commercialiser",
+        "du march\u00e9",
+        "march\u00e9"
+      ]
+    },
+    {
+      "question": "atmosphere",
+      "answer": [
+        "atmosph\u00e8re",
+        "ambiance"
+      ]
+    },
+    {
+      "question": "dealer",
+      "answer": [
+        "dealer"
+      ]
+    },
+    {
+      "question": "title",
+      "answer": [
+        "titre",
+        "intitul\u00e9"
+      ]
+    },
+    {
+      "question": "holiday",
+      "answer": [
+        "vacances",
+        "f\u00eate",
+        "vacance",
+        "jour f\u00e9ri\u00e9",
+        "cong\u00e9"
+      ]
+    },
+    {
+      "question": "place",
+      "answer": [
+        "place",
+        "se placer",
+        "endroit",
+        "poser",
+        "faire",
+        "arriver",
+        "lieu",
+        "mettre",
+        "placer"
+      ]
+    },
+    {
+      "question": "peak",
+      "answer": [
+        "cime"
+      ]
+    },
+    {
+      "question": "denial",
+      "answer": [
+        "d\u00e9ni",
+        "refus",
+        "d\u00e9n\u00e9gation",
+        "n\u00e9gation"
+      ]
+    },
+    {
+      "question": "modeling",
+      "answer": [
+        "mannequinat",
+        "mod\u00e9lisation",
+        "modelage"
+      ]
+    },
+    {
+      "question": "sculpture",
+      "answer": [
+        "sculpture"
+      ]
+    },
+    {
+      "question": "acceptance",
+      "answer": [
+        "acceptation"
+      ]
+    },
+    {
+      "question": "gasoline",
+      "answer": [
+        "essence",
+        "gas"
+      ]
+    },
+    {
+      "question": "venom",
+      "answer": [
+        "venin"
+      ]
+    },
+    {
+      "question": "jury",
+      "answer": [
+        "jury"
+      ]
+    },
+    {
+      "question": "pastor",
+      "answer": [
+        "pasteur"
+      ]
+    },
+    {
+      "question": "visitor",
+      "answer": [
+        "visiteur",
+        "invit\u00e9e",
+        "invit\u00e9",
+        "visiteuse"
+      ]
+    },
+    {
+      "question": "friendship",
+      "answer": [
+        "amiti\u00e9"
+      ]
+    },
+    {
+      "question": "family",
+      "answer": [
+        "famille"
+      ]
+    },
+    {
+      "question": "victory",
+      "answer": [
+        "victoire"
+      ]
+    },
+    {
+      "question": "prostitute",
+      "answer": [
+        "prostitu\u00e9e",
+        "se prostituer",
+        "fille des rues",
+        "fille de joie",
+        "prostitu\u00e9"
+      ]
+    },
+    {
+      "question": "crowd",
+      "answer": [
+        "foule",
+        "monceau"
+      ]
+    },
+    {
+      "question": "circulation",
+      "answer": [
+        "circulation"
+      ]
+    },
+    {
+      "question": "striker",
+      "answer": [
+        "gr\u00e9viste"
+      ]
+    },
+    {
+      "question": "rejection",
+      "answer": [
+        "refus",
+        "rejet"
+      ]
+    },
+    {
+      "question": "aircraft",
+      "answer": [
+        "a\u00e9ronef"
+      ]
+    },
+    {
+      "question": "campus",
+      "answer": [
+        "campus"
+      ]
+    },
+    {
+      "question": "snake",
+      "answer": [
+        "serpenter",
+        "serpent",
+        "furet"
+      ]
+    },
+    {
+      "question": "surprise",
+      "answer": [
+        "\u00e9tonner",
+        "surprendre",
+        "surprise"
+      ]
+    },
+    {
+      "question": "superintendent",
+      "answer": [
+        "surintendant"
+      ]
+    },
+    {
+      "question": "knowledge",
+      "answer": [
+        "science",
+        "savoir",
+        "connaissances",
+        "connaissance"
+      ]
+    },
+    {
+      "question": "boxing",
+      "answer": [
+        "boxe"
+      ]
+    },
+    {
+      "question": "repetition",
+      "answer": [
+        "r\u00e9p\u00e9tition"
+      ]
+    },
+    {
+      "question": "photograph",
+      "answer": [
+        "photo",
+        "photographier",
+        "photographie"
+      ]
+    },
+    {
+      "question": "fluoride",
+      "answer": [
+        "fluorure"
+      ]
+    },
+    {
+      "question": "documentation",
+      "answer": [
+        "documentation"
+      ]
+    },
+    {
+      "question": "tributary",
+      "answer": [
+        "affluent"
+      ]
+    },
+    {
+      "question": "cover",
+      "answer": [
+        "reprendre",
+        "couvercle",
+        "couvrir",
+        "couvert",
+        "couverture"
+      ]
+    },
+    {
+      "question": "camp",
+      "answer": [
+        "bivouaquer",
+        "camp",
+        "camper"
+      ]
+    },
+    {
+      "question": "wing",
+      "answer": [
+        "aile",
+        "ailier"
+      ]
+    },
+    {
+      "question": "idea",
+      "answer": [
+        "id\u00e9e",
+        "pens\u00e9e"
+      ]
+    },
+    {
+      "question": "county",
+      "answer": [
+        "d\u00e9partement",
+        "comt\u00e9"
+      ]
+    },
+    {
+      "question": "crack",
+      "answer": [
+        "crack",
+        "casser",
+        "craquer",
+        "fissure",
+        "craquement",
+        "plaisanterie"
+      ]
+    },
+    {
+      "question": "genius",
+      "answer": [
+        "g\u00e9nie"
+      ]
+    },
+    {
+      "question": "point",
+      "answer": [
+        "case",
+        "opinion",
+        "avis",
+        "indiquer",
+        "aiguille",
+        "aiguillage",
+        "point",
+        "instant",
+        "pointe",
+        "prise",
+        "moment",
+        "p\u00e9ninsule",
+        "but",
+        "fl\u00e8che",
+        "dixi\u00e8me",
+        "pointer",
+        "prise \u00e9lectrique",
+        "point de vue",
+        "objectif",
+        "virgule"
+      ]
+    },
+    {
+      "question": "upgrade",
+      "answer": [
+        "mise \u00e0 niveau"
+      ]
+    },
+    {
+      "question": "flu",
+      "answer": [
+        "grippe"
+      ]
+    },
+    {
+      "question": "zoo",
+      "answer": [
+        "zoo"
+      ]
+    },
+    {
+      "question": "attribute",
+      "answer": [
+        "depending on which class it belongs",
+        "attribuer",
+        "\u00e9pith\u00e8te or d\u00e9terminant",
+        "attribut"
+      ]
+    },
+    {
+      "question": "sermon",
+      "answer": [
+        "pr\u00eache",
+        "sermon"
+      ]
+    },
+    {
+      "question": "self",
+      "answer": [
+        "soi-m\u00eame"
+      ]
+    },
+    {
+      "question": "switch",
+      "answer": [
+        "badine",
+        "commuter",
+        "\u00e9changer",
+        "fouetter",
+        "interrupteur",
+        "changer",
+        "commutateur"
+      ]
+    },
+    {
+      "question": "party",
+      "answer": [
+        "d\u00e9tachement",
+        "partie",
+        "participant",
+        "parti",
+        "veiller",
+        "f\u00eater"
+      ]
+    },
+    {
+      "question": "footballer",
+      "answer": [
+        "footballeuse",
+        "footballeur"
+      ]
+    },
+    {
+      "question": "touch",
+      "answer": [
+        "toucher"
+      ]
+    },
+    {
+      "question": "profession",
+      "answer": [
+        "profession"
+      ]
+    },
+    {
+      "question": "dialogue",
+      "answer": [
+        "dialoguer",
+        "conversation",
+        "dialogue"
+      ]
+    },
+    {
+      "question": "list",
+      "answer": [
+        "liste",
+        "lister"
+      ]
+    },
+    {
+      "question": "entry",
+      "answer": [
+        "coefficient",
+        "article",
+        "entr\u00e9e",
+        "acc\u00e8s",
+        "vestibule",
+        "enregistrement",
+        "rubrique",
+        "\u00e9l\u00e9ment"
+      ]
+    },
+    {
+      "question": "disruption",
+      "answer": [
+        "perturbation",
+        "interruption"
+      ]
+    },
+    {
+      "question": "essence",
+      "answer": [
+        "essence"
+      ]
+    },
+    {
+      "question": "pollen",
+      "answer": [
+        "pollen"
+      ]
+    },
+    {
+      "question": "foliage",
+      "answer": [
+        "feuillage"
+      ]
+    },
+    {
+      "question": "split",
+      "answer": [
+        "diviser",
+        "r\u00e9partir",
+        "fendre",
+        "s\u00e9parer",
+        "scinder",
+        "grand \u00e9cart ; to do the splits: faire le grand \u00e9cart"
+      ]
+    },
+    {
+      "question": "lot",
+      "answer": [
+        "groupe",
+        "bande",
+        "ensemble",
+        "destin"
+      ]
+    },
+    {
+      "question": "reflection",
+      "answer": [
+        "r\u00e9flexion",
+        "reflet"
+      ]
+    },
+    {
+      "question": "leg",
+      "answer": [
+        "jambe"
+      ]
+    },
+    {
+      "question": "statement",
+      "answer": [
+        "d\u00e9claration",
+        "instruction",
+        "relev\u00e9"
+      ]
+    },
+    {
+      "question": "length",
+      "answer": [
+        "longueur"
+      ]
+    },
+    {
+      "question": "puzzle",
+      "answer": [
+        "puzzle",
+        "rendre perplexe",
+        "devinette",
+        "myst\u00e8re",
+        "\u00e9nigme",
+        "casse-t\u00eate",
+        "jeu de patience"
+      ]
+    },
+    {
+      "question": "leadership",
+      "answer": [
+        "charisme",
+        "leadership",
+        "autorit\u00e9"
+      ]
+    },
+    {
+      "question": "uncle",
+      "answer": [
+        "tonton",
+        "oncle"
+      ]
+    },
+    {
+      "question": "quality",
+      "answer": [
+        "qualit\u00e9",
+        "de qualit\u00e9"
+      ]
+    },
+    {
+      "question": "delivery",
+      "answer": [
+        "administration",
+        "naissance",
+        "parturition",
+        "accouchement",
+        "livraison"
+      ]
+    },
+    {
+      "question": "broadcast",
+      "answer": [
+        "radiodiffuser",
+        "\u00e9mission",
+        "diffuser"
+      ]
+    },
+    {
+      "question": "worship",
+      "answer": [
+        "adorer",
+        "v\u00e9n\u00e9rer",
+        "culte",
+        "adoration",
+        "v\u00e9n\u00e9ration"
+      ]
+    },
+    {
+      "question": "overhaul",
+      "answer": [
+        "remise \u00e0 neuf"
+      ]
+    },
+    {
+      "question": "spite",
+      "answer": [
+        "d\u00e9pit",
+        "rancune"
+      ]
+    },
+    {
+      "question": "expert",
+      "answer": [
+        "expert"
+      ]
+    },
+    {
+      "question": "throne",
+      "answer": [
+        "tr\u00f4ne"
+      ]
+    },
+    {
+      "question": "trade",
+      "answer": [
+        "m\u00e9tier",
+        "\u00e9changer",
+        "commerce"
+      ]
+    },
+    {
+      "question": "dimension",
+      "answer": [
+        "dimensionner",
+        "dimension"
+      ]
+    },
+    {
+      "question": "triumph",
+      "answer": [
+        "triomphe",
+        "triompher"
+      ]
+    },
+    {
+      "question": "resentment",
+      "answer": [
+        "agacement",
+        "rancune",
+        "ressentiment"
+      ]
+    },
+    {
+      "question": "hosting",
+      "answer": [
+        "h\u00e9bergement"
+      ]
+    },
+    {
+      "question": "punishment",
+      "answer": [
+        "punition",
+        "ch\u00e2timent"
+      ]
+    },
+    {
+      "question": "torture",
+      "answer": [
+        "torture",
+        "torturer"
+      ]
+    },
+    {
+      "question": "agency",
+      "answer": [
+        "organisme",
+        "action",
+        "agence"
+      ]
+    }
+  ]
+}

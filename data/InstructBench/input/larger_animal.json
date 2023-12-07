@@ -1,0 +1,1368 @@
+{
+  "train": [
+    {
+      "question": "wombat, rat",
+      "answer": 0,
+      "option": [
+        "wombat",
+        "rat"
+      ]
+    },
+    {
+      "question": "donkey, lobster",
+      "answer": 0,
+      "option": [
+        "donkey",
+        "lobster"
+      ]
+    },
+    {
+      "question": "pug, bear",
+      "answer": 1,
+      "option": [
+        "pug",
+        "bear"
+      ]
+    },
+    {
+      "question": "rat, horse",
+      "answer": 1,
+      "option": [
+        "rat",
+        "horse"
+      ]
+    },
+    {
+      "question": "parrot, tortoise",
+      "answer": 1,
+      "option": [
+        "parrot",
+        "tortoise"
+      ]
+    },
+    {
+      "question": "cockapoo, goldfish",
+      "answer": 0,
+      "option": [
+        "cockapoo",
+        "goldfish"
+      ]
+    },
+    {
+      "question": "shark, toy poodle",
+      "answer": 0,
+      "option": [
+        "shark",
+        "toy poodle"
+      ]
+    },
+    {
+      "question": "chimpanzee, koala",
+      "answer": 0,
+      "option": [
+        "chimpanzee",
+        "koala"
+      ]
+    },
+    {
+      "question": "sperm whale, chinook",
+      "answer": 0,
+      "option": [
+        "sperm whale",
+        "chinook"
+      ]
+    },
+    {
+      "question": "wombat, beagle",
+      "answer": 0,
+      "option": [
+        "wombat",
+        "beagle"
+      ]
+    },
+    {
+      "question": "snail, great white shark",
+      "answer": 1,
+      "option": [
+        "snail",
+        "great white shark"
+      ]
+    },
+    {
+      "question": "pony, spider",
+      "answer": 0,
+      "option": [
+        "pony",
+        "spider"
+      ]
+    },
+    {
+      "question": "wombat, toy poodle",
+      "answer": 0,
+      "option": [
+        "wombat",
+        "toy poodle"
+      ]
+    },
+    {
+      "question": "manatee, sheltie",
+      "answer": 0,
+      "option": [
+        "manatee",
+        "sheltie"
+      ]
+    },
+    {
+      "question": "dog, cattle",
+      "answer": 1,
+      "option": [
+        "dog",
+        "cattle"
+      ]
+    },
+    {
+      "question": "chimpanzee, coyote",
+      "answer": 0,
+      "option": [
+        "chimpanzee",
+        "coyote"
+      ]
+    },
+    {
+      "question": "great white shark, chipmunk",
+      "answer": 0,
+      "option": [
+        "great white shark",
+        "chipmunk"
+      ]
+    },
+    {
+      "question": "dachshund, boxer",
+      "answer": 1,
+      "option": [
+        "dachshund",
+        "boxer"
+      ]
+    },
+    {
+      "question": "human, koi",
+      "answer": 0,
+      "option": [
+        "human",
+        "koi"
+      ]
+    },
+    {
+      "question": "butterfly, leopard",
+      "answer": 1,
+      "option": [
+        "butterfly",
+        "leopard"
+      ]
+    },
+    {
+      "question": "chihuahua, horse",
+      "answer": 1,
+      "option": [
+        "chihuahua",
+        "horse"
+      ]
+    },
+    {
+      "question": "bat, chinook",
+      "answer": 1,
+      "option": [
+        "bat",
+        "chinook"
+      ]
+    },
+    {
+      "question": "greyhound, poodle",
+      "answer": 0,
+      "option": [
+        "greyhound",
+        "poodle"
+      ]
+    },
+    {
+      "question": "chihuahua, cheetah",
+      "answer": 1,
+      "option": [
+        "chihuahua",
+        "cheetah"
+      ]
+    },
+    {
+      "question": "chamois, parrot",
+      "answer": 0,
+      "option": [
+        "chamois",
+        "parrot"
+      ]
+    },
+    {
+      "question": "tuna, dog",
+      "answer": 0,
+      "option": [
+        "tuna",
+        "dog"
+      ]
+    },
+    {
+      "question": "alpaca, labradoodle",
+      "answer": 0,
+      "option": [
+        "alpaca",
+        "labradoodle"
+      ]
+    },
+    {
+      "question": "turtle, flea",
+      "answer": 0,
+      "option": [
+        "turtle",
+        "flea"
+      ]
+    },
+    {
+      "question": "bear, rat terrier",
+      "answer": 0,
+      "option": [
+        "bear",
+        "rat terrier"
+      ]
+    },
+    {
+      "question": "gorilla, dog",
+      "answer": 0,
+      "option": [
+        "gorilla",
+        "dog"
+      ]
+    },
+    {
+      "question": "spider, labradoodle",
+      "answer": 1,
+      "option": [
+        "spider",
+        "labradoodle"
+      ]
+    },
+    {
+      "question": "raccoon, whale shark",
+      "answer": 1,
+      "option": [
+        "raccoon",
+        "whale shark"
+      ]
+    },
+    {
+      "question": "dog, boxer",
+      "answer": 1,
+      "option": [
+        "dog",
+        "boxer"
+      ]
+    },
+    {
+      "question": "chimpanzee, beagle",
+      "answer": 0,
+      "option": [
+        "chimpanzee",
+        "beagle"
+      ]
+    },
+    {
+      "question": "elephant, pelican",
+      "answer": 0,
+      "option": [
+        "elephant",
+        "pelican"
+      ]
+    },
+    {
+      "question": "coyote, donkey",
+      "answer": 1,
+      "option": [
+        "coyote",
+        "donkey"
+      ]
+    },
+    {
+      "question": "human, ferret",
+      "answer": 0,
+      "option": [
+        "human",
+        "ferret"
+      ]
+    },
+    {
+      "question": "collie, flea",
+      "answer": 0,
+      "option": [
+        "collie",
+        "flea"
+      ]
+    },
+    {
+      "question": "capybara, flea",
+      "answer": 0,
+      "option": [
+        "capybara",
+        "flea"
+      ]
+    },
+    {
+      "question": "boxer, swallow",
+      "answer": 0,
+      "option": [
+        "boxer",
+        "swallow"
+      ]
+    },
+    {
+      "question": "sheltie, chihuahua",
+      "answer": 0,
+      "option": [
+        "sheltie",
+        "chihuahua"
+      ]
+    },
+    {
+      "question": "sheltie, turtle",
+      "answer": 1,
+      "option": [
+        "sheltie",
+        "turtle"
+      ]
+    },
+    {
+      "question": "bulldog, parrot",
+      "answer": 0,
+      "option": [
+        "bulldog",
+        "parrot"
+      ]
+    },
+    {
+      "question": "killer whale, octopus",
+      "answer": 0,
+      "option": [
+        "killer whale",
+        "octopus"
+      ]
+    },
+    {
+      "question": "beagle, lion",
+      "answer": 1,
+      "option": [
+        "beagle",
+        "lion"
+      ]
+    },
+    {
+      "question": "rat, cheetah",
+      "answer": 1,
+      "option": [
+        "rat",
+        "cheetah"
+      ]
+    },
+    {
+      "question": "elk, bee",
+      "answer": 0,
+      "option": [
+        "elk",
+        "bee"
+      ]
+    },
+    {
+      "question": "hummingbird, beagle",
+      "answer": 1,
+      "option": [
+        "hummingbird",
+        "beagle"
+      ]
+    },
+    {
+      "question": "octopus, largemouth bass",
+      "answer": 0,
+      "option": [
+        "octopus",
+        "largemouth bass"
+      ]
+    },
+    {
+      "question": "sheltie, deer",
+      "answer": 1,
+      "option": [
+        "sheltie",
+        "deer"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "labradoodle, gorilla",
+      "answer": 1,
+      "option": [
+        "labradoodle",
+        "gorilla"
+      ]
+    },
+    {
+      "question": "beagle, manatee",
+      "answer": 1,
+      "option": [
+        "beagle",
+        "manatee"
+      ]
+    },
+    {
+      "question": "goldfish, lion",
+      "answer": 1,
+      "option": [
+        "goldfish",
+        "lion"
+      ]
+    },
+    {
+      "question": "donkey, bear",
+      "answer": 1,
+      "option": [
+        "donkey",
+        "bear"
+      ]
+    },
+    {
+      "question": "chinook, camel",
+      "answer": 1,
+      "option": [
+        "chinook",
+        "camel"
+      ]
+    },
+    {
+      "question": "sturgeon, ferret",
+      "answer": 0,
+      "option": [
+        "sturgeon",
+        "ferret"
+      ]
+    },
+    {
+      "question": "hummingbird, chimpanzee",
+      "answer": 1,
+      "option": [
+        "hummingbird",
+        "chimpanzee"
+      ]
+    },
+    {
+      "question": "bull shark, dog",
+      "answer": 0,
+      "option": [
+        "bull shark",
+        "dog"
+      ]
+    },
+    {
+      "question": "pug, tuna",
+      "answer": 1,
+      "option": [
+        "pug",
+        "tuna"
+      ]
+    },
+    {
+      "question": "goldendoodle, greyhound",
+      "answer": 1,
+      "option": [
+        "goldendoodle",
+        "greyhound"
+      ]
+    },
+    {
+      "question": "cheetah, flea",
+      "answer": 0,
+      "option": [
+        "cheetah",
+        "flea"
+      ]
+    },
+    {
+      "question": "tortoise, spider",
+      "answer": 0,
+      "option": [
+        "tortoise",
+        "spider"
+      ]
+    },
+    {
+      "question": "koala, liger",
+      "answer": 1,
+      "option": [
+        "koala",
+        "liger"
+      ]
+    },
+    {
+      "question": "golden retriever, rat terrier",
+      "answer": 0,
+      "option": [
+        "golden retriever",
+        "rat terrier"
+      ]
+    },
+    {
+      "question": "rabbit, polar bear",
+      "answer": 1,
+      "option": [
+        "rabbit",
+        "polar bear"
+      ]
+    },
+    {
+      "question": "hummingbird, puppy",
+      "answer": 1,
+      "option": [
+        "hummingbird",
+        "puppy"
+      ]
+    },
+    {
+      "question": "pony, largemouth bass",
+      "answer": 0,
+      "option": [
+        "pony",
+        "largemouth bass"
+      ]
+    },
+    {
+      "question": "cat, chimpanzee",
+      "answer": 1,
+      "option": [
+        "cat",
+        "chimpanzee"
+      ]
+    },
+    {
+      "question": "human, goldfish",
+      "answer": 0,
+      "option": [
+        "human",
+        "goldfish"
+      ]
+    },
+    {
+      "question": "swallow, killer whale",
+      "answer": 1,
+      "option": [
+        "swallow",
+        "killer whale"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "ant, humpback whale",
+      "answer": 1,
+      "option": [
+        "ant",
+        "humpback whale"
+      ]
+    },
+    {
+      "question": "northern pike, walrus",
+      "answer": 1,
+      "option": [
+        "northern pike",
+        "walrus"
+      ]
+    },
+    {
+      "question": "bobcat, reindeer",
+      "answer": 1,
+      "option": [
+        "bobcat",
+        "reindeer"
+      ]
+    },
+    {
+      "question": "giant squid, baboons",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "baboons"
+      ]
+    },
+    {
+      "question": "salmon, pomeranian",
+      "answer": 0,
+      "option": [
+        "salmon",
+        "pomeranian"
+      ]
+    },
+    {
+      "question": "alligator, northern pike",
+      "answer": 0,
+      "option": [
+        "alligator",
+        "northern pike"
+      ]
+    },
+    {
+      "question": "penguin, humpback whale",
+      "answer": 1,
+      "option": [
+        "penguin",
+        "humpback whale"
+      ]
+    },
+    {
+      "question": "hamster, penguin",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "penguin"
+      ]
+    },
+    {
+      "question": "giant squid, owl",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "owl"
+      ]
+    },
+    {
+      "question": "hamster, bobcat",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "bobcat"
+      ]
+    },
+    {
+      "question": "hamster, alligator",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "alligator"
+      ]
+    },
+    {
+      "question": "giant squid, salmon",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "salmon"
+      ]
+    },
+    {
+      "question": "mirror carp, alligator",
+      "answer": 1,
+      "option": [
+        "mirror carp",
+        "alligator"
+      ]
+    },
+    {
+      "question": "hamster, brown bear",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "owl, german shepherd",
+      "answer": 1,
+      "option": [
+        "owl",
+        "german shepherd"
+      ]
+    },
+    {
+      "question": "pomeranian, brown bear",
+      "answer": 1,
+      "option": [
+        "pomeranian",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "ant, brown bear",
+      "answer": 1,
+      "option": [
+        "ant",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "baboons, alligator",
+      "answer": 1,
+      "option": [
+        "baboons",
+        "alligator"
+      ]
+    },
+    {
+      "question": "sheep, giant squid",
+      "answer": 1,
+      "option": [
+        "sheep",
+        "giant squid"
+      ]
+    },
+    {
+      "question": "hamster, salmon",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "salmon"
+      ]
+    },
+    {
+      "question": "ant, reindeer",
+      "answer": 1,
+      "option": [
+        "ant",
+        "reindeer"
+      ]
+    },
+    {
+      "question": "salmon, rottweiler",
+      "answer": 1,
+      "option": [
+        "salmon",
+        "rottweiler"
+      ]
+    },
+    {
+      "question": "alligator, shih tzu",
+      "answer": 0,
+      "option": [
+        "alligator",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "border collie, pomeranian",
+      "answer": 0,
+      "option": [
+        "border collie",
+        "pomeranian"
+      ]
+    },
+    {
+      "question": "german shepherd, ant",
+      "answer": 0,
+      "option": [
+        "german shepherd",
+        "ant"
+      ]
+    },
+    {
+      "question": "baboons, penguin",
+      "answer": 0,
+      "option": [
+        "baboons",
+        "penguin"
+      ]
+    },
+    {
+      "question": "mirror carp, walrus",
+      "answer": 1,
+      "option": [
+        "mirror carp",
+        "walrus"
+      ]
+    },
+    {
+      "question": "reindeer, baboons",
+      "answer": 0,
+      "option": [
+        "reindeer",
+        "baboons"
+      ]
+    },
+    {
+      "question": "blue whale, ant",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "ant"
+      ]
+    },
+    {
+      "question": "blue whale, cod",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "cod"
+      ]
+    },
+    {
+      "question": "anaconda, pomeranian",
+      "answer": 0,
+      "option": [
+        "anaconda",
+        "pomeranian"
+      ]
+    },
+    {
+      "question": "giant squid, border collie",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "border collie"
+      ]
+    },
+    {
+      "question": "northern pike, brown bear",
+      "answer": 1,
+      "option": [
+        "northern pike",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "pomeranian, owl",
+      "answer": 1,
+      "option": [
+        "pomeranian",
+        "owl"
+      ]
+    },
+    {
+      "question": "humpback whale, salmon",
+      "answer": 0,
+      "option": [
+        "humpback whale",
+        "salmon"
+      ]
+    },
+    {
+      "question": "hamster, owl",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "owl"
+      ]
+    },
+    {
+      "question": "border collie, penguin",
+      "answer": 0,
+      "option": [
+        "border collie",
+        "penguin"
+      ]
+    },
+    {
+      "question": "alligator, bobcat",
+      "answer": 0,
+      "option": [
+        "alligator",
+        "bobcat"
+      ]
+    },
+    {
+      "question": "cod, pomeranian",
+      "answer": 0,
+      "option": [
+        "cod",
+        "pomeranian"
+      ]
+    },
+    {
+      "question": "giant squid, shih tzu",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "border collie, salmon",
+      "answer": 0,
+      "option": [
+        "border collie",
+        "salmon"
+      ]
+    },
+    {
+      "question": "blue whale, hamster",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "hamster"
+      ]
+    },
+    {
+      "question": "reindeer, sheep",
+      "answer": 0,
+      "option": [
+        "reindeer",
+        "sheep"
+      ]
+    },
+    {
+      "question": "sheep, alligator",
+      "answer": 1,
+      "option": [
+        "sheep",
+        "alligator"
+      ]
+    },
+    {
+      "question": "german shepherd, northern pike",
+      "answer": 0,
+      "option": [
+        "german shepherd",
+        "northern pike"
+      ]
+    },
+    {
+      "question": "ant, mirror carp",
+      "answer": 1,
+      "option": [
+        "ant",
+        "mirror carp"
+      ]
+    },
+    {
+      "question": "anaconda, northern pike",
+      "answer": 0,
+      "option": [
+        "anaconda",
+        "northern pike"
+      ]
+    },
+    {
+      "question": "rottweiler, penguin",
+      "answer": 0,
+      "option": [
+        "rottweiler",
+        "penguin"
+      ]
+    },
+    {
+      "question": "walrus, salmon",
+      "answer": 0,
+      "option": [
+        "walrus",
+        "salmon"
+      ]
+    },
+    {
+      "question": "cod, bobcat",
+      "answer": 0,
+      "option": [
+        "cod",
+        "bobcat"
+      ]
+    },
+    {
+      "question": "walrus, hamster",
+      "answer": 0,
+      "option": [
+        "walrus",
+        "hamster"
+      ]
+    },
+    {
+      "question": "brown bear, salmon",
+      "answer": 0,
+      "option": [
+        "brown bear",
+        "salmon"
+      ]
+    },
+    {
+      "question": "pomeranian, penguin",
+      "answer": 1,
+      "option": [
+        "pomeranian",
+        "penguin"
+      ]
+    },
+    {
+      "question": "penguin, ant",
+      "answer": 0,
+      "option": [
+        "penguin",
+        "ant"
+      ]
+    },
+    {
+      "question": "salmon, alligator",
+      "answer": 1,
+      "option": [
+        "salmon",
+        "alligator"
+      ]
+    },
+    {
+      "question": "anaconda, ant",
+      "answer": 0,
+      "option": [
+        "anaconda",
+        "ant"
+      ]
+    },
+    {
+      "question": "bobcat, humpback whale",
+      "answer": 1,
+      "option": [
+        "bobcat",
+        "humpback whale"
+      ]
+    },
+    {
+      "question": "ant, northern pike",
+      "answer": 1,
+      "option": [
+        "ant",
+        "northern pike"
+      ]
+    },
+    {
+      "question": "owl, rottweiler",
+      "answer": 1,
+      "option": [
+        "owl",
+        "rottweiler"
+      ]
+    },
+    {
+      "question": "border collie, ant",
+      "answer": 0,
+      "option": [
+        "border collie",
+        "ant"
+      ]
+    },
+    {
+      "question": "cod, ant",
+      "answer": 0,
+      "option": [
+        "cod",
+        "ant"
+      ]
+    },
+    {
+      "question": "shih tzu, ant",
+      "answer": 0,
+      "option": [
+        "shih tzu",
+        "ant"
+      ]
+    },
+    {
+      "question": "owl, reindeer",
+      "answer": 1,
+      "option": [
+        "owl",
+        "reindeer"
+      ]
+    },
+    {
+      "question": "penguin, brown bear",
+      "answer": 1,
+      "option": [
+        "penguin",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "bobcat, brown bear",
+      "answer": 1,
+      "option": [
+        "bobcat",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "blue whale, baboons",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "baboons"
+      ]
+    },
+    {
+      "question": "baboons, ant",
+      "answer": 0,
+      "option": [
+        "baboons",
+        "ant"
+      ]
+    },
+    {
+      "question": "northern pike, cod",
+      "answer": 1,
+      "option": [
+        "northern pike",
+        "cod"
+      ]
+    },
+    {
+      "question": "penguin, giant squid",
+      "answer": 1,
+      "option": [
+        "penguin",
+        "giant squid"
+      ]
+    },
+    {
+      "question": "pomeranian, blue whale",
+      "answer": 1,
+      "option": [
+        "pomeranian",
+        "blue whale"
+      ]
+    },
+    {
+      "question": "anaconda, owl",
+      "answer": 0,
+      "option": [
+        "anaconda",
+        "owl"
+      ]
+    },
+    {
+      "question": "blue whale, penguin",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "penguin"
+      ]
+    },
+    {
+      "question": "sheep, anaconda",
+      "answer": 1,
+      "option": [
+        "sheep",
+        "anaconda"
+      ]
+    },
+    {
+      "question": "pomeranian, shih tzu",
+      "answer": 1,
+      "option": [
+        "pomeranian",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "cod, penguin",
+      "answer": 0,
+      "option": [
+        "cod",
+        "penguin"
+      ]
+    },
+    {
+      "question": "mirror carp, blue whale",
+      "answer": 1,
+      "option": [
+        "mirror carp",
+        "blue whale"
+      ]
+    },
+    {
+      "question": "northern pike, rottweiler",
+      "answer": 1,
+      "option": [
+        "northern pike",
+        "rottweiler"
+      ]
+    },
+    {
+      "question": "reindeer, cod",
+      "answer": 0,
+      "option": [
+        "reindeer",
+        "cod"
+      ]
+    },
+    {
+      "question": "penguin, german shepherd",
+      "answer": 1,
+      "option": [
+        "penguin",
+        "german shepherd"
+      ]
+    },
+    {
+      "question": "border collie, shih tzu",
+      "answer": 0,
+      "option": [
+        "border collie",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "hamster, reindeer",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "reindeer"
+      ]
+    },
+    {
+      "question": "bobcat, baboons",
+      "answer": 1,
+      "option": [
+        "bobcat",
+        "baboons"
+      ]
+    },
+    {
+      "question": "shih tzu, walrus",
+      "answer": 1,
+      "option": [
+        "shih tzu",
+        "walrus"
+      ]
+    },
+    {
+      "question": "border collie, brown bear",
+      "answer": 1,
+      "option": [
+        "border collie",
+        "brown bear"
+      ]
+    },
+    {
+      "question": "humpback whale, border collie",
+      "answer": 0,
+      "option": [
+        "humpback whale",
+        "border collie"
+      ]
+    },
+    {
+      "question": "owl, border collie",
+      "answer": 1,
+      "option": [
+        "owl",
+        "border collie"
+      ]
+    },
+    {
+      "question": "salmon, anaconda",
+      "answer": 1,
+      "option": [
+        "salmon",
+        "anaconda"
+      ]
+    },
+    {
+      "question": "walrus, bobcat",
+      "answer": 0,
+      "option": [
+        "walrus",
+        "bobcat"
+      ]
+    },
+    {
+      "question": "giant squid, hamster",
+      "answer": 0,
+      "option": [
+        "giant squid",
+        "hamster"
+      ]
+    },
+    {
+      "question": "hamster, shih tzu",
+      "answer": 1,
+      "option": [
+        "hamster",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "cod, mirror carp",
+      "answer": 0,
+      "option": [
+        "cod",
+        "mirror carp"
+      ]
+    },
+    {
+      "question": "blue whale, shih tzu",
+      "answer": 0,
+      "option": [
+        "blue whale",
+        "shih tzu"
+      ]
+    },
+    {
+      "question": "ant, alligator",
+      "answer": 1,
+      "option": [
+        "ant",
+        "alligator"
+      ]
+    },
+    {
+      "question": "walrus, baboons",
+      "answer": 0,
+      "option": [
+        "walrus",
+        "baboons"
+      ]
+    },
+    {
+      "question": "baboons, hamster",
+      "answer": 0,
+      "option": [
+        "baboons",
+        "hamster"
+      ]
+    },
+    {
+      "question": "german shepherd, pomeranian",
+      "answer": 0,
+      "option": [
+        "german shepherd",
+        "pomeranian"
+      ]
+    },
+    {
+      "question": "brown bear, cod",
+      "answer": 0,
+      "option": [
+        "brown bear",
+        "cod"
+      ]
+    },
+    {
+      "question": "owl, blue whale",
+      "answer": 1,
+      "option": [
+        "owl",
+        "blue whale"
+      ]
+    },
+    {
+      "question": "cod, alligator",
+      "answer": 1,
+      "option": [
+        "cod",
+        "alligator"
+      ]
+    },
+    {
+      "question": "penguin, anaconda",
+      "answer": 1,
+      "option": [
+        "penguin",
+        "anaconda"
+      ]
+    }
+  ]
+}

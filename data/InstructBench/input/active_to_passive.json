@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "The tourists advised the actor.",
+      "answer": "The actor was advised by the tourists."
+    },
+    {
+      "question": "The author stopped the judge.",
+      "answer": "The judge was stopped by the author."
+    },
+    {
+      "question": "The doctor helped the secretaries.",
+      "answer": "The secretaries were helped by the doctor."
+    },
+    {
+      "question": "The lawyer encouraged the scientists.",
+      "answer": "The scientists were encouraged by the lawyer."
+    },
+    {
+      "question": "The lawyers helped the tourist.",
+      "answer": "The tourist was helped by the lawyers."
+    },
+    {
+      "question": "The doctor encouraged the judges.",
+      "answer": "The judges were encouraged by the doctor."
+    },
+    {
+      "question": "The senator avoided the tourists.",
+      "answer": "The tourists were avoided by the senator."
+    },
+    {
+      "question": "The students advised the professor.",
+      "answer": "The professor was advised by the students."
+    },
+    {
+      "question": "The author recommended the manager.",
+      "answer": "The manager was recommended by the author."
+    },
+    {
+      "question": "The doctors believed the tourist.",
+      "answer": "The tourist was believed by the doctors."
+    },
+    {
+      "question": "The manager stopped the doctors.",
+      "answer": "The doctors were stopped by the manager."
+    },
+    {
+      "question": "The student believed the senators.",
+      "answer": "The senators were believed by the student."
+    },
+    {
+      "question": "The scientist recognized the author.",
+      "answer": "The author was recognized by the scientist."
+    },
+    {
+      "question": "The secretary admired the author.",
+      "answer": "The author was admired by the secretary."
+    },
+    {
+      "question": "The authors encouraged the students.",
+      "answer": "The students were encouraged by the authors."
+    },
+    {
+      "question": "The secretary recommended the professor.",
+      "answer": "The professor was recommended by the secretary."
+    },
+    {
+      "question": "The bankers believed the manager.",
+      "answer": "The manager was believed by the bankers."
+    },
+    {
+      "question": "The judges stopped the lawyers.",
+      "answer": "The lawyers were stopped by the judges."
+    },
+    {
+      "question": "The tourist thanked the senators.",
+      "answer": "The senators were thanked by the tourist."
+    },
+    {
+      "question": "The doctors avoided the student.",
+      "answer": "The student was avoided by the doctors."
+    },
+    {
+      "question": "The athletes admired the students.",
+      "answer": "The students were admired by the athletes."
+    },
+    {
+      "question": "The manager thanked the senators.",
+      "answer": "The senators were thanked by the manager."
+    },
+    {
+      "question": "The authors stopped the lawyers.",
+      "answer": "The lawyers were stopped by the authors."
+    },
+    {
+      "question": "The secretaries advised the artist.",
+      "answer": "The artist was advised by the secretaries."
+    },
+    {
+      "question": "The tourist advised the artists.",
+      "answer": "The artists were advised by the tourist."
+    },
+    {
+      "question": "The secretary mentioned the artist.",
+      "answer": "The artist was mentioned by the secretary."
+    },
+    {
+      "question": "The professor avoided the judges.",
+      "answer": "The judges were avoided by the professor."
+    },
+    {
+      "question": "The scientists helped the student.",
+      "answer": "The student was helped by the scientists."
+    },
+    {
+      "question": "The authors avoided the banker.",
+      "answer": "The banker was avoided by the authors."
+    },
+    {
+      "question": "The authors encouraged the president.",
+      "answer": "The president was encouraged by the authors."
+    },
+    {
+      "question": "The doctors thanked the senator.",
+      "answer": "The senator was thanked by the doctors."
+    },
+    {
+      "question": "The senator introduced the lawyer.",
+      "answer": "The lawyer was introduced by the senator."
+    },
+    {
+      "question": "The student supported the professors.",
+      "answer": "The professors were supported by the student."
+    },
+    {
+      "question": "The presidents thanked the senators.",
+      "answer": "The senators were thanked by the presidents."
+    },
+    {
+      "question": "The manager thanked the student.",
+      "answer": "The student was thanked by the manager."
+    },
+    {
+      "question": "The doctors admired the artist.",
+      "answer": "The artist was admired by the doctors."
+    },
+    {
+      "question": "The judge avoided the managers.",
+      "answer": "The managers were avoided by the judge."
+    },
+    {
+      "question": "The athlete recommended the secretary.",
+      "answer": "The secretary was recommended by the athlete."
+    },
+    {
+      "question": "The tourists encouraged the artists.",
+      "answer": "The artists were encouraged by the tourists."
+    },
+    {
+      "question": "The professors mentioned the tourist.",
+      "answer": "The tourist was mentioned by the professors."
+    },
+    {
+      "question": "The secretaries supported the president.",
+      "answer": "The president was supported by the secretaries."
+    },
+    {
+      "question": "The artists recognized the manager.",
+      "answer": "The manager was recognized by the artists."
+    },
+    {
+      "question": "The lawyer recommended the athletes.",
+      "answer": "The athletes were recommended by the lawyer."
+    },
+    {
+      "question": "The artists supported the doctors.",
+      "answer": "The doctors were supported by the artists."
+    },
+    {
+      "question": "The judge admired the bankers.",
+      "answer": "The bankers were admired by the judge."
+    },
+    {
+      "question": "The athletes recognized the doctors.",
+      "answer": "The doctors were recognized by the athletes."
+    },
+    {
+      "question": "The tourist recommended the secretary.",
+      "answer": "The secretary was recommended by the tourist."
+    },
+    {
+      "question": "The professor recommended the banker.",
+      "answer": "The banker was recommended by the professor."
+    },
+    {
+      "question": "The scientist recognized the student.",
+      "answer": "The student was recognized by the scientist."
+    },
+    {
+      "question": "The tourists contacted the scientist.",
+      "answer": "The scientist was contacted by the tourists."
+    }
+  ],
+  "val": [
+    {
+      "question": "The professor recommended the judges.",
+      "answer": "The judges were recommended by the professor."
+    },
+    {
+      "question": "The tourists recommended the lawyer.",
+      "answer": "The lawyer was recommended by the tourists."
+    },
+    {
+      "question": "The athlete encouraged the student.",
+      "answer": "The student was encouraged by the athlete."
+    },
+    {
+      "question": "The students supported the athletes.",
+      "answer": "The athletes were supported by the students."
+    },
+    {
+      "question": "The president encouraged the professor.",
+      "answer": "The professor was encouraged by the president."
+    },
+    {
+      "question": "The author helped the manager.",
+      "answer": "The manager was helped by the author."
+    },
+    {
+      "question": "The artist recognized the secretaries.",
+      "answer": "The secretaries were recognized by the artist."
+    },
+    {
+      "question": "The secretary recommended the students.",
+      "answer": "The students were recommended by the secretary."
+    },
+    {
+      "question": "The lawyers mentioned the author.",
+      "answer": "The author was mentioned by the lawyers."
+    },
+    {
+      "question": "The doctors recommended the manager.",
+      "answer": "The manager was recommended by the doctors."
+    },
+    {
+      "question": "The secretary contacted the tourist.",
+      "answer": "The tourist was contacted by the secretary."
+    },
+    {
+      "question": "The actor advised the senator.",
+      "answer": "The senator was advised by the actor."
+    },
+    {
+      "question": "The secretaries stopped the presidents.",
+      "answer": "The presidents were stopped by the secretaries."
+    },
+    {
+      "question": "The president encouraged the actor.",
+      "answer": "The actor was encouraged by the president."
+    },
+    {
+      "question": "The managers recommended the student.",
+      "answer": "The student was recommended by the managers."
+    },
+    {
+      "question": "The athlete admired the judge.",
+      "answer": "The judge was admired by the athlete."
+    },
+    {
+      "question": "The scientists contacted the tourists.",
+      "answer": "The tourists were contacted by the scientists."
+    },
+    {
+      "question": "The scientist mentioned the student.",
+      "answer": "The student was mentioned by the scientist."
+    },
+    {
+      "question": "The professor stopped the senators.",
+      "answer": "The senators were stopped by the professor."
+    },
+    {
+      "question": "The judges supported the lawyer.",
+      "answer": "The lawyer was supported by the judges."
+    }
+  ],
+  "test": [
+    {
+      "question": "The artist admired the managers.",
+      "answer": "The managers were admired by the artist."
+    },
+    {
+      "question": "The doctors recognized the athletes.",
+      "answer": "The athletes were recognized by the doctors."
+    },
+    {
+      "question": "The professor mentioned the artist.",
+      "answer": "The artist was mentioned by the professor."
+    },
+    {
+      "question": "The student supported the professor.",
+      "answer": "The professor was supported by the student."
+    },
+    {
+      "question": "The tourist admired the authors.",
+      "answer": "The authors were admired by the tourist."
+    },
+    {
+      "question": "The secretary contacted the athletes.",
+      "answer": "The athletes were contacted by the secretary."
+    },
+    {
+      "question": "The athlete encouraged the scientists.",
+      "answer": "The scientists were encouraged by the athlete."
+    },
+    {
+      "question": "The artists introduced the manager.",
+      "answer": "The manager was introduced by the artists."
+    },
+    {
+      "question": "The secretary recommended the tourists.",
+      "answer": "The tourists were recommended by the secretary."
+    },
+    {
+      "question": "The tourist recommended the manager.",
+      "answer": "The manager was recommended by the tourist."
+    },
+    {
+      "question": "The authors stopped the manager.",
+      "answer": "The manager was stopped by the authors."
+    },
+    {
+      "question": "The secretaries recommended the students.",
+      "answer": "The students were recommended by the secretaries."
+    },
+    {
+      "question": "The professor mentioned the scientist.",
+      "answer": "The scientist was mentioned by the professor."
+    },
+    {
+      "question": "The actor recognized the manager.",
+      "answer": "The manager was recognized by the actor."
+    },
+    {
+      "question": "The tourists introduced the doctors.",
+      "answer": "The doctors were introduced by the tourists."
+    },
+    {
+      "question": "The athlete thanked the author.",
+      "answer": "The author was thanked by the athlete."
+    },
+    {
+      "question": "The president admired the managers.",
+      "answer": "The managers were admired by the president."
+    },
+    {
+      "question": "The banker recognized the tourists.",
+      "answer": "The tourists were recognized by the banker."
+    },
+    {
+      "question": "The manager believed the athletes.",
+      "answer": "The athletes were believed by the manager."
+    },
+    {
+      "question": "The presidents introduced the authors.",
+      "answer": "The authors were introduced by the presidents."
+    },
+    {
+      "question": "The scientist admired the tourist.",
+      "answer": "The tourist was admired by the scientist."
+    },
+    {
+      "question": "The athlete stopped the president.",
+      "answer": "The president was stopped by the athlete."
+    },
+    {
+      "question": "The doctor stopped the managers.",
+      "answer": "The managers were stopped by the doctor."
+    },
+    {
+      "question": "The artists admired the doctor.",
+      "answer": "The doctor was admired by the artists."
+    },
+    {
+      "question": "The tourist encouraged the managers.",
+      "answer": "The managers were encouraged by the tourist."
+    },
+    {
+      "question": "The judges contacted the athletes.",
+      "answer": "The athletes were contacted by the judges."
+    },
+    {
+      "question": "The tourists helped the manager.",
+      "answer": "The manager was helped by the tourists."
+    },
+    {
+      "question": "The president mentioned the secretaries.",
+      "answer": "The secretaries were mentioned by the president."
+    },
+    {
+      "question": "The judges mentioned the professor.",
+      "answer": "The professor was mentioned by the judges."
+    },
+    {
+      "question": "The manager mentioned the president.",
+      "answer": "The president was mentioned by the manager."
+    },
+    {
+      "question": "The judge contacted the managers.",
+      "answer": "The managers were contacted by the judge."
+    },
+    {
+      "question": "The presidents avoided the scientist.",
+      "answer": "The scientist was avoided by the presidents."
+    },
+    {
+      "question": "The banker advised the students.",
+      "answer": "The students were advised by the banker."
+    },
+    {
+      "question": "The presidents introduced the scientist.",
+      "answer": "The scientist was introduced by the presidents."
+    },
+    {
+      "question": "The actor recognized the senators.",
+      "answer": "The senators were recognized by the actor."
+    },
+    {
+      "question": "The actor recognized the professor.",
+      "answer": "The professor was recognized by the actor."
+    },
+    {
+      "question": "The authors mentioned the lawyer.",
+      "answer": "The lawyer was mentioned by the authors."
+    },
+    {
+      "question": "The tourist supported the secretaries.",
+      "answer": "The secretaries were supported by the tourist."
+    },
+    {
+      "question": "The author stopped the senator.",
+      "answer": "The senator was stopped by the author."
+    },
+    {
+      "question": "The senators admired the lawyers.",
+      "answer": "The lawyers were admired by the senators."
+    },
+    {
+      "question": "The manager believed the presidents.",
+      "answer": "The presidents were believed by the manager."
+    },
+    {
+      "question": "The managers stopped the student.",
+      "answer": "The student was stopped by the managers."
+    },
+    {
+      "question": "The tourists admired the judges.",
+      "answer": "The judges were admired by the tourists."
+    },
+    {
+      "question": "The senator mentioned the doctor.",
+      "answer": "The doctor was mentioned by the senator."
+    },
+    {
+      "question": "The banker advised the tourists.",
+      "answer": "The tourists were advised by the banker."
+    },
+    {
+      "question": "The athletes stopped the student.",
+      "answer": "The student was stopped by the athletes."
+    },
+    {
+      "question": "The students recommended the banker.",
+      "answer": "The banker was recommended by the students."
+    },
+    {
+      "question": "The senator avoided the judges.",
+      "answer": "The judges were avoided by the senator."
+    },
+    {
+      "question": "The athlete mentioned the scientists.",
+      "answer": "The scientists were mentioned by the athlete."
+    },
+    {
+      "question": "The president thanked the manager.",
+      "answer": "The manager was thanked by the president."
+    },
+    {
+      "question": "The doctor thanked the banker.",
+      "answer": "The banker was thanked by the doctor."
+    },
+    {
+      "question": "The doctors admired the student.",
+      "answer": "The student was admired by the doctors."
+    },
+    {
+      "question": "The student recommended the authors.",
+      "answer": "The authors were recommended by the student."
+    },
+    {
+      "question": "The athletes believed the authors.",
+      "answer": "The authors were believed by the athletes."
+    },
+    {
+      "question": "The manager avoided the scientists.",
+      "answer": "The scientists were avoided by the manager."
+    },
+    {
+      "question": "The senators introduced the artist.",
+      "answer": "The artist was introduced by the senators."
+    },
+    {
+      "question": "The senator introduced the bankers.",
+      "answer": "The bankers were introduced by the senator."
+    },
+    {
+      "question": "The senators stopped the professor.",
+      "answer": "The professor was stopped by the senators."
+    },
+    {
+      "question": "The president contacted the athletes.",
+      "answer": "The athletes were contacted by the president."
+    },
+    {
+      "question": "The professors thanked the lawyers.",
+      "answer": "The lawyers were thanked by the professors."
+    },
+    {
+      "question": "The manager believed the doctors.",
+      "answer": "The doctors were believed by the manager."
+    },
+    {
+      "question": "The student supported the tourist.",
+      "answer": "The tourist was supported by the student."
+    },
+    {
+      "question": "The secretaries believed the student.",
+      "answer": "The student was believed by the secretaries."
+    },
+    {
+      "question": "The professors thanked the tourists.",
+      "answer": "The tourists were thanked by the professors."
+    },
+    {
+      "question": "The student recommended the athletes.",
+      "answer": "The athletes were recommended by the student."
+    },
+    {
+      "question": "The tourist thanked the professors.",
+      "answer": "The professors were thanked by the tourist."
+    },
+    {
+      "question": "The actor believed the senators.",
+      "answer": "The senators were believed by the actor."
+    },
+    {
+      "question": "The tourists recommended the artists.",
+      "answer": "The artists were recommended by the tourists."
+    },
+    {
+      "question": "The doctor thanked the actors.",
+      "answer": "The actors were thanked by the doctor."
+    },
+    {
+      "question": "The presidents recommended the lawyer.",
+      "answer": "The lawyer was recommended by the presidents."
+    },
+    {
+      "question": "The judges avoided the students.",
+      "answer": "The students were avoided by the judges."
+    },
+    {
+      "question": "The scientists recommended the tourists.",
+      "answer": "The tourists were recommended by the scientists."
+    },
+    {
+      "question": "The professors stopped the senators.",
+      "answer": "The senators were stopped by the professors."
+    },
+    {
+      "question": "The bankers contacted the senators.",
+      "answer": "The senators were contacted by the bankers."
+    },
+    {
+      "question": "The senator recommended the athletes.",
+      "answer": "The athletes were recommended by the senator."
+    },
+    {
+      "question": "The senator contacted the judge.",
+      "answer": "The judge was contacted by the senator."
+    },
+    {
+      "question": "The tourist recommended the senator.",
+      "answer": "The senator was recommended by the tourist."
+    },
+    {
+      "question": "The artists recognized the author.",
+      "answer": "The author was recognized by the artists."
+    },
+    {
+      "question": "The presidents thanked the lawyers.",
+      "answer": "The lawyers were thanked by the presidents."
+    },
+    {
+      "question": "The actor recommended the artists.",
+      "answer": "The artists were recommended by the actor."
+    },
+    {
+      "question": "The judges supported the manager.",
+      "answer": "The manager was supported by the judges."
+    },
+    {
+      "question": "The senators mentioned the professors.",
+      "answer": "The professors were mentioned by the senators."
+    },
+    {
+      "question": "The professors avoided the artists.",
+      "answer": "The artists were avoided by the professors."
+    },
+    {
+      "question": "The judges helped the professor.",
+      "answer": "The professor was helped by the judges."
+    },
+    {
+      "question": "The lawyer recognized the judge.",
+      "answer": "The judge was recognized by the lawyer."
+    },
+    {
+      "question": "The actor stopped the senator.",
+      "answer": "The senator was stopped by the actor."
+    },
+    {
+      "question": "The tourists advised the president.",
+      "answer": "The president was advised by the tourists."
+    },
+    {
+      "question": "The authors supported the scientist.",
+      "answer": "The scientist was supported by the authors."
+    },
+    {
+      "question": "The bankers avoided the lawyer.",
+      "answer": "The lawyer was avoided by the bankers."
+    },
+    {
+      "question": "The scientist contacted the judge.",
+      "answer": "The judge was contacted by the scientist."
+    },
+    {
+      "question": "The senators recommended the artists.",
+      "answer": "The artists were recommended by the senators."
+    },
+    {
+      "question": "The lawyers recommended the authors.",
+      "answer": "The authors were recommended by the lawyers."
+    },
+    {
+      "question": "The doctor mentioned the tourist.",
+      "answer": "The tourist was mentioned by the doctor."
+    },
+    {
+      "question": "The student helped the president.",
+      "answer": "The president was helped by the student."
+    },
+    {
+      "question": "The lawyers stopped the manager.",
+      "answer": "The manager was stopped by the lawyers."
+    },
+    {
+      "question": "The athlete avoided the bankers.",
+      "answer": "The bankers were avoided by the athlete."
+    },
+    {
+      "question": "The manager advised the professors.",
+      "answer": "The professors were advised by the manager."
+    },
+    {
+      "question": "The judge avoided the banker.",
+      "answer": "The banker was avoided by the judge."
+    },
+    {
+      "question": "The students advised the tourists.",
+      "answer": "The tourists were advised by the students."
+    },
+    {
+      "question": "The authors contacted the doctors.",
+      "answer": "The doctors were contacted by the authors."
+    }
+  ]
+}

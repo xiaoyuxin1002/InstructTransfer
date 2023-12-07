@@ -1,0 +1,1368 @@
+{
+  "train": [
+    {
+      "question": "Sentence 1: Would you please cut the cake? Sentence 2: Cut a hole. Word: cut",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The production of white blood cells. Sentence 2: They hope to increase spaghetti production next year. Word: production",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I see that you have been promoted. Sentence 2: Did you know that she is seeing an older man? Word: see",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: She's an elegant dresser. Sentence 2: He's a very snappy dresser. Word: dresser",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Come into contact with a terrorist group. Sentence 2: Your wish will come true. Word: come",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Answer the door. Sentence 2: She answered the door. Word: answer",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A notice of sale. Sentence 2: An obituary notice. Word: notice",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The French doors admit onto the yard. Sentence 2: He admitted his errors. Word: admit",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The files will erase quickly. Sentence 2: I erased that note because it was wrong. Word: erase",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Open your mouth and say 'aah', directed the doctor. Sentence 2: He stuffed his mouth with candy. Word: mouth",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: There was a small opening between the trees. Sentence 2: A salamander darted out of an opening in the rocks. Word: opening",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A lonely way of life. Sentence 2: Make way for. Word: way",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Break cigarette smoking. Sentence 2: On the hottest day of the year the refrigerator broke. Word: break",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Murder in the second degree. Sentence 2: He earned his degree at Princeton summa cum laude. Word: degree",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Break an alibi. Sentence 2: The dam broke. Word: break",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The piano had a very stiff action. Sentence 2: Recent federal action undermined the segregationist position. Word: action",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It brought out his better side. Sentence 2: He is on the purchasing side of the business. Word: side",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Please follow the guide through the museum. Sentence 2: She followed a guru for years. Word: follow",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Is the direction of the economy a function of government? Sentence 2: I couldn't follow the direction of his thoughts. Word: direction",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He bought his brother's business. Sentence 2: Business has been slow lately. Word: business",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: She can hold an audience spellbound. Sentence 2: Hold your breath. Word: hold",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Strike coins. Sentence 2: A bullet struck him. Word: strike",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Sculpture is a form of art. Sentence 2: To apply for the position, complete the application form. Word: form",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Can you help me carry this table? Sentence 2: Everyone helped out during the earthquake. Word: help",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Do you want to come over to my place later? Sentence 2: He lost his place on the page. Word: place",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Why the sad face? Sentence 2: He washed his face. Word: face",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Fix breakfast for the guests, please. Sentence 2: That'll fix him good! Word: fix",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It was a sturdy table. Sentence 2: He entertained the whole table with his witty remarks. Word: table",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A horse hates having a bit put in its mouth. Sentence 2: The horse was not accustomed to a bit. Word: bit",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: What make of car is that? Sentence 2: What make of car do you drive? Word: make",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Get a life. Sentence 2: Social life. Word: life",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He cast a spell to cure warts. Sentence 2: He whispered a spell as he moved his hands. Word: spell",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The whole school turned out for the game. Sentence 2: The school keeps parents informed. Word: school",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A drop of each sample was analyzed. Sentence 2: They expected the drop would be successful. Word: drop",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: One end of the box was marked 'This side up'. Sentence 2: The ends justify the means. Word: end",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The facts had been brought to the surface. Sentence 2: Three quarters of the Earth's surface is covered by water. Word: surface",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He broke the point of his pencil. Sentence 2: He stuck the point of the knife into a tree. Word: point",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Try the yak butter. Sentence 2: The judge tried both father and son in separate trials. Word: try",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The misery and wretchedness of those slums is intolerable. Sentence 2: She was exhausted by her misery and grief. Word: misery",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It was a case of bad judgment. Sentence 2: A case of the jitters. Word: case",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He was numb with shock. Sentence 2: The old car needed a new set of shocks. Word: shock",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Beat the drum. Sentence 2: Beat one's breast. Word: beat",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Do you want to work after the age of 60? Sentence 2: She works as a waitress to put herself through college. Word: work",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Leave the young fawn alone. Sentence 2: Leave the flowers that you see in the park behind. Word: leave",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: If you were in my place what would you do? Sentence 2: He has a special place in my thoughts. Word: place",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Polish my shoes. Sentence 2: He polished up the chrome until it gleamed. Word: polish",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Develop a market for the new mobile phone. Sentence 2: Please develop this roll of film. Word: develop",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The military academy at West Point. Sentence 2: The French Academy. Word: academy",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The cooling touch of the night air. Sentence 2: This piano has a wonderful touch. Word: touch",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Clothes make the man. Sentence 2: He made to speak but said nothing in the end. Word: make",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "Sentence 1: Did you catch that allusion? Sentence 2: He caught the allusion in her glance. Word: catch",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It was replaced because of its age. Sentence 2: We've known each other for ages. Word: age",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: You take a chance when you let her drive. Sentence 2: We had the chance to meet the president last week. Word: chance",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The washing machine won't go unless it's plugged in. Sentence 2: Her face went red with anger. Word: go",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Drift the cattle herds westwards. Sentence 2: The balloon was drifting in the breeze. Word: drift",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It will pay to wait. Sentence 2: You'll pay for this opinion later. Word: pay",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Grade A milk. Sentence 2: He got a good grade on the test. Word: grade",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Draw pulp from the fruit. Sentence 2: Draw blood and pus. Word: draw",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The two stories don't agree in many details. Sentence 2: We agreed what to do. Word: agree",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I can not accept your invitation. Sentence 2: We accept the idea of universal health care. Word: accept",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: They had too much furniture for the small apartment. Sentence 2: There was only one piece of furniture in the room. Word: furniture",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: We had to dress quickly. Sentence 2: Can the child dress by herself? Word: dress",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He placed a phone call to London. Sentence 2: She reported several anonymous calls. Word: call",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: We should make Cincinnati by 7 tonight. Sentence 2: She was made president of the club. Word: make",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Fall into a strange way of thinking. Sentence 2: They fell out of favor. Word: fall",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Control the budget. Sentence 2: Control an account. Word: control",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hold your temper. Sentence 2: The canteen holds fresh water. Word: hold",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A reduction in the assessment per head of sheep. Sentence 2: 200 head of cattle and 50 head of horses. Word: head",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He was a great actor in his time. Sentence 2: He had a time holding back the tears. Word: time",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He was hospitalized for extreme fatigue. Sentence 2: He was suffering from museum fatigue. Word: fatigue",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "Sentence 1: A profession of disagreement. Sentence 2: My father was a barrister by profession. Word: profession",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: His success in the marathon was unexpected. Sentence 2: The election was a remarkable success for the Whigs. Word: success",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Injustice is a heinous wrong. Sentence 2: He feels that you are in the wrong. Word: wrong",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The operator couldn't get Kobe because of the earthquake. Sentence 2: I'll get this finished by lunchtime. Word: get",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Dip the brush into the paint. Sentence 2: She dipped her knee. Word: dip",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Pinnacle a pediment. Sentence 2: He did not want to be pinnacled. Word: pinnacle",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A string of islands. Sentence 2: The strings played superlatively well. Word: string",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Let's eliminate the course on Akkadian hieroglyphics. Sentence 2: This possibility can be eliminated from our consideration. Word: eliminate",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He beat his breast in anger. Sentence 2: The robin has a red breast. Word: breast",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Make a break for it. Sentence 2: He finally got his big break. Word: break",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: For recreation he wrote poetry and solved crossword puzzles. Sentence 2: Drug abuse is often regarded as a form of recreation. Word: recreation",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: His claim to the property has come under question. Sentence 2: He obeyed without question. Word: question",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: His work established a new department of literature. Sentence 2: Baking is not my department. Word: department",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The engineer marvelled at his construction. Sentence 2: Construction is underway on the new bridge. Word: construction",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He put the cup back in the saucer. Sentence 2: The handle of the cup was missing. Word: cup",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The publisher wants to distribute the book in Asia. Sentence 2: The function distributes the values evenly. Word: distribute",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Don't handle the merchandise. Sentence 2: About his altar, handling holy things -- John Milton. Word: handle",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The breeze rustled the papers on her desk. Sentence 2: The breeze was cooled by the lake. Word: breeze",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Students making aliyah. Sentence 2: He was called on for an aliyah. Word: aliyah",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: All that bowing and scraping did not impress him. Sentence 2: They collected blood scrapings for analysis. Word: scraping",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Post a warning at the dump. Sentence 2: The newspaper posted him in Timbuktu. Word: post",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: State your name. Sentence 2: State your opinion. Word: state",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Threw down the gauntlet. Sentence 2: Took up the gauntlet. Word: gauntlet",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The plane's operation in high winds. Sentence 2: The power of its engine determines its operation. Word: operation",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A thing of the spirit. Sentence 2: Things of the heart. Word: thing",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The aptness of men to follow example. Sentence 2: The aptness of iron to rust. Word: aptness",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He's my best mate. Sentence 2: I'm going to the pub with a few mates. Word: mate",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The child's acquisition of language. Sentence 2: That graphite tennis racquet is quite an acquisition. Word: acquisition",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Youth everywhere rises in revolt. Sentence 2: Her youth and beauty is what attracted him to her. Word: youth",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Direct your anger towards others, not towards yourself. Sentence 2: He directed all his energies into his dissertation. Word: direct",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: These shoes cost $100. Sentence 2: The bill will cost them 500 million dollars. Word: cost",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Fold up the newspaper. Sentence 2: Tony folded the flaps open. Word: fold",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: She ordered some wine for the meal. Sentence 2: Wine is stronger than beer. Word: wine",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Circulate a rumor. Sentence 2: This letter is being circulated among the faculty. Word: circulate",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A branch of Congress. Sentence 2: We have branches in all major suburbs. Word: branch",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The last bastion of communism. Sentence 2: A bastion against corruption. Word: bastion",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The book tells the story of two roommates. Sentence 2: Disney's stories entertain adults as well as children. Word: story",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The embodiment of hope. Sentence 2: A circle was the embodiment of his concept of life. Word: embodiment",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Strike an arc. Sentence 2: The clock struck midnight. Word: strike",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Heel a golf ball. Sentence 2: Heel that dance. Word: heel",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Glaze the bread with eggwhite. Sentence 2: The potter glazed the dishes. Word: glaze",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Pioneers had to cross the continent on foot. Sentence 2: There are seven continents. Word: continent",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Force socialization rarely creates strong friendships, but there are exceptions. Sentence 2: There was too much socialization with the enlisted men. Word: socialization",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The relief pitcher got credit for a save. Sentence 2: The goalie made a brilliant save. Word: save",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Catalytic activity. Sentence 2: They avoided all recreational activity. Word: activity",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The government must do its part. Sentence 2: Religions in all parts of the world. Word: part",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: An invasion of locusts. Sentence 2: An invasion of tourists. Word: invasion",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I promise you my best effort. Sentence 2: I promised somebody my time. Word: promise",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I love French food. Sentence 2: I loved to write. Word: love",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Rise to the occasion. Sentence 2: Her spirits rose when she heard the good news. Word: rise",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Please bracket this remark. Sentence 2: Bracket bookshelves. Word: bracket",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: In the middle of the marathon, David collapsed from fatigue. Sentence 2: Rain during the middle of April. Word: middle",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: There are three synagogues in the Jewish section. Sentence 2: Sections from the left ventricle showed diseased tissue. Word: section",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: English is a cognate of Greek, German, Russian and Persian. Sentence 2: English and, Russian, Icelandic and Irish are all cognates. Word: cognate",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The locks pound the water of the canal. Sentence 2: Pound the roots with a heavy flat stone. Word: pound",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Grind lenses for glasses and cameras. Sentence 2: Grind an axe. Word: grind",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Students receive instruction in the arts and sciences. Sentence 2: Instruction will be provided on how to handle difficult customers. Word: instruction",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I appreciate your efforts. Sentence 2: The yen appreciated again! Word: appreciate",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: This shall not relieve either Party of any obligations. Sentence 2: The thief relieved me of $100. Word: relieve",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Load a car. Sentence 2: Load the truck with hay. Word: load",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He made a great maneuver. Sentence 2: Parallel parking can be a difficult maneuver. Word: maneuver",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Printing at higher resolution will cause a reduction in performance. Sentence 2: They never did achieve a final resolution of their differences. Word: resolution",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He published an unexpected attack on my work. Sentence 2: An attack of diarrhea. Word: attack",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Choke a carburetor. Sentence 2: This neckband is choking the cat. Word: choke",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Indent the documents. Sentence 2: Indent the paragraphs of a letter. Word: indent",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He tripled to the rightfield corner. Sentence 2: The southeastern corner of the Mediterranean. Word: corner",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Inject heroin. Sentence 2: He injected new life into the performance. Word: inject",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Collapse the music stand. Sentence 2: The school system is collapsing. Word: collapse",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: His treatment of the race question is badly biased. Sentence 2: His treatment of space borrows from Italian architecture. Word: treatment",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Violate the sanctity of the church. Sentence 2: This sentence violates the rules of syntax. Word: violate",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: To moderate a synod. Sentence 2: John moderated the discussion. Word: moderate",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Hyenas scavenge. Sentence 2: She scavenged the garbage cans for food. Word: scavenge",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Lie down on the bed until you feel better. Sentence 2: She lied when she told me she was only 29. Word: lie",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: There's too much shadiness to take good photographs. Sentence 2: The shadiness of their transactions. Word: shadiness",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The files will erase quickly. Sentence 2: The chalkboard erased easily. Word: erase",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The invaders spread their language all over the country. Sentence 2: A big oil spot spread across the water. Word: spread",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Juvenile offenses often reflect an inadequacy in the parents. Sentence 2: The inadequacy of unemployment benefits. Word: inadequacy",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Be careful crossing the street. Sentence 2: The whole street protested the absence of lights. Word: street",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: A look of triumph. Sentence 2: His look was fixed on her eyes. Word: look",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: She wanted to aim a pun. Sentence 2: He aimed his fists towards his opponent's face. Word: aim",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The assembly plant is an enormous facility. Sentence 2: Educational facilities. Word: facility",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: To command an army or a ship. Sentence 2: Command the military forces. Word: command",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Belabor the obvious. Sentence 2: She was belabored by her fellow students. Word: belabor",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I need him to be nice. Sentence 2: I needed him to go. Word: need",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He used terror to make them confess. Sentence 2: He was the terror of the neighborhood. Word: terror",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: I am trying to contact my sister. Sentence 2: He never contacted his children after he emigrated to Australia. Word: contact",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The whole body filed out of the auditorium. Sentence 2: The student body. Word: body",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Bell cows. Sentence 2: Who will bell the cat? Word: bell",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Engrave a letter. Sentence 2: Engrave a pen. Word: engrave",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: They had to consult before arriving at a decision. Sentence 2: Consult your local broker. Word: consult",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: An assurance of help when needed. Sentence 2: His assurance in his superiority did not make him popular. Word: assurance",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: There was an art exhibition on in the town hall. Sentence 2: A boat exhibition. Word: exhibition",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Flood the market with tennis shoes. Sentence 2: The swollen river flooded the village. Word: flood",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: Tap a keg of beer. Sentence 2: Tap a maple tree for its syrup. Word: tap",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: They gave full play to the artist's talent. Sentence 2: It was all done in play. Word: play",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The woman charged that her jailer was a fondler. Sentence 2: Not all fondlers are sexual perverts. Word: fondler",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: The stick does not bend. Sentence 2: Bend your knees. Word: bend",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: She can not conceive. Sentence 2: Assisted procreation can help those trying to conceive. Word: conceive",
+      "answer": 0,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: It was the deliberation of his act that was insulting. Sentence 2: The deliberations of the jury. Word: deliberation",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    },
+    {
+      "question": "Sentence 1: He got a bang on the head. Sentence 2: They got a great bang out of it. Word: bang",
+      "answer": 1,
+      "option": [
+        "same",
+        "not the same"
+      ]
+    }
+  ]
+}

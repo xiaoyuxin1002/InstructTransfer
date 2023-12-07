@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "river",
+      "answer": "rivers"
+    },
+    {
+      "question": "vector",
+      "answer": "vectors"
+    },
+    {
+      "question": "composition",
+      "answer": "compositions"
+    },
+    {
+      "question": "story",
+      "answer": "stories"
+    },
+    {
+      "question": "spiral",
+      "answer": "spirals"
+    },
+    {
+      "question": "dose",
+      "answer": "doses"
+    },
+    {
+      "question": "riff",
+      "answer": "riffs"
+    },
+    {
+      "question": "record",
+      "answer": "records"
+    },
+    {
+      "question": "prayer",
+      "answer": "prayers"
+    },
+    {
+      "question": "rest",
+      "answer": "rests"
+    },
+    {
+      "question": "belt",
+      "answer": "belts"
+    },
+    {
+      "question": "group",
+      "answer": "groups"
+    },
+    {
+      "question": "cameo",
+      "answer": "cameos"
+    },
+    {
+      "question": "result",
+      "answer": "results"
+    },
+    {
+      "question": "catalogue",
+      "answer": "catalogues"
+    },
+    {
+      "question": "trend",
+      "answer": "trends"
+    },
+    {
+      "question": "praise",
+      "answer": "praises"
+    },
+    {
+      "question": "analogy",
+      "answer": "analogies"
+    },
+    {
+      "question": "cause",
+      "answer": "causes"
+    },
+    {
+      "question": "surface",
+      "answer": "surfaces"
+    },
+    {
+      "question": "accommodate",
+      "answer": "accommodates"
+    },
+    {
+      "question": "goalkeeper",
+      "answer": "goalkeepers"
+    },
+    {
+      "question": "pair",
+      "answer": "pairs"
+    },
+    {
+      "question": "fare",
+      "answer": "fares"
+    },
+    {
+      "question": "asset",
+      "answer": "assets"
+    },
+    {
+      "question": "reader",
+      "answer": "readers"
+    },
+    {
+      "question": "application",
+      "answer": "applications"
+    },
+    {
+      "question": "hotel",
+      "answer": "hotels"
+    },
+    {
+      "question": "contribution",
+      "answer": "contributions"
+    },
+    {
+      "question": "name",
+      "answer": "names"
+    },
+    {
+      "question": "undergraduate",
+      "answer": "undergraduates"
+    },
+    {
+      "question": "genome",
+      "answer": "genomes"
+    },
+    {
+      "question": "proposal",
+      "answer": "proposals"
+    },
+    {
+      "question": "premise",
+      "answer": "premises"
+    },
+    {
+      "question": "verse",
+      "answer": "verses"
+    },
+    {
+      "question": "motorway",
+      "answer": "motorways"
+    },
+    {
+      "question": "author",
+      "answer": "authors"
+    },
+    {
+      "question": "restoration",
+      "answer": "restorations"
+    },
+    {
+      "question": "abundance",
+      "answer": "abundances"
+    },
+    {
+      "question": "page",
+      "answer": "pages"
+    },
+    {
+      "question": "complement",
+      "answer": "complements"
+    },
+    {
+      "question": "arrangement",
+      "answer": "arrangements"
+    },
+    {
+      "question": "session",
+      "answer": "sessions"
+    },
+    {
+      "question": "wavelength",
+      "answer": "wavelengths"
+    },
+    {
+      "question": "atom",
+      "answer": "atoms"
+    },
+    {
+      "question": "signature",
+      "answer": "signatures"
+    },
+    {
+      "question": "enterprise",
+      "answer": "enterprises"
+    },
+    {
+      "question": "cantata",
+      "answer": "cantatas"
+    },
+    {
+      "question": "reel",
+      "answer": "reels"
+    },
+    {
+      "question": "mouth",
+      "answer": "mouths"
+    }
+  ],
+  "val": [
+    {
+      "question": "phrase",
+      "answer": "phrases"
+    },
+    {
+      "question": "future",
+      "answer": "futures"
+    },
+    {
+      "question": "message",
+      "answer": "messages"
+    },
+    {
+      "question": "regiment",
+      "answer": "regiments"
+    },
+    {
+      "question": "city",
+      "answer": "cities"
+    },
+    {
+      "question": "vulnerability",
+      "answer": "vulnerabilities"
+    },
+    {
+      "question": "vocalist",
+      "answer": "vocalists"
+    },
+    {
+      "question": "satellite",
+      "answer": "satellites"
+    },
+    {
+      "question": "corporation",
+      "answer": "corporations"
+    },
+    {
+      "question": "mill",
+      "answer": "mills"
+    },
+    {
+      "question": "consul",
+      "answer": "consuls"
+    },
+    {
+      "question": "excuse",
+      "answer": "excuses"
+    },
+    {
+      "question": "need",
+      "answer": "needs"
+    },
+    {
+      "question": "resonance",
+      "answer": "resonances"
+    },
+    {
+      "question": "locate",
+      "answer": "locates"
+    },
+    {
+      "question": "actress",
+      "answer": "actresses"
+    },
+    {
+      "question": "dragon",
+      "answer": "dragons"
+    },
+    {
+      "question": "expand",
+      "answer": "expands"
+    },
+    {
+      "question": "recommendation",
+      "answer": "recommendations"
+    },
+    {
+      "question": "contain",
+      "answer": "contains"
+    }
+  ],
+  "test": [
+    {
+      "question": "camp",
+      "answer": "camps"
+    },
+    {
+      "question": "coach",
+      "answer": "coaches"
+    },
+    {
+      "question": "broadcaster",
+      "answer": "broadcasters"
+    },
+    {
+      "question": "predecessor",
+      "answer": "predecessors"
+    },
+    {
+      "question": "replica",
+      "answer": "replicas"
+    },
+    {
+      "question": "life",
+      "answer": "lives"
+    },
+    {
+      "question": "spring",
+      "answer": "springs"
+    },
+    {
+      "question": "base",
+      "answer": "bases"
+    },
+    {
+      "question": "mission",
+      "answer": "missions"
+    },
+    {
+      "question": "deck",
+      "answer": "decks"
+    },
+    {
+      "question": "climate",
+      "answer": "climates"
+    },
+    {
+      "question": "closure",
+      "answer": "closures"
+    },
+    {
+      "question": "recreation",
+      "answer": "recreations"
+    },
+    {
+      "question": "insect",
+      "answer": "insects"
+    },
+    {
+      "question": "fence",
+      "answer": "fences"
+    },
+    {
+      "question": "grid",
+      "answer": "grids"
+    },
+    {
+      "question": "justice",
+      "answer": "justices"
+    },
+    {
+      "question": "commander",
+      "answer": "commanders"
+    },
+    {
+      "question": "distortion",
+      "answer": "distortions"
+    },
+    {
+      "question": "career",
+      "answer": "careers"
+    },
+    {
+      "question": "issue",
+      "answer": "issues"
+    },
+    {
+      "question": "kit",
+      "answer": "kits"
+    },
+    {
+      "question": "style",
+      "answer": "styles"
+    },
+    {
+      "question": "end",
+      "answer": "ends"
+    },
+    {
+      "question": "shower",
+      "answer": "showers"
+    },
+    {
+      "question": "cruiser",
+      "answer": "cruisers"
+    },
+    {
+      "question": "player",
+      "answer": "players"
+    },
+    {
+      "question": "kilometre",
+      "answer": "kilometres"
+    },
+    {
+      "question": "genus",
+      "answer": "genera"
+    },
+    {
+      "question": "king",
+      "answer": "kings"
+    },
+    {
+      "question": "roadway",
+      "answer": "roadways"
+    },
+    {
+      "question": "bath",
+      "answer": "baths"
+    },
+    {
+      "question": "monument",
+      "answer": "monuments"
+    },
+    {
+      "question": "journey",
+      "answer": "journeys"
+    },
+    {
+      "question": "electron",
+      "answer": "electrons"
+    },
+    {
+      "question": "guy",
+      "answer": "guys"
+    },
+    {
+      "question": "warship",
+      "answer": "warships"
+    },
+    {
+      "question": "car",
+      "answer": "cars"
+    },
+    {
+      "question": "supporter",
+      "answer": "supporters"
+    },
+    {
+      "question": "variant",
+      "answer": "variants"
+    },
+    {
+      "question": "process",
+      "answer": "processes"
+    },
+    {
+      "question": "outlook",
+      "answer": "outlooks"
+    },
+    {
+      "question": "cartoonist",
+      "answer": "cartoonists"
+    },
+    {
+      "question": "meeting",
+      "answer": "meetings"
+    },
+    {
+      "question": "statute",
+      "answer": "statutes"
+    },
+    {
+      "question": "scorer",
+      "answer": "scorers"
+    },
+    {
+      "question": "face",
+      "answer": "faces"
+    },
+    {
+      "question": "duet",
+      "answer": "duets"
+    },
+    {
+      "question": "configuration",
+      "answer": "configurations"
+    },
+    {
+      "question": "bus",
+      "answer": "buses"
+    },
+    {
+      "question": "assignment",
+      "answer": "assignments"
+    },
+    {
+      "question": "world",
+      "answer": "worlds"
+    },
+    {
+      "question": "denomination",
+      "answer": "denominations"
+    },
+    {
+      "question": "fight",
+      "answer": "fights"
+    },
+    {
+      "question": "photograph",
+      "answer": "photographs"
+    },
+    {
+      "question": "diocese",
+      "answer": "dioceses"
+    },
+    {
+      "question": "sum",
+      "answer": "sums"
+    },
+    {
+      "question": "submarine",
+      "answer": "submarines"
+    },
+    {
+      "question": "wear",
+      "answer": "wears"
+    },
+    {
+      "question": "pressure",
+      "answer": "pressures"
+    },
+    {
+      "question": "offer",
+      "answer": "offers"
+    },
+    {
+      "question": "lap",
+      "answer": "laps"
+    },
+    {
+      "question": "cup",
+      "answer": "cups"
+    },
+    {
+      "question": "loan",
+      "answer": "loans"
+    },
+    {
+      "question": "match",
+      "answer": "matches"
+    },
+    {
+      "question": "shed",
+      "answer": "sheds"
+    },
+    {
+      "question": "merge",
+      "answer": "merges"
+    },
+    {
+      "question": "relation",
+      "answer": "relations"
+    },
+    {
+      "question": "botanist",
+      "answer": "botanists"
+    },
+    {
+      "question": "value",
+      "answer": "values"
+    },
+    {
+      "question": "jet",
+      "answer": "jets"
+    },
+    {
+      "question": "paint",
+      "answer": "paints"
+    },
+    {
+      "question": "singer",
+      "answer": "singers"
+    },
+    {
+      "question": "diversion",
+      "answer": "diversions"
+    },
+    {
+      "question": "stereotype",
+      "answer": "stereotypes"
+    },
+    {
+      "question": "butterfly",
+      "answer": "butterflies"
+    },
+    {
+      "question": "facility",
+      "answer": "facilities"
+    },
+    {
+      "question": "structure",
+      "answer": "structures"
+    },
+    {
+      "question": "development",
+      "answer": "developments"
+    },
+    {
+      "question": "interface",
+      "answer": "interfaces"
+    },
+    {
+      "question": "quartet",
+      "answer": "quartets"
+    },
+    {
+      "question": "feud",
+      "answer": "feuds"
+    },
+    {
+      "question": "spine",
+      "answer": "spines"
+    },
+    {
+      "question": "dislike",
+      "answer": "dislikes"
+    },
+    {
+      "question": "star",
+      "answer": "stars"
+    },
+    {
+      "question": "poster",
+      "answer": "posters"
+    },
+    {
+      "question": "typhoon",
+      "answer": "typhoons"
+    },
+    {
+      "question": "jaw",
+      "answer": "jaws"
+    },
+    {
+      "question": "invest",
+      "answer": "invests"
+    },
+    {
+      "question": "sentiment",
+      "answer": "sentiments"
+    },
+    {
+      "question": "triangle",
+      "answer": "triangles"
+    },
+    {
+      "question": "cemetery",
+      "answer": "cemeteries"
+    },
+    {
+      "question": "sculpture",
+      "answer": "sculptures"
+    },
+    {
+      "question": "voter",
+      "answer": "voters"
+    },
+    {
+      "question": "pupil",
+      "answer": "pupils"
+    },
+    {
+      "question": "winner",
+      "answer": "winners"
+    },
+    {
+      "question": "diary",
+      "answer": "diaries"
+    },
+    {
+      "question": "body",
+      "answer": "bodies"
+    },
+    {
+      "question": "enemy",
+      "answer": "enemies"
+    },
+    {
+      "question": "mortar",
+      "answer": "mortars"
+    }
+  ]
+}

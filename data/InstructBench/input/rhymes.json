@@ -1,0 +1,2642 @@
+{
+  "train": [
+    {
+      "question": "afraid",
+      "answer": [
+        "lemonade",
+        "grade",
+        "afraid",
+        "persuade",
+        "trade",
+        "shade"
+      ]
+    },
+    {
+      "question": "pour",
+      "answer": [
+        "floor",
+        "more",
+        "store",
+        "door",
+        "war",
+        "drawer",
+        "anymore",
+        "score",
+        "explore",
+        "shore",
+        "pour",
+        "sore"
+      ]
+    },
+    {
+      "question": "come",
+      "answer": [
+        "from",
+        "come",
+        "some",
+        "drum",
+        "thumb",
+        "sum"
+      ]
+    },
+    {
+      "question": "so",
+      "answer": [
+        "no",
+        "snow",
+        "go",
+        "slow",
+        "oh",
+        "know",
+        "show",
+        "toe",
+        "throw",
+        "grow",
+        "ago",
+        "so",
+        "low",
+        "sew",
+        "blow",
+        "row",
+        "owe"
+      ]
+    },
+    {
+      "question": "information",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "unpack",
+      "answer": [
+        "black",
+        "back",
+        "pack",
+        "snack",
+        "track",
+        "attack",
+        "unpack"
+      ]
+    },
+    {
+      "question": "situation",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "check",
+      "answer": [
+        "check",
+        "deck",
+        "neck"
+      ]
+    },
+    {
+      "question": "black",
+      "answer": [
+        "black",
+        "back",
+        "pack",
+        "snack",
+        "track",
+        "attack",
+        "unpack"
+      ]
+    },
+    {
+      "question": "send",
+      "answer": [
+        "end",
+        "send",
+        "friend",
+        "lend",
+        "spend",
+        "intend",
+        "attend",
+        "defend",
+        "recommend",
+        "trend"
+      ]
+    },
+    {
+      "question": "not",
+      "answer": [
+        "hot",
+        "not",
+        "pot",
+        "spot",
+        "dot"
+      ]
+    },
+    {
+      "question": "organization",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "choose",
+      "answer": [
+        "choose",
+        "lose",
+        "whose",
+        "cruise"
+      ]
+    },
+    {
+      "question": "earth",
+      "answer": [
+        "birth",
+        "earth"
+      ]
+    },
+    {
+      "question": "tight",
+      "answer": [
+        "invite",
+        "light",
+        "night",
+        "right",
+        "write",
+        "flight",
+        "bright",
+        "kite",
+        "polite",
+        "quite",
+        "site",
+        "might",
+        "fight",
+        "despite",
+        "overnight",
+        "tight",
+        "bite",
+        "sight",
+        "height"
+      ]
+    },
+    {
+      "question": "mile",
+      "answer": [
+        "file",
+        "smile",
+        "style",
+        "pile",
+        "mile"
+      ]
+    },
+    {
+      "question": "quite",
+      "answer": [
+        "invite",
+        "light",
+        "night",
+        "right",
+        "write",
+        "flight",
+        "bright",
+        "kite",
+        "polite",
+        "quite",
+        "site",
+        "might",
+        "fight",
+        "despite",
+        "overnight",
+        "tight",
+        "bite",
+        "sight",
+        "height"
+      ]
+    },
+    {
+      "question": "imagination",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "deep",
+      "answer": [
+        "sheep",
+        "sleep",
+        "cheap",
+        "keep",
+        "deep",
+        "asleep",
+        "steep"
+      ]
+    },
+    {
+      "question": "unknown",
+      "answer": [
+        "phone",
+        "alone",
+        "own",
+        "unknown",
+        "bone",
+        "stone",
+        "postpone",
+        "loan",
+        "zone"
+      ]
+    },
+    {
+      "question": "beach",
+      "answer": [
+        "beach",
+        "each",
+        "teach",
+        "peach",
+        "speech",
+        "reach"
+      ]
+    },
+    {
+      "question": "twin",
+      "answer": [
+        "begin",
+        "violin",
+        "thin",
+        "win",
+        "skin",
+        "pin",
+        "twin",
+        "chin"
+      ]
+    },
+    {
+      "question": "relation",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "those",
+      "answer": [
+        "those",
+        "nose",
+        "rose"
+      ]
+    },
+    {
+      "question": "catch",
+      "answer": [
+        "catch",
+        "match",
+        "attach"
+      ]
+    },
+    {
+      "question": "mild",
+      "answer": [
+        "child",
+        "wild",
+        "mild"
+      ]
+    },
+    {
+      "question": "date",
+      "answer": [
+        "late",
+        "plate",
+        "date",
+        "wait",
+        "great",
+        "straight",
+        "hate",
+        "skate",
+        "gate",
+        "state",
+        "create",
+        "weight"
+      ]
+    },
+    {
+      "question": "she",
+      "answer": [
+        "she",
+        "me",
+        "he",
+        "tea",
+        "key",
+        "we",
+        "see",
+        "tree",
+        "sea",
+        "agree",
+        "degree",
+        "free",
+        "disagree",
+        "fee",
+        "bee",
+        "ski",
+        "pea",
+        "knee"
+      ]
+    },
+    {
+      "question": "side",
+      "answer": [
+        "ride",
+        "outside",
+        "guide",
+        "decide",
+        "wide",
+        "side",
+        "bride",
+        "provide",
+        "divide",
+        "hide"
+      ]
+    },
+    {
+      "question": "pear",
+      "answer": [
+        "pair",
+        "chair",
+        "their",
+        "wear",
+        "hair",
+        "there",
+        "fair",
+        "prepare",
+        "share",
+        "square",
+        "repair",
+        "pear",
+        "bear",
+        "air",
+        "declare",
+        "questionnaire",
+        "spare",
+        "rare",
+        "fare",
+        "care",
+        "compare"
+      ]
+    },
+    {
+      "question": "brown",
+      "answer": [
+        "down",
+        "town",
+        "brown",
+        "noun",
+        "clown",
+        "downtown"
+      ]
+    },
+    {
+      "question": "guy",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "voice",
+      "answer": [
+        "choice",
+        "voice"
+      ]
+    },
+    {
+      "question": "oh",
+      "answer": [
+        "no",
+        "snow",
+        "go",
+        "slow",
+        "oh",
+        "know",
+        "show",
+        "toe",
+        "throw",
+        "grow",
+        "ago",
+        "so",
+        "low",
+        "sew",
+        "blow",
+        "row",
+        "owe"
+      ]
+    },
+    {
+      "question": "very",
+      "answer": [
+        "very",
+        "ferry",
+        "marry",
+        "scary",
+        "bury"
+      ]
+    },
+    {
+      "question": "degree",
+      "answer": [
+        "she",
+        "me",
+        "he",
+        "tea",
+        "key",
+        "we",
+        "see",
+        "tree",
+        "sea",
+        "agree",
+        "degree",
+        "free",
+        "disagree",
+        "fee",
+        "bee",
+        "ski",
+        "pea",
+        "knee"
+      ]
+    },
+    {
+      "question": "explain",
+      "answer": [
+        "plane",
+        "rain",
+        "train",
+        "explain",
+        "brain",
+        "chain",
+        "pain",
+        "champagne",
+        "stain",
+        "complain",
+        "contain",
+        "main",
+        "gain",
+        "plain"
+      ]
+    },
+    {
+      "question": "pick",
+      "answer": [
+        "quick",
+        "kick",
+        "click",
+        "sick",
+        "trick",
+        "pick",
+        "stick",
+        "thick"
+      ]
+    },
+    {
+      "question": "quit",
+      "answer": [
+        "sit",
+        "hit",
+        "fit",
+        "quit",
+        "admit",
+        "knit",
+        "bit",
+        "kit"
+      ]
+    },
+    {
+      "question": "rude",
+      "answer": [
+        "food",
+        "include",
+        "rude",
+        "mood"
+      ]
+    },
+    {
+      "question": "zone",
+      "answer": [
+        "phone",
+        "alone",
+        "own",
+        "unknown",
+        "bone",
+        "stone",
+        "postpone",
+        "loan",
+        "zone"
+      ]
+    },
+    {
+      "question": "baseball",
+      "answer": [
+        "small",
+        "all",
+        "tall",
+        "baseball",
+        "ball",
+        "wall",
+        "call",
+        "hall",
+        "mall",
+        "stall",
+        "install"
+      ]
+    },
+    {
+      "question": "my",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "power",
+      "answer": [
+        "flower",
+        "shower",
+        "power",
+        "tower"
+      ]
+    },
+    {
+      "question": "know",
+      "answer": [
+        "no",
+        "snow",
+        "go",
+        "slow",
+        "oh",
+        "know",
+        "show",
+        "toe",
+        "throw",
+        "grow",
+        "ago",
+        "so",
+        "low",
+        "sew",
+        "blow",
+        "row",
+        "owe"
+      ]
+    },
+    {
+      "question": "organization",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "tie",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "yard",
+      "answer": [
+        "hard",
+        "card",
+        "yard",
+        "guard"
+      ]
+    },
+    {
+      "question": "grill",
+      "answer": [
+        "until",
+        "bill",
+        "fill",
+        "till",
+        "hill",
+        "kill",
+        "still",
+        "skill",
+        "grill",
+        "pill",
+        "spill"
+      ]
+    },
+    {
+      "question": "goodbye",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    }
+  ],
+  "val": [
+    {
+      "question": "lake",
+      "answer": [
+        "make",
+        "cake",
+        "take",
+        "break",
+        "steak",
+        "snake",
+        "bake",
+        "lake",
+        "mistake",
+        "awake",
+        "shake",
+        "ache",
+        "brake"
+      ]
+    },
+    {
+      "question": "guest",
+      "answer": [
+        "best",
+        "test",
+        "dressed",
+        "rest",
+        "guest",
+        "west",
+        "northwest",
+        "stressed",
+        "arrest",
+        "breast",
+        "depressed",
+        "southwest",
+        "suggest"
+      ]
+    },
+    {
+      "question": "wet",
+      "answer": [
+        "pet",
+        "yet",
+        "wet",
+        "set",
+        "cigarette",
+        "vet",
+        "let",
+        "jet",
+        "net"
+      ]
+    },
+    {
+      "question": "hi",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "examination",
+      "answer": [
+        "station",
+        "vacation",
+        "conversation",
+        "invitation",
+        "examination",
+        "occupation",
+        "identification",
+        "information",
+        "preparation",
+        "operation",
+        "generation",
+        "celebration",
+        "situation",
+        "imagination",
+        "animation",
+        "relaxation",
+        "population",
+        "punctuation",
+        "reservation",
+        "presentation",
+        "location",
+        "transportation",
+        "registration",
+        "application",
+        "explanation",
+        "communication",
+        "relation",
+        "organization",
+        "immigration"
+      ]
+    },
+    {
+      "question": "bye",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "owe",
+      "answer": [
+        "no",
+        "snow",
+        "go",
+        "slow",
+        "oh",
+        "know",
+        "show",
+        "toe",
+        "throw",
+        "grow",
+        "ago",
+        "so",
+        "low",
+        "sew",
+        "blow",
+        "row",
+        "owe"
+      ]
+    },
+    {
+      "question": "eye",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "tree",
+      "answer": [
+        "she",
+        "me",
+        "he",
+        "tea",
+        "key",
+        "we",
+        "see",
+        "tree",
+        "sea",
+        "agree",
+        "degree",
+        "free",
+        "disagree",
+        "fee",
+        "bee",
+        "ski",
+        "pea",
+        "knee"
+      ]
+    },
+    {
+      "question": "fry",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "form",
+      "answer": [
+        "warm",
+        "storm",
+        "form",
+        "perform",
+        "inform"
+      ]
+    },
+    {
+      "question": "grade",
+      "answer": [
+        "lemonade",
+        "grade",
+        "afraid",
+        "persuade",
+        "trade",
+        "shade"
+      ]
+    },
+    {
+      "question": "complain",
+      "answer": [
+        "plane",
+        "rain",
+        "train",
+        "explain",
+        "brain",
+        "chain",
+        "pain",
+        "champagne",
+        "stain",
+        "complain",
+        "contain",
+        "main",
+        "gain",
+        "plain"
+      ]
+    },
+    {
+      "question": "sky",
+      "answer": [
+        "die",
+        "eye",
+        "buy",
+        "my",
+        "bye",
+        "goodbye",
+        "fly",
+        "hi",
+        "by",
+        "sky",
+        "high",
+        "guy",
+        "lie",
+        "try",
+        "cry",
+        "tie",
+        "dry",
+        "pie",
+        "spy",
+        "apply",
+        "fry",
+        "shy",
+        "nearby"
+      ]
+    },
+    {
+      "question": "through",
+      "answer": [
+        "too",
+        "who",
+        "you",
+        "do",
+        "zoo",
+        "blue",
+        "shoe",
+        "view",
+        "shampoo",
+        "through",
+        "flu",
+        "review",
+        "crew",
+        "kangaroo",
+        "few"
+      ]
+    },
+    {
+      "question": "alike",
+      "answer": [
+        "like",
+        "bike",
+        "alike",
+        "dislike",
+        "strike"
+      ]
+    },
+    {
+      "question": "demand",
+      "answer": [
+        "hand",
+        "band",
+        "understand",
+        "stand",
+        "land",
+        "sand",
+        "demand"
+      ]
+    },
+    {
+      "question": "prepare",
+      "answer": [
+        "pair",
+        "chair",
+        "their",
+        "wear",
+        "hair",
+        "there",
+        "fair",
+        "prepare",
+        "share",
+        "square",
+        "repair",
+        "pear",
+        "bear",
+        "air",
+        "declare",
+        "questionnaire",
+        "spare",
+        "rare",
+        "fare",
+        "care",
+        "compare"
+      ]
+    },
+    {
+      "question": "clear",
+      "answer": [
+        "near",
+        "dear",
+        "beer",
+        "year",
+        "clear",
+        "engineer",
+        "fear",
+        "souvenir",
+        "career",
+        "appear"
+      ]
+    },
+    {
+      "question": "lamb",
+      "answer": [
+        "exam",
+        "gram",
+        "tram",
+        "jam",
+        "ham",
+        "lamb",
+        "damn"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "question": "sandal",
+      "answer": [
+        "handle",
+        "candle",
+        "sandal"
+      ]
+    },
+    {
+      "question": "rice",
+      "answer": [
+        "rice",
+        "price",
+        "ice",
+        "twice",
+        "slice",
+        "spice"
+      ]
+    },
+    {
+      "question": "slice",
+      "answer": [
+        "rice",
+        "price",
+        "ice",
+        "twice",
+        "slice",
+        "spice"
+      ]
+    },
+    {
+      "question": "cage",
+      "answer": [
+        "page",
+        "age",
+        "stage",
+        "wage",
+        "cage"
+      ]
+    },
+    {
+      "question": "pull",
+      "answer": [
+        "pull",
+        "full",
+        "wool",
+        "bull"
+      ]
+    },
+    {
+      "question": "start",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "street",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "shop",
+      "answer": [
+        "stop",
+        "shop",
+        "pop",
+        "crop"
+      ]
+    },
+    {
+      "question": "pump",
+      "answer": [
+        "jump",
+        "pump"
+      ]
+    },
+    {
+      "question": "delay",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "heat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "sock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "smart",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "myself",
+      "answer": [
+        "myself",
+        "itself",
+        "shelf",
+        "himself",
+        "herself"
+      ]
+    },
+    {
+      "question": "delete",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "stop",
+      "answer": [
+        "stop",
+        "shop",
+        "pop",
+        "crop"
+      ]
+    },
+    {
+      "question": "leaf",
+      "answer": [
+        "beef",
+        "thief",
+        "leaf",
+        "brief"
+      ]
+    },
+    {
+      "question": "say",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "compete",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "crop",
+      "answer": [
+        "stop",
+        "shop",
+        "pop",
+        "crop"
+      ]
+    },
+    {
+      "question": "police",
+      "answer": [
+        "police",
+        "piece",
+        "niece",
+        "peace"
+      ]
+    },
+    {
+      "question": "impossible",
+      "answer": [
+        "possible",
+        "impossible"
+      ]
+    },
+    {
+      "question": "price",
+      "answer": [
+        "rice",
+        "price",
+        "ice",
+        "twice",
+        "slice",
+        "spice"
+      ]
+    },
+    {
+      "question": "part",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "may",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "soon",
+      "answer": [
+        "afternoon",
+        "noon",
+        "balloon",
+        "cartoon",
+        "soon",
+        "spoon"
+      ]
+    },
+    {
+      "question": "art",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "meet",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "neat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "pay",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "dog",
+      "answer": [
+        "dog",
+        "blog"
+      ]
+    },
+    {
+      "question": "meat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "spice",
+      "answer": [
+        "rice",
+        "price",
+        "ice",
+        "twice",
+        "slice",
+        "spice"
+      ]
+    },
+    {
+      "question": "beef",
+      "answer": [
+        "beef",
+        "thief",
+        "leaf",
+        "brief"
+      ]
+    },
+    {
+      "question": "star",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    },
+    {
+      "question": "rock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "heart",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "exist",
+      "answer": [
+        "list",
+        "insist",
+        "exist"
+      ]
+    },
+    {
+      "question": "greet",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "clock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "apart",
+      "answer": [
+        "part",
+        "start",
+        "heart",
+        "art",
+        "smart",
+        "depart",
+        "apart"
+      ]
+    },
+    {
+      "question": "defeat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "jar",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    },
+    {
+      "question": "seat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "uncomfortable",
+      "answer": [
+        "comfortable",
+        "uncomfortable"
+      ]
+    },
+    {
+      "question": "beat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "display",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "away",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "piece",
+      "answer": [
+        "police",
+        "piece",
+        "niece",
+        "peace"
+      ]
+    },
+    {
+      "question": "block",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "play",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "complete",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "spoon",
+      "answer": [
+        "afternoon",
+        "noon",
+        "balloon",
+        "cartoon",
+        "soon",
+        "spoon"
+      ]
+    },
+    {
+      "question": "herself",
+      "answer": [
+        "myself",
+        "itself",
+        "shelf",
+        "himself",
+        "herself"
+      ]
+    },
+    {
+      "question": "calf",
+      "answer": [
+        "half",
+        "staff",
+        "calf",
+        "laugh",
+        "giraffe"
+      ]
+    },
+    {
+      "question": "they",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "shock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "sightseeing",
+      "answer": [
+        "skiing",
+        "sightseeing"
+      ]
+    },
+    {
+      "question": "pop",
+      "answer": [
+        "stop",
+        "shop",
+        "pop",
+        "crop"
+      ]
+    },
+    {
+      "question": "van",
+      "answer": [
+        "man",
+        "fan",
+        "plan",
+        "pan",
+        "van"
+      ]
+    },
+    {
+      "question": "weigh",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "gay",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "joke",
+      "answer": [
+        "smoke",
+        "joke",
+        "folk"
+      ]
+    },
+    {
+      "question": "wage",
+      "answer": [
+        "page",
+        "age",
+        "stage",
+        "wage",
+        "cage"
+      ]
+    },
+    {
+      "question": "thief",
+      "answer": [
+        "beef",
+        "thief",
+        "leaf",
+        "brief"
+      ]
+    },
+    {
+      "question": "plan",
+      "answer": [
+        "man",
+        "fan",
+        "plan",
+        "pan",
+        "van"
+      ]
+    },
+    {
+      "question": "laugh",
+      "answer": [
+        "half",
+        "staff",
+        "calf",
+        "laugh",
+        "giraffe"
+      ]
+    },
+    {
+      "question": "gray",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "hey",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "wool",
+      "answer": [
+        "pull",
+        "full",
+        "wool",
+        "bull"
+      ]
+    },
+    {
+      "question": "bay",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "page",
+      "answer": [
+        "page",
+        "age",
+        "stage",
+        "wage",
+        "cage"
+      ]
+    },
+    {
+      "question": "eat",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "cartoon",
+      "answer": [
+        "afternoon",
+        "noon",
+        "balloon",
+        "cartoon",
+        "soon",
+        "spoon"
+      ]
+    },
+    {
+      "question": "sheet",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "himself",
+      "answer": [
+        "myself",
+        "itself",
+        "shelf",
+        "himself",
+        "herself"
+      ]
+    },
+    {
+      "question": "stay",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "far",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    },
+    {
+      "question": "day",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "happy",
+      "answer": [
+        "happy",
+        "unhappy"
+      ]
+    },
+    {
+      "question": "man",
+      "answer": [
+        "man",
+        "fan",
+        "plan",
+        "pan",
+        "van"
+      ]
+    },
+    {
+      "question": "staff",
+      "answer": [
+        "half",
+        "staff",
+        "calf",
+        "laugh",
+        "giraffe"
+      ]
+    },
+    {
+      "question": "age",
+      "answer": [
+        "page",
+        "age",
+        "stage",
+        "wage",
+        "cage"
+      ]
+    },
+    {
+      "question": "knock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "way",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "lock",
+      "answer": [
+        "clock",
+        "sock",
+        "block",
+        "rock",
+        "knock",
+        "shock",
+        "lock"
+      ]
+    },
+    {
+      "question": "giraffe",
+      "answer": [
+        "half",
+        "staff",
+        "calf",
+        "laugh",
+        "giraffe"
+      ]
+    },
+    {
+      "question": "only",
+      "answer": [
+        "only",
+        "lonely"
+      ]
+    },
+    {
+      "question": "smoke",
+      "answer": [
+        "smoke",
+        "joke",
+        "folk"
+      ]
+    },
+    {
+      "question": "sweet",
+      "answer": [
+        "eat",
+        "sweet",
+        "street",
+        "meet",
+        "meat",
+        "complete",
+        "seat",
+        "heat",
+        "beat",
+        "defeat",
+        "compete",
+        "greet",
+        "sheet",
+        "delete",
+        "neat"
+      ]
+    },
+    {
+      "question": "stage",
+      "answer": [
+        "page",
+        "age",
+        "stage",
+        "wage",
+        "cage"
+      ]
+    },
+    {
+      "question": "bar",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    },
+    {
+      "question": "peace",
+      "answer": [
+        "police",
+        "piece",
+        "niece",
+        "peace"
+      ]
+    },
+    {
+      "question": "ice",
+      "answer": [
+        "rice",
+        "price",
+        "ice",
+        "twice",
+        "slice",
+        "spice"
+      ]
+    },
+    {
+      "question": "balloon",
+      "answer": [
+        "afternoon",
+        "noon",
+        "balloon",
+        "cartoon",
+        "soon",
+        "spoon"
+      ]
+    },
+    {
+      "question": "pray",
+      "answer": [
+        "pay",
+        "gray",
+        "stay",
+        "play",
+        "day",
+        "they",
+        "say",
+        "away",
+        "way",
+        "may",
+        "delay",
+        "hey",
+        "pray",
+        "bay",
+        "gay",
+        "display",
+        "weigh"
+      ]
+    },
+    {
+      "question": "guitar",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    },
+    {
+      "question": "fan",
+      "answer": [
+        "man",
+        "fan",
+        "plan",
+        "pan",
+        "van"
+      ]
+    },
+    {
+      "question": "itself",
+      "answer": [
+        "myself",
+        "itself",
+        "shelf",
+        "himself",
+        "herself"
+      ]
+    },
+    {
+      "question": "car",
+      "answer": [
+        "car",
+        "guitar",
+        "star",
+        "bar",
+        "far",
+        "jar"
+      ]
+    }
+  ]
+}

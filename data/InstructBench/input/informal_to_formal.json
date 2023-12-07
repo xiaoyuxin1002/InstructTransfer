@@ -1,0 +1,128 @@
+{
+  "train": [
+    {
+      "question": "Thanks for your help.",
+      "answer": "Your assistance is much appreciated."
+    },
+    {
+      "question": "I can't stand his temper.",
+      "answer": "I cannot tolerate his temper."
+    },
+    {
+      "question": "I got what you said.",
+      "answer": "I understood you."
+    },
+    {
+      "question": "Do you want me to go with you?",
+      "answer": "Shall I accompany you?"
+    },
+    {
+      "question": "Can you do all these tasks?",
+      "answer": "Would you be able to accomplish all these tasks?"
+    }
+  ],
+  "val": [
+    {
+      "question": "This song is fire.",
+      "answer": "This song is incredibly good."
+    },
+    {
+      "question": "See you tonight.",
+      "answer": "I look forward to meeting you tonight."
+    },
+    {
+      "question": "I considered many approaches.",
+      "answer": "Various approaches were considered."
+    },
+    {
+      "question": "Please call once you get there.",
+      "answer": "Please call upon your arrival."
+    },
+    {
+      "question": "I can't tell the difference between these two.",
+      "answer": "I find it hard to distinguish between them."
+    },
+    {
+      "question": "The whole story was made up.",
+      "answer": "The entire story was fabricated."
+    },
+    {
+      "question": "The lawyer I met yesterday was helpful. ",
+      "answer": "The lawyer whom I met yesterday was helpful."
+    },
+    {
+      "question": "I think that this is interesting.",
+      "answer": "It is my opinion that this is interesting."
+    },
+    {
+      "question": "We don't think it's a good idea to do anything right now.",
+      "answer": "It is suggested that no action should be taken at this stage."
+    },
+    {
+      "question": "She looks like her sister.",
+      "answer": "She resembles her sister."
+    }
+  ],
+  "test": [
+    {
+      "question": "Tell Jane I said hello.",
+      "answer": "Send Jane my regards."
+    },
+    {
+      "question": "I can't make it.",
+      "answer": "I am afraid I will not be able to attend."
+    },
+    {
+      "question": "What's up?",
+      "answer": "How are you doing?"
+    },
+    {
+      "question": "How about a different approach?",
+      "answer": "Might I suggest a different approach?"
+    },
+    {
+      "question": "The gas prices went up.",
+      "answer": "The gas prices increased."
+    },
+    {
+      "question": "It was nice to meet you.",
+      "answer": "It was a pleasure to meet you."
+    },
+    {
+      "question": "The company will change its policy.",
+      "answer": "The company will revise its policy."
+    },
+    {
+      "question": "This gameplay slaps.",
+      "answer": "This gameplay is well designed."
+    },
+    {
+      "question": "As soon as you can.",
+      "answer": "At your earliest convenience."
+    },
+    {
+      "question": "She wants to help him.",
+      "answer": "She would like to assist him."
+    },
+    {
+      "question": "He read tons of papers on the subject. ",
+      "answer": "He read numerous papers on the subject. "
+    },
+    {
+      "question": "Would you like a drink?",
+      "answer": "May I offer you a beverage?"
+    },
+    {
+      "question": "She can do this.",
+      "answer": "She has the ability to do this."
+    },
+    {
+      "question": "I'm sorry to tell you that your application was rejected.",
+      "answer": "I regret to inform you that your application had been declined."
+    },
+    {
+      "question": "Sorry I messed up.",
+      "answer": "I apologise for my wrongdoings."
+    }
+  ]
+}

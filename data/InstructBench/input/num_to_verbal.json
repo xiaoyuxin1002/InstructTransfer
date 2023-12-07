@@ -1,0 +1,688 @@
+{
+  "train": [
+    {
+      "question": "5640",
+      "answer": "five thousand, six hundred and forty"
+    },
+    {
+      "question": "1709",
+      "answer": "one thousand, seven hundred and nine"
+    },
+    {
+      "question": "5594",
+      "answer": "five thousand, five hundred and ninety-four"
+    },
+    {
+      "question": "8675",
+      "answer": "eight thousand, six hundred and seventy-five"
+    },
+    {
+      "question": "2306",
+      "answer": "two thousand, three hundred and six"
+    },
+    {
+      "question": "5244",
+      "answer": "five thousand, two hundred and forty-four"
+    },
+    {
+      "question": "6059",
+      "answer": "six thousand and fifty-nine"
+    },
+    {
+      "question": "1463",
+      "answer": "one thousand, four hundred and sixty-three"
+    },
+    {
+      "question": "7682",
+      "answer": "seven thousand, six hundred and eighty-two"
+    },
+    {
+      "question": "5346",
+      "answer": "five thousand, three hundred and forty-six"
+    },
+    {
+      "question": "4527",
+      "answer": "four thousand, five hundred and twenty-seven"
+    },
+    {
+      "question": "4472",
+      "answer": "four thousand, four hundred and seventy-two"
+    },
+    {
+      "question": "6077",
+      "answer": "six thousand and seventy-seven"
+    },
+    {
+      "question": "5492",
+      "answer": "five thousand, four hundred and ninety-two"
+    },
+    {
+      "question": "515",
+      "answer": "five hundred and fifteen"
+    },
+    {
+      "question": "3415",
+      "answer": "three thousand, four hundred and fifteen"
+    },
+    {
+      "question": "1797",
+      "answer": "one thousand, seven hundred and ninety-seven"
+    },
+    {
+      "question": "4529",
+      "answer": "four thousand, five hundred and twenty-nine"
+    },
+    {
+      "question": "230",
+      "answer": "two hundred and thirty"
+    },
+    {
+      "question": "6167",
+      "answer": "six thousand, one hundred and sixty-seven"
+    },
+    {
+      "question": "9682",
+      "answer": "nine thousand, six hundred and eighty-two"
+    },
+    {
+      "question": "5169",
+      "answer": "five thousand, one hundred and sixty-nine"
+    },
+    {
+      "question": "3802",
+      "answer": "three thousand, eight hundred and two"
+    },
+    {
+      "question": "3340",
+      "answer": "three thousand, three hundred and forty"
+    },
+    {
+      "question": "257",
+      "answer": "two hundred and fifty-seven"
+    },
+    {
+      "question": "7526",
+      "answer": "seven thousand, five hundred and twenty-six"
+    },
+    {
+      "question": "7317",
+      "answer": "seven thousand, three hundred and seventeen"
+    },
+    {
+      "question": "932",
+      "answer": "nine hundred and thirty-two"
+    },
+    {
+      "question": "8285",
+      "answer": "eight thousand, two hundred and eighty-five"
+    },
+    {
+      "question": "4495",
+      "answer": "four thousand, four hundred and ninety-five"
+    },
+    {
+      "question": "1948",
+      "answer": "one thousand, nine hundred and forty-eight"
+    },
+    {
+      "question": "8938",
+      "answer": "eight thousand, nine hundred and thirty-eight"
+    },
+    {
+      "question": "7142",
+      "answer": "seven thousand, one hundred and forty-two"
+    },
+    {
+      "question": "5268",
+      "answer": "five thousand, two hundred and sixty-eight"
+    },
+    {
+      "question": "6858",
+      "answer": "six thousand, eight hundred and fifty-eight"
+    },
+    {
+      "question": "6969",
+      "answer": "six thousand, nine hundred and sixty-nine"
+    },
+    {
+      "question": "1615",
+      "answer": "one thousand, six hundred and fifteen"
+    },
+    {
+      "question": "2434",
+      "answer": "two thousand, four hundred and thirty-four"
+    },
+    {
+      "question": "8021",
+      "answer": "eight thousand and twenty-one"
+    },
+    {
+      "question": "2301",
+      "answer": "two thousand, three hundred and one"
+    },
+    {
+      "question": "2616",
+      "answer": "two thousand, six hundred and sixteen"
+    },
+    {
+      "question": "1168",
+      "answer": "one thousand, one hundred and sixty-eight"
+    },
+    {
+      "question": "1229",
+      "answer": "one thousand, two hundred and twenty-nine"
+    },
+    {
+      "question": "8910",
+      "answer": "eight thousand, nine hundred and ten"
+    },
+    {
+      "question": "5435",
+      "answer": "five thousand, four hundred and thirty-five"
+    },
+    {
+      "question": "9197",
+      "answer": "nine thousand, one hundred and ninety-seven"
+    },
+    {
+      "question": "8375",
+      "answer": "eight thousand, three hundred and seventy-five"
+    },
+    {
+      "question": "995",
+      "answer": "nine hundred and ninety-five"
+    },
+    {
+      "question": "5534",
+      "answer": "five thousand, five hundred and thirty-four"
+    },
+    {
+      "question": "2261",
+      "answer": "two thousand, two hundred and sixty-one"
+    }
+  ],
+  "val": [
+    {
+      "question": "7894",
+      "answer": "seven thousand, eight hundred and ninety-four"
+    },
+    {
+      "question": "5022",
+      "answer": "five thousand and twenty-two"
+    },
+    {
+      "question": "3609",
+      "answer": "three thousand, six hundred and nine"
+    },
+    {
+      "question": "9552",
+      "answer": "nine thousand, five hundred and fifty-two"
+    },
+    {
+      "question": "1107",
+      "answer": "one thousand, one hundred and seven"
+    },
+    {
+      "question": "5028",
+      "answer": "five thousand and twenty-eight"
+    },
+    {
+      "question": "850",
+      "answer": "eight hundred and fifty"
+    },
+    {
+      "question": "4715",
+      "answer": "four thousand, seven hundred and fifteen"
+    },
+    {
+      "question": "590",
+      "answer": "five hundred and ninety"
+    },
+    {
+      "question": "2552",
+      "answer": "two thousand, five hundred and fifty-two"
+    },
+    {
+      "question": "1193",
+      "answer": "one thousand, one hundred and ninety-three"
+    },
+    {
+      "question": "7180",
+      "answer": "seven thousand, one hundred and eighty"
+    },
+    {
+      "question": "4956",
+      "answer": "four thousand, nine hundred and fifty-six"
+    },
+    {
+      "question": "736",
+      "answer": "seven hundred and thirty-six"
+    },
+    {
+      "question": "7903",
+      "answer": "seven thousand, nine hundred and three"
+    },
+    {
+      "question": "3910",
+      "answer": "three thousand, nine hundred and ten"
+    },
+    {
+      "question": "7260",
+      "answer": "seven thousand, two hundred and sixty"
+    },
+    {
+      "question": "8551",
+      "answer": "eight thousand, five hundred and fifty-one"
+    },
+    {
+      "question": "7354",
+      "answer": "seven thousand, three hundred and fifty-four"
+    },
+    {
+      "question": "2875",
+      "answer": "two thousand, eight hundred and seventy-five"
+    }
+  ],
+  "test": [
+    {
+      "question": "1156",
+      "answer": "one thousand, one hundred and fifty-six"
+    },
+    {
+      "question": "94",
+      "answer": "ninety-four"
+    },
+    {
+      "question": "4919",
+      "answer": "four thousand, nine hundred and nineteen"
+    },
+    {
+      "question": "7594",
+      "answer": "seven thousand, five hundred and ninety-four"
+    },
+    {
+      "question": "1249",
+      "answer": "one thousand, two hundred and forty-nine"
+    },
+    {
+      "question": "2313",
+      "answer": "two thousand, three hundred and thirteen"
+    },
+    {
+      "question": "7933",
+      "answer": "seven thousand, nine hundred and thirty-three"
+    },
+    {
+      "question": "4365",
+      "answer": "four thousand, three hundred and sixty-five"
+    },
+    {
+      "question": "9549",
+      "answer": "nine thousand, five hundred and forty-nine"
+    },
+    {
+      "question": "122",
+      "answer": "one hundred and twenty-two"
+    },
+    {
+      "question": "7144",
+      "answer": "seven thousand, one hundred and forty-four"
+    },
+    {
+      "question": "4506",
+      "answer": "four thousand, five hundred and six"
+    },
+    {
+      "question": "2363",
+      "answer": "two thousand, three hundred and sixty-three"
+    },
+    {
+      "question": "3879",
+      "answer": "three thousand, eight hundred and seventy-nine"
+    },
+    {
+      "question": "4093",
+      "answer": "four thousand and ninety-three"
+    },
+    {
+      "question": "9539",
+      "answer": "nine thousand, five hundred and thirty-nine"
+    },
+    {
+      "question": "5464",
+      "answer": "five thousand, four hundred and sixty-four"
+    },
+    {
+      "question": "239",
+      "answer": "two hundred and thirty-nine"
+    },
+    {
+      "question": "1057",
+      "answer": "one thousand and fifty-seven"
+    },
+    {
+      "question": "1457",
+      "answer": "one thousand, four hundred and fifty-seven"
+    },
+    {
+      "question": "5003",
+      "answer": "five thousand and three"
+    },
+    {
+      "question": "2905",
+      "answer": "two thousand, nine hundred and five"
+    },
+    {
+      "question": "9131",
+      "answer": "nine thousand, one hundred and thirty-one"
+    },
+    {
+      "question": "3524",
+      "answer": "three thousand, five hundred and twenty-four"
+    },
+    {
+      "question": "1612",
+      "answer": "one thousand, six hundred and twelve"
+    },
+    {
+      "question": "2433",
+      "answer": "two thousand, four hundred and thirty-three"
+    },
+    {
+      "question": "5820",
+      "answer": "five thousand, eight hundred and twenty"
+    },
+    {
+      "question": "6819",
+      "answer": "six thousand, eight hundred and nineteen"
+    },
+    {
+      "question": "5598",
+      "answer": "five thousand, five hundred and ninety-eight"
+    },
+    {
+      "question": "8135",
+      "answer": "eight thousand, one hundred and thirty-five"
+    },
+    {
+      "question": "572",
+      "answer": "five hundred and seventy-two"
+    },
+    {
+      "question": "7220",
+      "answer": "seven thousand, two hundred and twenty"
+    },
+    {
+      "question": "1123",
+      "answer": "one thousand, one hundred and twenty-three"
+    },
+    {
+      "question": "504",
+      "answer": "five hundred and four"
+    },
+    {
+      "question": "7669",
+      "answer": "seven thousand, six hundred and sixty-nine"
+    },
+    {
+      "question": "3041",
+      "answer": "three thousand and forty-one"
+    },
+    {
+      "question": "7633",
+      "answer": "seven thousand, six hundred and thirty-three"
+    },
+    {
+      "question": "1816",
+      "answer": "one thousand, eight hundred and sixteen"
+    },
+    {
+      "question": "2784",
+      "answer": "two thousand, seven hundred and eighty-four"
+    },
+    {
+      "question": "9116",
+      "answer": "nine thousand, one hundred and sixteen"
+    },
+    {
+      "question": "5727",
+      "answer": "five thousand, seven hundred and twenty-seven"
+    },
+    {
+      "question": "8438",
+      "answer": "eight thousand, four hundred and thirty-eight"
+    },
+    {
+      "question": "5672",
+      "answer": "five thousand, six hundred and seventy-two"
+    },
+    {
+      "question": "4082",
+      "answer": "four thousand and eighty-two"
+    },
+    {
+      "question": "8324",
+      "answer": "eight thousand, three hundred and twenty-four"
+    },
+    {
+      "question": "3277",
+      "answer": "three thousand, two hundred and seventy-seven"
+    },
+    {
+      "question": "259",
+      "answer": "two hundred and fifty-nine"
+    },
+    {
+      "question": "9225",
+      "answer": "nine thousand, two hundred and twenty-five"
+    },
+    {
+      "question": "753",
+      "answer": "seven hundred and fifty-three"
+    },
+    {
+      "question": "1033",
+      "answer": "one thousand and thirty-three"
+    },
+    {
+      "question": "7746",
+      "answer": "seven thousand, seven hundred and forty-six"
+    },
+    {
+      "question": "4534",
+      "answer": "four thousand, five hundred and thirty-four"
+    },
+    {
+      "question": "2999",
+      "answer": "two thousand, nine hundred and ninety-nine"
+    },
+    {
+      "question": "672",
+      "answer": "six hundred and seventy-two"
+    },
+    {
+      "question": "8686",
+      "answer": "eight thousand, six hundred and eighty-six"
+    },
+    {
+      "question": "8506",
+      "answer": "eight thousand, five hundred and six"
+    },
+    {
+      "question": "6327",
+      "answer": "six thousand, three hundred and twenty-seven"
+    },
+    {
+      "question": "6821",
+      "answer": "six thousand, eight hundred and twenty-one"
+    },
+    {
+      "question": "1375",
+      "answer": "one thousand, three hundred and seventy-five"
+    },
+    {
+      "question": "7797",
+      "answer": "seven thousand, seven hundred and ninety-seven"
+    },
+    {
+      "question": "7202",
+      "answer": "seven thousand, two hundred and two"
+    },
+    {
+      "question": "8865",
+      "answer": "eight thousand, eight hundred and sixty-five"
+    },
+    {
+      "question": "2687",
+      "answer": "two thousand, six hundred and eighty-seven"
+    },
+    {
+      "question": "9486",
+      "answer": "nine thousand, four hundred and eighty-six"
+    },
+    {
+      "question": "648",
+      "answer": "six hundred and forty-eight"
+    },
+    {
+      "question": "7974",
+      "answer": "seven thousand, nine hundred and seventy-four"
+    },
+    {
+      "question": "4954",
+      "answer": "four thousand, nine hundred and fifty-four"
+    },
+    {
+      "question": "444",
+      "answer": "four hundred and forty-four"
+    },
+    {
+      "question": "9854",
+      "answer": "nine thousand, eight hundred and fifty-four"
+    },
+    {
+      "question": "658",
+      "answer": "six hundred and fifty-eight"
+    },
+    {
+      "question": "887",
+      "answer": "eight hundred and eighty-seven"
+    },
+    {
+      "question": "7714",
+      "answer": "seven thousand, seven hundred and fourteen"
+    },
+    {
+      "question": "4844",
+      "answer": "four thousand, eight hundred and forty-four"
+    },
+    {
+      "question": "1234",
+      "answer": "one thousand, two hundred and thirty-four"
+    },
+    {
+      "question": "5670",
+      "answer": "five thousand, six hundred and seventy"
+    },
+    {
+      "question": "7428",
+      "answer": "seven thousand, four hundred and twenty-eight"
+    },
+    {
+      "question": "8678",
+      "answer": "eight thousand, six hundred and seventy-eight"
+    },
+    {
+      "question": "8124",
+      "answer": "eight thousand, one hundred and twenty-four"
+    },
+    {
+      "question": "2737",
+      "answer": "two thousand, seven hundred and thirty-seven"
+    },
+    {
+      "question": "2029",
+      "answer": "two thousand and twenty-nine"
+    },
+    {
+      "question": "742",
+      "answer": "seven hundred and forty-two"
+    },
+    {
+      "question": "1874",
+      "answer": "one thousand, eight hundred and seventy-four"
+    },
+    {
+      "question": "5810",
+      "answer": "five thousand, eight hundred and ten"
+    },
+    {
+      "question": "6182",
+      "answer": "six thousand, one hundred and eighty-two"
+    },
+    {
+      "question": "7440",
+      "answer": "seven thousand, four hundred and forty"
+    },
+    {
+      "question": "316",
+      "answer": "three hundred and sixteen"
+    },
+    {
+      "question": "9747",
+      "answer": "nine thousand, seven hundred and forty-seven"
+    },
+    {
+      "question": "4451",
+      "answer": "four thousand, four hundred and fifty-one"
+    },
+    {
+      "question": "2532",
+      "answer": "two thousand, five hundred and thirty-two"
+    },
+    {
+      "question": "9626",
+      "answer": "nine thousand, six hundred and twenty-six"
+    },
+    {
+      "question": "7881",
+      "answer": "seven thousand, eight hundred and eighty-one"
+    },
+    {
+      "question": "1495",
+      "answer": "one thousand, four hundred and ninety-five"
+    },
+    {
+      "question": "2355",
+      "answer": "two thousand, three hundred and fifty-five"
+    },
+    {
+      "question": "7610",
+      "answer": "seven thousand, six hundred and ten"
+    },
+    {
+      "question": "8242",
+      "answer": "eight thousand, two hundred and forty-two"
+    },
+    {
+      "question": "4416",
+      "answer": "four thousand, four hundred and sixteen"
+    },
+    {
+      "question": "285",
+      "answer": "two hundred and eighty-five"
+    },
+    {
+      "question": "1485",
+      "answer": "one thousand, four hundred and eighty-five"
+    },
+    {
+      "question": "7174",
+      "answer": "seven thousand, one hundred and seventy-four"
+    },
+    {
+      "question": "1914",
+      "answer": "one thousand, nine hundred and fourteen"
+    }
+  ]
+}
